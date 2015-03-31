@@ -82,11 +82,19 @@
 
 - - -
 
+###Palaeographies
+
+- __Derolez__
+
+- __Bischoff__
+
 ###Latin texts
 
 - __Geoffrey of Manmouth__
 
 - __Guido delle Colonne__
+
+	- Should _bestiaries_ be included here?
 
 ###Quick additions (books we can't do without)
 
