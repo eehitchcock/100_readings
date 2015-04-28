@@ -1,5 +1,15 @@
 #First notes: relevant bibliographies and overarching readings
 
+- __OH MAN__!
+
+- __Always__ know the manuscript tradition; have a couple of renown manuscripts available for an easy reference, have an idea of the number of sources that are available, of the crucial textual problems; of __illustrations__.
+
+	- Yes, use illustrations and decorations to talk about the text. We can do this.
+
+##To be consulted profusely
+
+- __Johnson__, Eleanor, _Practicing Literary Theory in the Middle Ages: Ethics and the Mixed Form in Chaucer, Gower, Usk, and Hoccleve_, Chicago, 2013 - The Stacks __PR275.E77 J64 2013__
+
 ##Major __1__: Romance
 
 1. __Marie de France__
@@ -23,8 +33,6 @@
 	1. _Canterbury Tales_
 
 	1. _Troilus and Criseyde_
-
-
 
 ##Major __2__: Vision
 
@@ -137,3 +145,4 @@
 	- Frames of war
 
 - __Agamben__
+
