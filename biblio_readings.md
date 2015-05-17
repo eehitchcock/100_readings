@@ -1,3 +1,67 @@
+#Before the Storm & The Storm
+
+
+##Minor 1
+
+###Le bombe di Chris
+
+- Rita Copeland (UPenn)
+
+	1. _Rhetoric, hermeneutics, and translation in the Middle Ages: Academic Traditions and Vernacular Texts_, Cambridge University Press, Cambridge, 1991 - Stacks: __PA8035 .C6 1991__
+
+		- Also available _online_
+
+		- Using _borrow direct_ for this baby
+
+	2. _Medieval Grammar and Rhetoric: Language Arts and Literary Theory_, Oxford University Press, Oxford, 2009 - Stacks: __PN185 .M37 2009__
+
+		- She also published:
+
+			1. _The Cambridge Companion to Allegory_, Cambridge University Press, Cambridge, 2010 - MIlstein: __PN56.A5 C35 2010__
+
+- Martin Irvine (Georgetown)
+
+	1. _The Making of Textual Culture: Grammatica and Literary Theory, 350-1100_, Cambridge Univeristy Press, Cambridge, 1994 - Stacks: __PN671 .I68 1994__
+
+- John O. Ward (Sydney)
+
+	1. _The Classics in the Medieval and Renaissance Classroom: The Role of Ancient Texts in the Arts Curriculum as Revealed by Surviving Manuscripts and Early Printed Books_, Turnhout, Brepols, 2013 - Stacks: __PA55 .C59 2013g__
+
+- L. D. Reynolds
+
+	1. _Scribes and Scholars: a Guide to the Transmission of Greek and Latin Literature_, Oxford University Press, Oxford, 1991 - Stacks: __PA47 .R4 1991__
+
+
+		- This book is a sort of classic, by the way (first published in 1968!).
+
+- Suzanne Reynolds
+
+	1. _Medieval Reading: Grammar, Rhetoric, and the Classical Text_, Cambridge University Press, Cambridge, 1996 - Stacks: __PN56.A5 C35 2010__
+
+		- We are using borrow direct for this baby too.
+
+- Hugo Buchthal
+
+	1. _Historia Troiana: Studies in the History of Mediaeval Secular Illustration_, University of London, London, 1971 - Avery Off-site: __PN56.A5 C35 2010__
+
+		- Used borrow direct for this baby too
+	
+		- Currently not available
+
+		- Possibly available from NYPL
+
+
+
+- - -
+
+##Observations
+
+- "We have, after all, two options," said he. "We either favor the old, or we favor the new."
+
+	- We were simply thinking, for a moment there, about Eleanor Johnson and the fresh ink of English Medieval literature. Things written for the first time. Inventions of language and genre. Something never seen before. 
+
+- - -
+
 #First notes: relevant bibliographies and overarching readings
 
 - __OH MAN__!
