@@ -5,32 +5,25 @@
 
 ###Le bombe di Chris
 
+####Da trovare
+
 - Rita Copeland (UPenn)
 
 	1. _Rhetoric, hermeneutics, and translation in the Middle Ages: Academic Traditions and Vernacular Texts_, Cambridge University Press, Cambridge, 1991 - Stacks: __PA8035 .C6 1991__
 
 		- Also available _online_
 
-		- Using _borrow direct_ for this baby
-
-	2. _Medieval Grammar and Rhetoric: Language Arts and Literary Theory_, Oxford University Press, Oxford, 2009 - Stacks: __PN185 .M37 2009__
-
-		- She also published:
-
-			1. _The Cambridge Companion to Allegory_, Cambridge University Press, Cambridge, 2010 - MIlstein: __PN56.A5 C35 2010__
+	1. _The Cambridge Companion to Allegory_, Cambridge University Press, Cambridge, 2010 - Milstein: __PN56.A5 C35 2010__
 
 - Martin Irvine (Georgetown)
 
 	1. _The Making of Textual Culture: Grammatica and Literary Theory, 350-1100_, Cambridge Univeristy Press, Cambridge, 1994 - Stacks: __PN671 .I68 1994__
 
-- John O. Ward (Sydney)
-
-	1. _The Classics in the Medieval and Renaissance Classroom: The Role of Ancient Texts in the Arts Curriculum as Revealed by Surviving Manuscripts and Early Printed Books_, Turnhout, Brepols, 2013 - Stacks: __PA55 .C59 2013g__
-
 - L. D. Reynolds
 
-	1. _Scribes and Scholars: a Guide to the Transmission of Greek and Latin Literature_, Oxford University Press, Oxford, 1991 - Stacks: __PA47 .R4 1991__
+	1. _Scribes and Scholars: a Guide to the Transmission of Greek and Latin Literature_, Oxford University Press, Oxford, 1991 - Burke (UTS): __PA47 .R4 1991__
 
+		- Not in the Stacks, apparently	
 
 		- This book is a sort of classic, by the way (first published in 1968!).
 
@@ -50,7 +43,23 @@
 
 		- Possibly available from NYPL
 
+- - -
 
+####Trovati
+
+
+- Rita Copeland (Upenn)
+
+	2. _Medieval Grammar and Rhetoric: Language Arts and Literary Theory_, Oxford University Press, Oxford, 2009 - Stacks: __PN185 .M37 2009__
+
+		- This is a crazy anthology of grammar. Phenomenal. Would work very well along the _Idea of the Vernacular_ anthology (edited by Wogan-Browne, Watson, Taylor and Evans).
+
+
+- John O. Ward (Sydney)
+
+	1. _The Classics in the Medieval and Renaissance Classroom: The Role of Ancient Texts in the Arts Curriculum as Revealed by Surviving Manuscripts and Early Printed Books_, Turnhout, Brepols, 2013 - Stacks: __PA55 .C59 2013g__
+
+		- Vast collection of short essays; not all of them seem relevant. Perhaps a selection could be feasible.
 
 - - -
 
