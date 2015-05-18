@@ -1,19 +1,34 @@
 #Before the Storm & The Storm
 
+##MN1: Rhetorical and Scribal Tradition
 
-##Minor 1
+- Meeting with CB on May 26th.
+
+- By then, try to write __1 or 2 paragraphs__ about what you are trying to accomplish with this list. That is, __what is the question__.
 
 ###Le bombe di Chris
 
 ####Da trovare
+
+- Parkes, Malcom
+
+	1. _Pages from the Past - Medieval Writing Skills and Manuscript Books_, Ashgate, Farnham, 2012
+
+		- Going __Borrow Direct__ with this baby
+
+	1. _Pause and Effect - An Introduction to the History of Punctuation in the West_, University of California Press, Berkeley, 1993
+
+		- Going __Borrow Direct__ with this baby
+
+- Kerby-Fulton, Kathryn (Notre Dame)
+
+	1. _Opening up Middle English Manuscripts: Literary and Visual Approaches_, Cornell University Press, Ithaca, 2012 - Stacks: __Z106.5.G7 K47 2012__
 
 - Rita Copeland (UPenn)
 
 	1. _Rhetoric, hermeneutics, and translation in the Middle Ages: Academic Traditions and Vernacular Texts_, Cambridge University Press, Cambridge, 1991 - Stacks: __PA8035 .C6 1991__
 
 		- Also available _online_
-
-	1. _The Cambridge Companion to Allegory_, Cambridge University Press, Cambridge, 2010 - Milstein: __PN56.A5 C35 2010__
 
 - Martin Irvine (Georgetown)
 
