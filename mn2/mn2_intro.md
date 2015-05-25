@@ -1,10 +1,12 @@
-#Minor List: Continental Chivalrie
+#Minor List: The Question about Chivalry on the Continent and Beyond
 
 __Examiner__: Prof. Jesús Rodríguez-Velasco
 
-On the one hand, to expand the exploration of romance as a genre beyond the scope of insular production; on the other, to ask a series of questions about _chivalrie_.
+##Rationale
 
-With a certain degree of freedom.
+On the one hand, this list is devised as a complement to my major list; it tries to explore the strand of romance, and its manifold transmutations, as they have developed on the continent and, more specifically, in the Franco-Iberian territory, from the second half of the 12th century, with Chrétien de Troyes' Arthurian cycle, to the end of the 14th century, with the short narratives collected in Christine de Pisan's _Epistre Othea_. But, as it expands to incorporate chronicles (Ramón Muntaner, Dom Pedro Afonso) and travel narratives (Ibn Battuta, Ibn Khaldun), this selection is also trying to pose a number of questions related to the ethical and political role of _chivalry_ (_chevalerie_, _caballería_), both in the Christian world and along its geographical and cultural boundaries. What are the ideological foundations of this social class, and how are they related to - or produced by - literary works? How does literature interact with analogous writings - biographical, historiographical - in describing factual events associated to chivalric values (like, for instance, the Albigensian Crusade)? How, instead, does the representation of fictional knighs, and of their exploits, problematize the identity of this category?
+
+##Primary Readings
 
 1. __Chrétien de Troyes__, _Erec and Enide_ (~1170)
 
