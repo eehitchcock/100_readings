@@ -6,15 +6,11 @@
 
 	- Prof. Eleanor Johnson
 
-Although the focus of this list is on the development of Middle English
+##Rationale
 
-Although the focus is on the development of these literary strains in a preeminently Middle English context, both lists include sections in Latin and in different vernacular languages (Anglo-Norman and Italian)
+The purpose of this major list is twofold. On the one hand, I have intended to compose a selection of texts that might provide me with a comprehensive, though certainly not exhaustive, overview of Middle English literature from the mid 13th century to the beginnings of the 15th century. I have therefore tried to include several canonical authors and their principal works (Chaucer, Langland, Gower, and the Pearl Poet), together with a number of renowned pieces produced by anonymous writers (_Wynnere and Wastoure_, _Sir Orfeo_, _The Cloud of Unknowing_, _The York Corpus Christi Cycle_), that are still generally taught, read, and appreciated as the most representative of the period. On the other hand, my aim has been to trace and interpret the development, within this canon, of two influential formal and thematic strands, which I have tentatively defined as _vision_ and _romance_. These constitute the two interweaving polarities around which I have organized this list. This choice should not be understood as a genre distinction, but instead as an exploration of literary tencencies that incoroprate genre (romance, epic, dream and allegorical visions) among several other dynamics, regulating both style and content - partial or complete influence, imitation, translation, tradition, and reaction. This exploratory mode justifies inclusions and divisions that might otherwise seem abrupt or uneven, particularly in the case of the _Pearl_ manuscript or the _Canterbury Tales_, split according to the conjectural filiation of their components (_Sir Gawain and the Green Knight_ and the _Squire's Tale_ for _romance_, _Pearl_ and the _Pardoner's Tale_ for _vision_). The debatability of these demarcations indicates precisely the fundamental literary continuity that I have resolved to investigate. 
 
-Not to establish a history of sources, but to establish a history of formal transitions. One theme (vision) and one genre (Romance), trying to span across different periods and different languages.
-
-the notion of "insular romance" defined by Susan Crane
-
-the shape of "insular romance," as defined by Susan Crane
+It will be noted that, although this list focuses primarily on Middle English literature, I have added a small selection works written in different languages (Latin, insular and continental French, and Italian) and, occasionally, times (12th century and Late Antiquity); the purpose of this inclusion is, again, to trace the development of these two strains - _vision_ and _romance_ - in the context of broad formal and thematic transitions that, as the entirety of medieval culture, transcend and resist linguistic boundaries.
 
 ##Vision
 
@@ -30,6 +26,8 @@ the shape of "insular romance," as defined by Susan Crane
 
 1. __Guillaume de Lorris__ and __Jean de Meun__, Selections from _Roman de la Rose_ (~1237-1280)
 
+1. __Matthew Paris__, _La Estoire de Seint Aedward le Rei_ (~1230-1240)
+
 1. __Dante Alighieri__, _Vita Nuova_ (1295)
 
 1. __-__, Selections from _Commedia_ (1304-1321)
@@ -39,6 +37,8 @@ the shape of "insular romance," as defined by Susan Crane
 1. __Anonymous__, Selections from _The Cloud of Unknowing_ (~1370)
 
 1. __Pearl Poet (?)__, _St. Erkenwald_ (~1380)
+
+1. __Anonymous__, Selections from _The York Corpus Christi Plays_ (~1370-1390)
 
 1. __Geoffrey Chaucer__, _The Book of the Duchess_ (~1370)
 
@@ -57,6 +57,8 @@ the shape of "insular romance," as defined by Susan Crane
 1. __-__, _The Canterbury Tales_, Fragment IX (_The Manciple's Tale_)
 
 1. __-__, _The Canterbury Tales_, Fragment X (esp. _The Parson's Tale_)
+
+1. __Thomas Usk__, Selections from _The Testament of Love_ (~1385)
 
 1. __Pearl Poet__, _Pearl_ (~1390)
 	
@@ -129,3 +131,7 @@ the shape of "insular romance," as defined by Susan Crane
 1. __-__, _The Canterbury Tales_, Fragment VII (esp. _Sir Thopas_)
 
 1. __Anonymous__, _Alliterative Morte Arthure_ (~1400)
+
+1. __John Lydgate__, Selections from _Troy Book_ (1412-1420) 
+
+1. __-__, Selections from _The Siege of Thebes_ (~1421) 
