@@ -1,10 +1,10 @@
-#Major List: Vision and Romance
+#Major List: The Medieval Canon Between Vision and Romance
 
-__Examiners__
+- __Examiners__
 
-- Prof. Susan Crane
+	- Prof. Susan Crane
 
-- Prof. Eleanor Johnson
+	- Prof. Eleanor Johnson
 
 Although the focus of this list is on the development of Middle English
 
@@ -16,9 +16,9 @@ the notion of "insular romance" defined by Susan Crane
 
 the shape of "insular romance," as defined by Susan Crane
 
-##Visionary Texts
+##Vision
 
-###Primary
+###Primary Readings
 
 1. __Augustine__, Selections from _De Trinitate_ (~410)
 
@@ -74,17 +74,21 @@ the shape of "insular romance," as defined by Susan Crane
 
 ##Romance
 
-###Romans d'Antiquité
+###Primary Readings
 
 1. __Anonymous__, Selections from _Roman de Thèbes_ (~1150)
 
 1. __Wace__, Selections from _Roman de Brut_ (~1150)
 
-1. __Anonymous__, _Floire et Blancheflor_ (Old French, ~1180)
+1. __Anonymous__, Selections from _Floire et Blancheflor_ (Old French, ~1180)
 
 2. __Marie de France__, Selections from the _Lais_ (~1180)
 
 1. __Thomas of Kent__, Selections from _Roman de Toute Chevalerie_ (~1190)
+
+1. __Anonymous__, Selections from _Amis e Amilun_ (Anglo-Norman, ~1200)
+
+1. __Anonymous__, Selections from _Gui de Warewic_ (Anglo-Norman, ~1220)
 
 1. __Anonymous__, _King Horn_ (~1240)
 
@@ -92,11 +96,21 @@ the shape of "insular romance," as defined by Susan Crane
 
 1. __Anonymous__, _Havelok the Dane_ (~1280)
 
+1. __Anonymous__, _Of Arthour & of Merlin_ (~1290)
+
+1. __Anonymous__, _Amis and Amiloun_ (~1290)
+
+1. __Anonymous__, _Stanzaic Guy of Warwick_ (~1300)
+
 1. __Anonymous__, _Sir Orfeo_ (~1300)
+
+1. __Anonymous__, _Sir Tristrem_ (~1300)
 
 1. __Anonymous__, _Sir Percevall of Galles_ (~1320)
 
 1. __Giovanni Boccaccio__, Selections from _Decameron_ (1349-1371)
+
+1. __Anonymous__, _Sir Eglamour of Artois_ (~1350)
 
 1. __Pearl Poet__, _Sir Gawain and the Green Knight_ (~1390)
 
