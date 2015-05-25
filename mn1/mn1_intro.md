@@ -34,6 +34,8 @@ a wide understanding of "literary"; book and its context as revealed by - the pr
 
 1. Cambridge, University Library, MS Ee.3.59 (__Estoire de Saint Aedward le Rei__, ~1240)
 
+1. Paris, Bibliothèque Nationale de France, MS 9345 (__Illustrated Roman de la Rose__, ~1300)
+
 1. London, British Library, Add. MS 47682 (__Holkham Bible Picture Book__, ~1325) 
 
 1. London, British Library, Egerton MS 943 (__Egerton Dante__, ~1340)
@@ -49,6 +51,8 @@ a wide understanding of "literary"; book and its context as revealed by - the pr
 1. London, British Library, Harley MS 4431 (__Christine de Pizan's Book of the Queen__ ~1410)
 	
 1. Oxford, Bodleian Library, MS Douce 104 (__Douce Piers Plowman__, 1427)
+
+1. Lincoln, Cathedral Library, MS 91 (__Thornton Manuscript__, 1440~)
 
 ###Secondary Readings
 
