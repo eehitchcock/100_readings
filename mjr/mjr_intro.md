@@ -12,9 +12,7 @@ The purpose of this major list is twofold. On the one hand, I have intended to c
 
 It will be noted that, although this list focuses primarily on Middle English literature, I have added a small selection works written in different languages (Latin, insular and continental French, and Italian) and, occasionally, times (12th century and Late Antiquity); the purpose of this inclusion is, again, to trace the development of these two strains - _vision_ and _romance_ - in the context of broad formal and thematic transitions that, as the entirety of medieval culture, transcend and resist linguistic boundaries.
 
-##Vision
-
-###Primary Readings
+##Primary Readings: Vision
 
 1. __Augustine__, Selections from _De Trinitate_ (~410)
 
@@ -74,9 +72,7 @@ It will be noted that, although this list focuses primarily on Middle English li
 
 1. __Thomas Hoccleve__, _The Series_ (~1421-1426)
 
-##Romance
-
-###Primary Readings
+##Primary Readings: Romance
 
 1. __Anonymous__, Selections from _Roman de Thèbes_ (~1150)
 
@@ -134,4 +130,26 @@ It will be noted that, although this list focuses primarily on Middle English li
 
 1. __John Lydgate__, Selections from _Troy Book_ (1412-1420) 
 
-1. __-__, Selections from _The Siege of Thebes_ (~1421) 
+1. __-__, Selections from _The Siege of Thebes_ (~1421)
+
+##Secondary Readings
+
+1. __Armstrong__, Adrian and __Kay__, Sarah, _Knowing Poetry: Verse in Medieval France from the "Rose" to the Rhétoriqueurs"_, Cornell University Press, Ithaca, 2011
+
+1. __Burrow__, John Anthony, _Ricardian Poetry: Chaucer, Gower, Langland and the Gawain Poet_, Yale University Press, New Haven, 1971
+
+1. __Cannon__, Christopher, _The Grounds of English Literature_, Oxford University Press, Oxford, 2004
+
+1. __Chism__, Christine, _Alliterative Revivals_, University of Pennsylvania Press, 2002
+
+1. __Crane__, Susan, _Insular Romance: Politics, Faith, and Culture in Anglo-Norman and Middle English Literature_, University of California Press, Berkeley, 1986
+
+1. __Donaldson__, E. Talbot, _Speaking of Chaucer_, Athlone Press, 1970
+
+1. __Furrow__, Melissa, _Expectations of Romance: The Reception of a Genre in Medieval England_, D. S. Brewer, Cambridge, 2009
+
+1. __Howard__, Donald, _The Idea of the Canterbury Tales_, University of California Press, Berkeley, 1978
+
+1. __Lynch__, Kathryn L., _Chaucer's Philosophical Visions_, D. S. Brewer, Cambridge, 2000
+
+1. __Strohm__, Paul, _Social Chaucer_, Harvard University Press, Cambridge, 1989
