@@ -146,9 +146,9 @@ It will be noted that, although this list focuses primarily on Middle English li
 
 1. __Donaldson__, E. Talbot, _Speaking of Chaucer_, Athlone Press, 1970
 
-1. __Furrow__, Melissa, _Expectations of Romance: The Reception of a Genre in Medieval England_, D. S. Brewer, Cambridge, 2009
-
 1. __Howard__, Donald, _The Idea of the Canterbury Tales_, University of California Press, Berkeley, 1978
+
+1. __Johnson__, Eleanor, _Practicing Literary Theory in the Middle Ages: Ethics and the Mixed Form in Chaucer, Gower, Usk, and Hoccleve_, University of Chicago Press, Chicago, 2013
 
 1. __Lynch__, Kathryn L., _Chaucer's Philosophical Visions_, D. S. Brewer, Cambridge, 2000
 
