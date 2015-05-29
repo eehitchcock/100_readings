@@ -39,3 +39,15 @@ On the one hand, this list is devised as a complement to my major list; it tries
 1. __Jean Froissart__, Selections from _Méliador_ (1383-1388)
 
 1. __Christine de Pizan__, _Epistre Othea_ (~1400)
+
+##Secondary Readings
+
+1. __Bouchard__, Constance, _Strong of Body, Brave and Noble: Chivalry and Society in Medieval France_, Cornell University Press, Ithaca, 1998
+
+1. __Cohen__, Jeffrey Jerome, _Medieval Identity Machines_, University of Minnesota Press, Minneapolis, 2003
+
+1. __Kaeuper__, Richard W., _Holy Warriors: The Religious Ideology of Chivalry_, University of Pennsylvania Press, Philadelphia, 2009
+
+1. __Keen__, Maurice, _Chivalry_, Yale University Press, New Haven, 1984
+
+1. __Rodríguez-Velasco__, Jesús, _Ciudadanía, Soberanía Monárquica y Caballería: Poética del Orden de Caballería_, Akal, Madrid, 2009
