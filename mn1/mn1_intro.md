@@ -18,9 +18,7 @@ This list proposes to constitute an instrument to investigate the development of
 
 1. __Copeland__, Rita, _Rhetoric, Hermeneutics, and Translation in the Middle Ages_, Cambridge University Press, Cambridge, 1995
 
-1. __Curtius__, E. R., Selections from _European Literature and the Latin Middle Ages_, trans. Willard R. Trask, Bollingen, New York, 1953
-
-1. - __Irvine__, Martin, _The Making of Textual Culture: Grammatica and Literary Theory, 350-1100_, Cambridge Univeristy Press, Cambridge, 1994 - Stacks: __PN671 .I68 1994__
+1.  __Irvine__, Martin, _The Making of Textual Culture: Grammatica and Literary Theory, 350-1100_, Cambridge Univeristy Press, Cambridge, 1994 - Stacks: __PN671 .I68 1994__
 
 1. __Reynolds__, L. D., _Scribes and Scholars: a Guide to the Transmission of Greek and Latin Literature_, Oxford University Press, Oxford, 1991 - Burke (UTS): __PA47 .R4 1991__
 
@@ -28,11 +26,17 @@ This list proposes to constitute an instrument to investigate the development of
 
 1. __Ward__, John O., Selections from _The Classics in the Medieval and Renaissance Classroom: The Role of Ancient Texts in the Arts Curriculum as Revealed by Surviving Manuscripts and Early Printed Books_, Brepols, Turnhout, 2013
 
+- - -
+
+###Discarded Matter
+
+1. __Curtius__, E. R., Selections from _European Literature and the Latin Middle Ages_, trans. Willard R. Trask, Bollingen, New York, 1953
+
+- - -
+
 ##Scriptorium: Manuscript Tradition
 
 ###Primary Readings
-
-1. London, British Library, MS Cotton Cleopatra C VI (__Annotated Ancrene Wisse__, ~1230)
 
 1. Cambridge, University Library, MS Ee.3.59 (__Estoire de Saint Aedward le Rei__, ~1240)
 
@@ -54,7 +58,15 @@ This list proposes to constitute an instrument to investigate the development of
 	
 1. Oxford, Bodleian Library, MS Douce 104 (__Douce Piers Plowman__, 1427)
 
+- - -
+
+###Discarded Matter
+
+1. London, British Library, MS Cotton Cleopatra C VI (__Annotated Ancrene Wisse__, ~1230)
+
 1. Lincoln, Cathedral Library, MS 91 (__Thornton Manuscript__, 1440~)
+
+- - -
 
 ###Secondary Readings
 
@@ -70,10 +82,15 @@ This list proposes to constitute an instrument to investigate the development of
 
 1. __Kerby-Fulton__, Kathryn and __Despres__, Denise L., _Iconography and the Professional Reader: The Politics of Book Production in the Douce Piers Plowman_, University of Minnesota, Minneapolis, 1999
 
-1. __Mooney__, Lynne R., _Chaucer's Scribe_, in _Speculum_, 81, 2006
-
 1. __Parkes__, M. B., _The Influence of the Concepts of_ Ordinatio _and_ Compilatio _on the Development of the Book_, in _Medieval Learning and Literature: Essays Presented to R. W. Hunt_, ed. __Alexander__, J. J. G. and __Gibson__, M. T., Clarendon Press, Oxford, 1976
 
 1. __-__, Selections from _Pages from the Past - Medieval Writing Skills and Manuscript Books_, Ashgate, Farnham, 2012
 
 1. __-__ _Pause and Effect - An Introduction to the History of Punctuation in the West_, University of California Press, Berkeley, 1993
+
+- - -
+
+###Discarded Matter
+
+1. __Mooney__, Lynne R., _Chaucer's Scribe_, in _Speculum_, 81, 2006
+
