@@ -28,8 +28,6 @@ It will be noted that, although this list focuses primarily on Middle English li
 
 1. __Anonymous__, _The Cloud of Unknowing_ (~1370)
 
-1. __Pearl Poet (?)__, _St. Erkenwald_ (~1380)
-
 1. __Anonymous__, _The York Corpus Christi Plays_ (~1370-1390)
 
 1. __Geoffrey Chaucer__, _The House of Fame_ (~1380)
@@ -51,8 +49,6 @@ It will be noted that, although this list focuses primarily on Middle English li
 1. __Pearl Poet__, _Pearl_ (~1390)
 	
 1. __-__, _Cleanness_ (~1390)
-	
-1. __-__, _Patience_ (~1390)
 
 1. __William Langland__, _Piers Plowman_ (C Version) (~1390) 
 
@@ -72,9 +68,13 @@ It will be noted that, although this list focuses primarily on Middle English li
 
 1. __Dante Alighieri__, _Vita Nuova_ (1295)
 
+1. __Pearl Poet (?)__, _St. Erkenwald_ (~1380)
+
 1. __Geoffrey Chaucer__, _The Book of the Duchess_ (~1370)
 
 1. __-__, Selections from _The Legend of Good Women_ (~1386)
+
+1. __Pearl Poet__, _Patience_ (~1390)
 
 - - -
 
