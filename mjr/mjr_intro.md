@@ -14,47 +14,37 @@ It will be noted that, although this list focuses primarily on Middle English li
 
 ##Primary Readings: Vision
 
-1. __Augustine__, Selections from _De Trinitate_ (~410)
-
 1. __Boethius__, _De Consolatione Philosophiae_ (~525)
 
-1. __Alain de Lille__, Selections from _De Planctu Naturae_ (~1160)
-
-1. __Anonymous__, Selections from _Ancrene Wisse_ (~1215)
+1. __Alain de Lille__, _De Planctu Naturae_ (~1160)
 
 1. __Guillaume de Lorris__ and __Jean de Meun__, Selections from _Roman de la Rose_ (~1237-1280)
 
 1. __Matthew Paris__, _La Estoire de Seint Aedward le Rei_ (~1230-1240)
 
-1. __Dante Alighieri__, _Vita Nuova_ (1295)
-
 1. __-__, Selections from _Commedia_ (1304-1321)
 
 1. __Anonymous__, _Wynnere and Wastoure_ (~1350)
 
-1. __Anonymous__, Selections from _The Cloud of Unknowing_ (~1370)
+1. __Anonymous__, _The Cloud of Unknowing_ (~1370)
 
 1. __Pearl Poet (?)__, _St. Erkenwald_ (~1380)
 
-1. __Anonymous__, Selections from _The York Corpus Christi Plays_ (~1370-1390)
+1. __Anonymous__, _The York Corpus Christi Plays_ (~1370-1390)
 
-1. __Geoffrey Chaucer__, _The Book of the Duchess_ (~1370)
-
-1. __-__, _The House of Fame_ (~1380)
+1. __Geoffrey Chaucer__, _The House of Fame_ (~1380)
 	
 1. __-__, _Parlement of Foules_ (~1380)
 
-1. __-__, Selections from _The Legend of Good Women_ (~1386)
-
 1. __-__, _The Canterbury Tales_ (~1388-1400), Fragment II (_The Man of Law's Tale_)
 
-1. __-__, _The Canterbury Tales_, Fragment VI (esp. _The Pardoner's Tale_)
+	- __-__, _The Canterbury Tales_, Fragment VI (esp. _The Pardoner's Tale_)
 
-1. __-__, _The Canterbury Tales_, Fragment VIII (esp. _The Second Nun's Tale_)
+	- __-__, _The Canterbury Tales_, Fragment VIII (esp. _The Second Nun's Tale_)
 
-1. __-__, _The Canterbury Tales_, Fragment IX (_The Manciple's Tale_)
+	- __-__, _The Canterbury Tales_, Fragment IX (_The Manciple's Tale_)
 
-1. __-__, _The Canterbury Tales_, Fragment X (esp. _The Parson's Tale_)
+	- __-__, _The Canterbury Tales_, Fragment X (esp. _The Parson's Tale_)
 
 1. __Thomas Usk__, Selections from _The Testament of Love_ (~1385)
 
@@ -72,6 +62,22 @@ It will be noted that, although this list focuses primarily on Middle English li
 
 1. __Thomas Hoccleve__, _The Series_ (~1421-1426)
 
+- - -
+
+###Discarded Matter
+
+1. __Augustine__, Selections from _De Trinitate_ (~410)
+
+1. __Anonymous__, Selections from _Ancrene Wisse_ (~1215)
+
+1. __Dante Alighieri__, _Vita Nuova_ (1295)
+
+1. __Geoffrey Chaucer__, _The Book of the Duchess_ (~1370)
+
+1. __-__, Selections from _The Legend of Good Women_ (~1386)
+
+- - -
+
 ##Primary Readings: Romance
 
 1. __Anonymous__, Selections from _Roman de Thèbes_ (~1150)
@@ -80,9 +86,7 @@ It will be noted that, although this list focuses primarily on Middle English li
 
 1. __Anonymous__, Selections from _Floire et Blancheflor_ (Old French, ~1180)
 
-2. __Marie de France__, Selections from the _Lais_ (~1180)
-
-1. __Thomas of Kent__, Selections from _Roman de Toute Chevalerie_ (~1190)
+1. __Marie de France__, _Lais_ (~1180)
 
 1. __Anonymous__, Selections from _Amis e Amilun_ (Anglo-Norman, ~1200)
 
@@ -94,8 +98,6 @@ It will be noted that, although this list focuses primarily on Middle English li
 
 1. __Anonymous__, _Havelok the Dane_ (~1280)
 
-1. __Anonymous__, _Of Arthour & of Merlin_ (~1290)
-
 1. __Anonymous__, _Amis and Amiloun_ (~1290)
 
 1. __Anonymous__, _Stanzaic Guy of Warwick_ (~1300)
@@ -104,33 +106,43 @@ It will be noted that, although this list focuses primarily on Middle English li
 
 1. __Anonymous__, _Sir Tristrem_ (~1300)
 
-1. __Anonymous__, _Sir Percevall of Galles_ (~1320)
-
-1. __Giovanni Boccaccio__, Selections from _Decameron_ (1349-1371)
-
-1. __Anonymous__, _Sir Eglamour of Artois_ (~1350)
-
 1. __Pearl Poet__, _Sir Gawain and the Green Knight_ (~1390)
-
-1. __Anonymous__, _Chevelere Assigne_ (~1390)
 
 1. __Geoffrey Chaucer__, _Troilus and Criseyde_ (~1385)
 
 1. __-__, _The Canterbury Tales_ (~1388-1400), Fragment I (esp. _General Prologue_ and _The Knight's Tale_)
 
-1. __-__, _The Canterbury Tales_, Fragment III (esp. _The Wife of Bath's Tale_)
+	- __-__, _The Canterbury Tales_, Fragment III (esp. _The Wife of Bath's Tale_)
 
-1. __-__, _The Canterbury Tales_, Fragment IV (esp. _The Clerk's Tale_)
+	- __-__, _The Canterbury Tales_, Fragment IV (esp. _The Clerk's Tale_)
 
-1. __-__, _The Canterbury Tales_, Fragment V (esp. _The Squire's Tale_)
+	- __-__, _The Canterbury Tales_, Fragment V (esp. _The Squire's Tale_)
 
-1. __-__, _The Canterbury Tales_, Fragment VII (esp. _Sir Thopas_)
+	- __-__, _The Canterbury Tales_, Fragment VII (esp. _Sir Thopas_)
 
 1. __Anonymous__, _Alliterative Morte Arthure_ (~1400)
 
 1. __John Lydgate__, Selections from _Troy Book_ (1412-1420) 
 
+- - -
+
+###Discarded Matter
+
+1. __Thomas of Kent__, Selections from _Roman de Toute Chevalerie_ (~1190)
+
+1. __Anonymous__, _Of Arthour & of Merlin_ (~1290)
+
+1. __Giovanni Boccaccio__, Selections from _Decameron_ (1349-1371)
+
+1. __Anonymous__, _Sir Percevall of Galles_ (~1320)
+
+1. __Anonymous__, _Sir Eglamour of Artois_ (~1350)
+
+1. __Anonymous__, _Chevelere Assigne_ (~1390)
+
 1. __-__, Selections from _The Siege of Thebes_ (~1421)
+
+- - -
 
 ##Secondary Readings
 
@@ -146,10 +158,20 @@ It will be noted that, although this list focuses primarily on Middle English li
 
 1. __Donaldson__, E. Talbot, _Speaking of Chaucer_, Athlone Press, 1970
 
+1. __Hiatt__, Alfred, _Genre without System_, in _Middle English_, ed. __Strohm__, Paul, Oxford University Press, Oxford, 2007
+
 1. __Howard__, Donald, _The Idea of the Canterbury Tales_, University of California Press, Berkeley, 1978
 
 1. __Johnson__, Eleanor, _Practicing Literary Theory in the Middle Ages: Ethics and the Mixed Form in Chaucer, Gower, Usk, and Hoccleve_, University of Chicago Press, Chicago, 2013
 
+1. __Kruger__, Steven F., _Dreaming in the Middle Ages_, Cambridge University Press, Cambridge, 1992
+
 1. __Lynch__, Kathryn L., _Chaucer's Philosophical Visions_, D. S. Brewer, Cambridge, 2000
 
 1. __Strohm__, Paul, _Social Chaucer_, Harvard University Press, Cambridge, 1989
+
+- - -
+
+###New options
+
+__Crane__, Susan, _The Performance of the Self: Ritual, Clothing, and Identity During the Hundred Years War_, University of Pennsylvania Press, 2002
