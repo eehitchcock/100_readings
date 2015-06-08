@@ -1,10 +1,10 @@
-#Minor List: The Question about Chivalry on the Continent and Beyond
+#Minor List: The Question about Chivalry over the Continent and Beyond
 
 __Examiner__: Prof. Jesús Rodríguez-Velasco
 
 ##Rationale
 
-On the one hand, this list is devised as a complement to my major list; it tries to explore the strand of romance, and its manifold transmutations, as they have developed on the continent and, more specifically, in the Franco-Iberian territory, from the second half of the 12th century, with Chrétien de Troyes' Arthurian cycle, to the end of the 14th century, with the short narratives collected in Christine de Pisan's _Epistre Othea_. But, as it expands to incorporate chronicles (Ramón Muntaner, Dom Pedro Afonso) and travel narratives (Ibn Battuta, Ibn Khaldun), this selection is also trying to pose a number of questions related to the ethical and political role of _chivalry_ (_chevalerie_, _caballería_), both in the Christian world and along its geographical and cultural boundaries. What are the ideological foundations of this social class, and how are they related to - or produced by - literary works? How does literature interact with analogous writings - biographical, historiographical - in describing factual events associated to chivalric values (like, for instance, the Albigensian Crusade)? How, instead, does the representation of fictional knighs, and of their exploits, problematize the identity of this category?
+On the one hand, this list is devised as a complement to my major list; it tries to explore the strand of romance, and its manifold transmutations, as they have developed on the continent and, more specifically, in the Franco-Iberian territory, from the second half of the 12th century, with Chrétien de Troyes' Arthurian cycle, to the end of the 14th century, with the short narratives collected in Christine de Pisan's _Epistre Othea_. But, as it expands to incorporate chronicles (Ramón Muntaner, Dom Pedro Afonso) and travel narratives (Ibn Battuta, Ibn Khaldun), this selection is also trying to pose a number of questions related to the ethical and political role of _chivalry_ (_chevalerie_, _caballería_), both in the Christian world and along its geographical and cultural boundaries. What are the ideological foundations of this social class, and how are they related to - or produced by - literary works? How does literature interact with analogous writings - biographical, historiographical - in describing factual events associated to chivalric values (like, for instance, the Albigensian Crusade)? How, instead, does the representation of fictional knights, and of their exploits, problematize the identity of this category?
 
 ##Primary Readings
 
@@ -46,7 +46,9 @@ On the one hand, this list is devised as a complement to my major list; it tries
 
 1. __Cohen__, Jeffrey Jerome, _Medieval Identity Machines_, University of Minnesota Press, Minneapolis, 2003
 
-1. __Kaeuper__, Richard W., _Holy Warriors: The Religious Ideology of Chivalry_, University of Pennsylvania Press, Philadelphia, 2009
+1. __Kaeuper__, Richard W., _Chivalry and Violence in Medieval Europe_, Oxford University Press, Oxford, 1999 
+
+1. __-__ _Holy Warriors: The Religious Ideology of Chivalry_, University of Pennsylvania Press, Philadelphia, 2009
 
 1. __Keen__, Maurice, _Chivalry_, Yale University Press, New Haven, 1984
 
