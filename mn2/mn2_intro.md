@@ -10,6 +10,8 @@ On the one hand, this list is devised as a complement to my major list; it tries
 
 1. __Chrétien de Troyes__, _Erec and Enide_ (~1170)
 
+	- We can start with _Romans_, _Stacks_ __PQ1446 .Z56 1994g__
+
 1. __-__, _Cligès ou la Fausse Morte_ (~1176)
 
 1. __-__, _Yvain, le Chevalier au Lion_ (~1177)

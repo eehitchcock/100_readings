@@ -16,7 +16,11 @@ It will be noted that, although this list focuses primarily on Middle English li
 
 1. __Boethius__, _De Consolatione Philosophiae_ (~525)
 
+	- _The Norton Edition_, _Stacks_ __B659.D472 E5 2010__
+
 1. __Alain de Lille__, _De Planctu Naturae_ (~1160)
+
+	- _Literary Works_ by Alanus de Insulis, _Stacks_ __PA8240.A5 A2 2013__
 
 1. __Guillaume de Lorris__ and __Jean de Meun__, Selections from _Roman de la Rose_ (~1237-1280)
 
@@ -79,6 +83,8 @@ It will be noted that, although this list focuses primarily on Middle English li
 - - -
 
 ##Primary Readings: Romance
+
+- A note: we should start reading the _secondary materials_ for this one.
 
 1. __Anonymous__, Selections from _Roman de Thèbes_ (~1150)
 
