@@ -24,8 +24,14 @@
 - indebted to __Bernardus Silvestris__ and his _Cosmographia_ (wonderful title) of 1147;
 - "From Bernardus, and from their great common exemplars, Boethius and Martianus Capella, Alan learned to cast complex intellectual issues in literary form, and his career as a poet was largely defined by a sustained dialogue with the _Cosmographia_;
 - "The _De Planctu Naturae_ is closely engaged with a world where language itself and hence poetry as well have lost the power to express natural love and the values implicit in the order of nature. Poetic language conveys the effect of the corruption of human nature in the form of bizarre rhetoric, obscene puns , paradox, and ambiguity, and this crisis creates a corresponding crisis in the level of poetics." (this is a very nice and quick takeaway - breaking of form, breaking of an ethical world of values)
+- deeply indebted to Boethius as well.
+- "Its divine Nature is a largely autonomous power whose laws govern the reproduction of created life and provide a standard for social and moral order."
+- Alan's personified Nature is inherited from the _Cosmographia_ of Bernardus Silvestris.
+- "That the forces essential to human survival are capable of undermining human self-realization is the central issue in the _De Planctu Naturae_. Nature's lament is an existential counterweight to the authoritarian idealism of Boethius's Philosophy, a sad answer to Philosophy's wish that the love that orders the heavens might govern the human spirit."
+	- Crucial description of a __conflict__ which we should try to understand better. Sexuality seems to be a part of nature, but also one of its enemies. A natural, primitive force.
+- "Nature then appears, and vicious troping is replaced by a luminous prose description of the goddess and her raiment, but the tortured elegiacs of the proem have revealed a paradox that will become more obvious as the dialogue proceeds. In establishing an __equivalence__ between __
 
-- Alan of Lille (d. 1203)
+###Commentary
 
 - Prosimetrum; the function of poetry is that of displaying the perfect order of nature; and that of creating a sort of objective, perfectly crafted beauty that can arouse desire in the reader.
 
