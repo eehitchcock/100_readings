@@ -14,13 +14,13 @@
 ##Week 3: September 14th
 
 	- Chretien de Troyes, _Yvain, le Chevalier au Lion_ (6818 ll.)
-	- Anonymous, _Wynnere and Wastoure_ (503 ll.)
-	- Anonymous, _Amis and Amiloun_ (2509 ll.)
+	- Cannon, _The Grounds of English Literature_ (250 pp.)
+	- Crane, _Insular Romance_ (262 pp.)
 
 ##Week 4: September 21st
 
 	- Copeland, _Rhetoric, Hermeneutics, and Translation in the Middle Ages_ (312 pp.)
-	- Anonymous, _Cantar de mio Cid_ (3735 ll.)
+	- Kaeuper, _Holy Warriors: The Religious Ideology of Chivalry_ (344 pp.)	
 	- Anonymous, _The Cloud of Unknowing_ (2529 ll.)
 
 ##Week 5: September 28th
@@ -32,11 +32,14 @@
 ##Week 6: October 5th
 
 	- Anonymous, _The York Corpus Christi Plays_
-	- Anonymous, _Sir Orfeo_ (604 ll.)
+	- Anonymous, _Amis and Amiloun_ (2509 ll.)	
+	- Parkes, _The Influence of the Concepts of_ Ordinatio _and_ Compilatio (27 pp.)
 
 ##Week 7: October 12th
 
-	- Copeland and Sluiter, Medieval Grammar and Rhetoric (992 pp.)
+	- Copeland and Sluiter, _Medieval Grammar and Rhetoric_ (992 pp.)
+	- Hiatt, _Genre without System_, (17 pp.)
+	- Baswell, _Multilingualism on the Page_ (11 pp.)
 
 ##Week 8: October 19th
 
@@ -58,28 +61,46 @@
 
 ##Week 11: November 9th
 
-	- Chaucer, _The Canterbury Tales_ - (Fr. 1-2)
-	- 
+	- Chaucer, _The Canterbury Tales_, Fr. 1 (4422 ll.)
+	- Chaucer, _The Canterbury Tales_, Fr. 2 (1190 ll.)
+	- Doyle and Parkes, _The Production of Copies of the_ Canterbury Tales (47 pp.)
 
 ##Week 12: November 16th
-	- Chaucer, _The Canterbury Tales_ - (Fr. 3-4)
+
+	- Chaucer, _The Canterbury Tales_, Fr. 3 (2294 ll.)
+	- Chaucer, _The Canterbury Tales_, Fr. 4 (2240 ll.)
+	- Cohen, _Medieval Identity Machines_ (368 pp.)
+
 ##Week 13: November 23rd
 
-	- Chaucer, _The Canterbury Tales_ - (Fr. 5-6)
+	- Chaucer, _The Canterbury Tales_, Fr. 5 (1624 ll.)
+	- Chaucer, _The Canterbury Tales_, Fr. 6 (968 ll.)
+	- Reynolds, _Medieval Reading: Grammar, Rhetoric, and the Classical Text_ (235 pp.)
 
 ##Week 14: November 30th
 
-	- Chaucer, _The Canterbury Tales_ - (Fr. 7-8)
+	- Chaucer, _The Canterbury Tales_, Fr. 7 (3462 ll.)
+	- Chaucer, _The Canterbury Tales_, Fr. 8 (1481 ll.)
+	- Anonymous, _Cantar de mio Cid_ (3735 ll.)
 
 ##Week 15: December 7th
 
-	- Chaucer, _The Canterbury Tales_ - (Fr. 9-10)
+	- Chaucer, _The Canterbury Tales_, Fr. 9 (362 ll.)
+	- Chaucer, _The Canterbury Tales_, Fr. 10 (1093 ll.)
+	- Kerby-Fulton, _Iconography and the Professional Reader_ (288 pp.)
 
 ##Week 16: December 14th
+
+	- Anonymous, _Wynnere and Wastoure_ (503 ll.)
+	- Langland, _Piers Plowman_ C
+	- Anonymous, _Sir Orfeo_ (604 ll.)
+- - -
 
 #Winter Break
 
 ##Week 17: January 18th
+
+	- Anonymous, _Alliterative Morte Arthure_ (4346 ll.)
 
 ##Week 18: January 25th
 
