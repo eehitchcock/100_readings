@@ -402,4 +402,192 @@
 
 - __637-646__: A wonderful ending; Marie's use of __trivial__, concrete detail, is as masterful as usual; here the __marble__. And the island of __Avalon__ is the ultimate _strangeness_.
 
-##VI.
+##VI. Deus Amanz
+
+- __1-10__: Notice the familiar pattern: __exoticism__; __naming__, __language__; _duplicity_. "Veritez es ke en Neustrie | Que nus apelum Normandie."
+
+- __13-16__: Same with the city of __Pistre__: "Des Pistreis la fist il numer | E Pistre la fit apeler." Naming is the __privilege of kings__; and it's for peoples.
+
+- __19-20__: Marie here is truly concerned with __geography__; "la contree | que li vels de Pistre est nomee."
+
+- __27-28__: Here we jave the recurring theme of the jealous father figure (also in Boccaccio); "Cunfortez fu par la meschine | Puis que perdue ot la reine."
+
+- __40-56__: The king establishes an impossible __trial__ of __force__ for whom whishes to marry her.
+
+- __80-98__: Noticeable alternation between __direct__ and __indirect discourse__. The story here __depends__ on the esceptionality of the geographical context (the _high mountain_). The two lovers try to _avoid the trial_.
+
+- __103-112__: __exotic__ presence: a _woman_ in _Salerno_ who knows _medicine_ and _herbs_.
+
+- __116__: The __strength__ required to complete the challenge is defined as __vertu__. The main male character of this story, therefore, is lacking in __vertu__.
+
+- __131__: The youth is, apparently, from __another country__: "En sa cuntre en est acez."
+
+- __161__: The _amanz_ is especially __young__: "Pur ceo qu'il iert de jeofne eage."
+
+- __174-176__: One phenomenal detail (yet another example of Marie's vivid realism): the young woman __fasts__ to help her man. "Must se destreinst e mult juna | E amaigri pur alegier."
+
+- __188-189__: Here a dramatic __prolexis__ (we actually already know about the __tragic ending__ of the _tale_, from the incipit): "meis jo creim que poi ne li vaille | kar n'ot en lui point de mesure." Measure as __virtue__.
+
+- __192-193__: And here is the __tragic flaw__: not lack of _measure_ (the one of Alain de Lille) but __ubris__. The youth believes that he needs no outside help.
+
+- __213-214__: And indeed - he had enough virtue to __die__ from it: "Sur le munt vint: tant se greva, ileoc chei, puis ne leva | Li quors del ventre s'en parti."
+
+- __223-225__: Wonderful etiological ending: the __potion__ becomes the __nourishment__ of the land. "Li muns en fu bien arusez | Mut en ad este amendez | Meinte bone herbe i unt trovee | Ki del beivre orent racine." Notice that this filtre of __vertu__ was made by a _foreign woman_, for a _foreign man_ - the embodiment of their _superior virtue_.
+
+- __236__: The woman dies as well, "li dols de lui al quor la tuche."
+
+- __245__: After their tragic death, the youth become as well part of the __landscape__, in a _marble mausoleum_ placed on the _mountain_.
+
+##VII. Yonec
+
+- __1-4__: The _incipit_ is slightly different from the customary ones: we get the impression that the composition of the _lais_ is an __ongoing effort__ - a _single stretch_ that has to be completed. It is as if Marie was translating from - or referring to - a __finite volume__ - she will not stop until that is over - because __it will be over__. "Puisque des lais ai comencie, | Ja n'iert pur mon travail laissie; | Les aventures que j'en sai, | tut par rime les cunterai." Also notice that this is the beginning of the __second half__ of the book.
+
+- __9-10__: The __incipit__ is closed with a __genealogical__ annotation: this story is about Yonec, but it starts with his father. __Etiology__ in action.
+
+- __11-17__: Here we have __two__ details worth mentioning: the __number__ of _toponyms_, defining a peculiar __geography of the past__, and the "de nes trespas," a passage of __ships__ which already establishes a context of _foreigness_ and _exchange_.
+
+- __26-32__: We have, again, the motive of the __tower__ (like in Guigemar), and the _jealous man_ guarding his wife. "Dedenz sa tur l-ad enserreie | En un grant chambre..."
+
+- __41-44__: Like in Guigemar, there seems to be __no intercourse__ between the _old man_ and the _girl_. There seems to be _literal quotations_ from the first lai here; "n'i ot chamberlenc ne huissier | ki en la chambre osast entrer."
+
+- __51-53__: The real story begins: "Ceo fu el meis d'avril entrant, | quand cil oiseil meinent lur chant." April, rebirth and _sexual awakening_ - just like in Chaucer.
+
+- __67-68__: As the old woman leaves the room, we have the opening of a __great monologue__; the woman complains for her lack of _freedom_ and for her _captivity_ - not for the imposed marriage _per se_. Her first wish is indeed that of going to the church to attend the mass.
+
+- __91-94__: A wonderful, somewhat __postmodern__ twist: the girl remembers that the country where she lives is _wonderful_ - full of "_aventures_ ki rehaitouent les pensis." Then she describes the __genre of romance__.
+
+- __103-104__: And the invocation of a __literary genre__ and its _magical_, irralistic conventions, ends with a __prayer__ to the _Christian God_. "Si ceo peot estre e ceo fu, | [...] Deus, ki de tut ad poeste | Il fu face ma volonte." The _potential mode_ of the genre becomes part of God's own _omnipotence_.
+
+- __106-112__: Here we have the _appearance_ of the __hawk__, and its _metamorphosis_ into a _knight_. The exotic, the supernatural, the miraculous, the literary: all in one.
+
+- __127-128__: By now conventions have become almost __playful__ and __abstract__ in their constant repetition; here, for instance, the __motive__ of the _secret, distant lover_, who suddenly appears in the _woman's room_.
+
+- __139__: The faith in God and the belief in the _conventions_ of the genre are here __melted__ into one imperative - "s'en deu creist e issi fust."
+
+- __149-152__: And the __knight__ is not only a _divine_ creature; he is also a believer, an instrument of the _Christian God_. Follow specific references to _Genesis_ and the _original Sin_.
+
+- __159-164__: Here we have the strangest request: the __knight__ wants to receive the _Communion_, the blessed _Host_, after having turned into an __image of the woman__.
+
+- __167-168__: The knight here refuses to _touch_, embrace, or kiss the woman; saintly __chastity__.
+
+- __184-188__: Here the knight receives the "__corpus domini__" and "le vin del chalice beu."
+
+- __196__: A new emphasis on __foreigness__: "raler s'en voelt en sun pais."
+
+- __203-204__: A negative __prolexis__: the two lovers, for the knight, will be discovered by the servant.
+
+- __211-224__: The woman recovers __health__ and __beauty__: she's now happy about her captivity, because in the _tower_ she can meet him. Can this be a metaphor for the _consumption_ of __literature__? And a _blessing_ for it?
+
+- __229__: MdF is careful about the ways in which her human characters transform __realistically__: here "esteit tuz sis semblanz changiez."
+
+- __261-264__: Vivid realism in describing the old woman's hiding place: "dunc s'esteit la vielle levee | triers une cortine est alee." __Gesture__ and sense of __space__.
+
+- __272__: Apparently the two lovers now sleep together: "e par paroile e par semblant."
+
+- __278__: The metamorphosis of the knight is horrible in the eyes of the _old woman_.
+
+- __279-296__: The "engins" prepared against the knight are gruesome and __cruel__ - especially because they work against his __animal__ form, not his human form - as if the _metamorphosis_ was a _handicap_, a form of disability. "Broches de fer fist granz furgier | e acerier le chief devant."
+
+- __311-312__: Here we have the violent, bloody murder of the knight. We can only wonder whether "li sans vermeilz" springing from his heart is __human__ or __animal__.
+
+- __319-322__: The knight speaks, but we don't know in which form. He finally blames the _woman_ for what has happened: "votre semblanz nus ocireit."
+
+- __327-332__: Another __prolexis__, in _indirect discourse_ and pronounced by the knight: "de lui est enceinte d'enfant [...] Yonec numerle ferat."
+
+- __345-348__: Here we have the __vivid__ detail of the _blood trail_: "a la trace del sanc s'est mise | ki del chevalier degotot | sur le chemin u ele alot."
+
+- __350-353__: Here we have a __supernatural passage__ into another dimension, placed on the top of a hill. "En cele hoge ot une entree."
+
+- __356-357__: The grass is drenched in blood. A foreign land, impregnated by the knight's presence.
+
+- __360-364__: The __trail__ leads to a wonderful __city__, where everything is covered in __silver__. The description of the surroundings is suggestive and detailed. It is a _mirroring_ world, the _exotic_, again seductive and perhaps threatening.
+
+- __380-387__: We have here three knights who are asleep in the same castle, and only one of them is the __hawk__. The motive seems __allegorical__ (Christian?).
+
+- __415-424__: The knight gives her two supernatural gifts: a small ring for the king (it will make him __oblivious__) and his sword, for the son's revenge.
+
+- __425-436__: Another long prolexis, by the hawk, and in indirect discourse __Prophecy__?
+
+- __438__: The last gift: a __white robe__, that she has to wear immediately.
+
+- __448-452__: One realistic detail, and one puzzling __hyperbole__: the _bells of the town_ announce the _king's death_, and the woman _faints four times_.
+
+- __481-484__: The new family - with Yonec being young and strong - is led to a __foreign castle__ - "une abeie i ot dedenz | de tut religiuses genz."
+
+- __409-508__: Here we have an _exotic ekphrasis_: the tomb of the knight, rich and beautiful.
+
+- __521__: The places mentioned in this section are both in __Whales__.
+
+- __535-546__: The ending is fast-paced, laconic, and - again - almost __abrupt__. The woman dies, and Yonec is quick to believe her story, and behead the king.
+
+- __549-558__: Like Deuz Amanz, this story ends with __tragic death__ and a common _sepulcher_.
+
+##VIII. Laustic
+
+- __1-6__: The opening, like Bisclavret, emphasizes a double origin - French and English - combined with the __Breton__. __Etimology__ is a form of _etiology_. Here we are given the __name__ "en lur pais," then "russignol" (_franceis_) and "nihtegale" _en dreit engleis_. Does this imply a __diverse audience__?
+
+- __10__: We have the _motive of the two knights here_. Doubles and duplicity.
+
+- __19-23__: Both men are victorious, but one focuses on _manly feats_, the other one is _married_. The unmarried one eventually falls in love with the wife.
+
+- __37-38__: We have here a detailed description of the _contiguous spaces_ where the two noblemen live. Marie's realism and sense of __space__; also _duplicity_ and, in a way, metaphor for _foreigness_ and _invasion_.
+
+- __57-60__: Summer is - strangely enough for the context of this narrative - the moment when love has to cease; flowers and birds are threatening.
+
+- __72__: "E de sun mantel s'afiblot": women are always _covering_ themselves or _stripping_.
+
+- __85__: Since we know that "Laustic" is a Breton word, the sentemnce "Ki n'ot le laustic chanter" is multilingual; a synthesis.
+
+- __89-90__: "Tant mi delit e tant le voil | Que jeo ne puis dormir de l'oil." The motive is pure __fabliaux__. And the _foreigness_ of the word gives a new connotation to this __innuendo__: foreign threat and _seduction_.
+
+- __93-94__: Again the _hostility_ against the _foreigner_; and again a meditation about __freedom__ and __strangeness__. This is pure fabliaux in its potential innuendo: "D'une chose se purpensa: | Le laustic enginnera."
+
+- __96-97__: "Il n'ot vallet en sa meisun | Ne face engin, reis u lacun" - every member of the household participates in the project of keeping the __stranger__ captive.
+
+- __100__: "Tant que pris l'unt e retenu." Here we find a __twist__: the servants actually catch a __real__ _nightingale_, and not what it stands for.
+
+- __114-116__: The dead body of the nightingale stains the dress of the woman: "un poi desur le piz devant"; blood on her heart. The cruel, realistic detail is also a __symbol__ for the woman's affection. The metaphor has been slaughtered. Here the __word__ created ambiguity - innuendo produced __violence__ over a creature.
+
+- __135-136__: The __bird-word__ is indeed sent to her _lover_ "En un piece de samit | a or brusde e tut escrit." It works as a message, even when dead (or because it is dead?)
+
+- __148-160__: The _bird-word_ becomes a _memory_ of lost loved, and eventually the __story__ itself - when it is "cuntee | ne pot estre longes celee."
+
+##IX. Milun
+
+- __1-8__: One could simply look at the variety of _prologues_ to figure out some of Marie's main concerns. Here the clear speech praised in the third line ("si rainablement") and the idea that _lais_ are __found__ - that her _song_ is the song of __why__ and __how__ the _song itself_ was made - "pur quei e coment fu trovez | li lais ki issi est numez." A lai is an etiology for its own existence.
+
+- __9-18__: The context is clearly __insular__: many toponyms from the North.
+
+- __22__: Given the prominence of the _protagonist's_ first name (in the first line of the story itself) and the absence of this character's name, emphasized here ("mes heo ne sai numer sun num"), we can say that _names matter_.
+
+- __25__: Indeed, the dame falls in love with Milun when "ele ot oi Milun nomer."
+
+- __31-32__: Love is given in these stories - like a _concrete gift_ that one deliberately decides to offer to somebody else - "Volentier otriat l'amur."
+
+- __48__: A ring is given together with the __love__, as a token between two strangers.
+
+- __49-54__: The customary garden; this story is seemingly more realistic than the rest, especially given this _sudden pregnancy_: "tant i vin Milun, tant l'ama."
+
+- __63-64__: "Ceo fu custume as anciens | issi teneient en cel tens." A surprising annotation - _temporal distance_. Perhaps a way of _moderating_ the potential __cruelty__ of the story? The woman discovers that she is pregnant, and she fears that she will be either _killed_ or _deported_. __Idealism__ - __realism__ - __cruelty__. Love is now terrifying.
+
+- __67-86__: The woman's plan of sending her newborn to her sister relies on __writing__ and __tokens__.
+
+- __107-110__: The hyberbole of __stopping__ seven times a day emphasizes the value of the baby.
+
+- __129__: "E suvent regrette Milun" - the lady regrets having loved. Love is now _execrated_.
+
+- __133-148__: This monologue is another briliant example of Marie's attention to women's conditions: the lady has been betrayed and mistreated - and she'd rather die.
+
+- __163-164__: A __swan__ is now the _carrier of love messages_. Instead of changing the woman's condition, this terrible main character decides to exploit it.
+
+- __172-202__: The entrance of the __bird__ in the enclosed space of the _castle_ is similar to the animals seen in _Laustic_ and in _Yonec_. But here it is more realistic.
+
+- __217-219__: A vivid sequence of simple _verbs_ - again: "Le col li manie e le chief | deduz la plume sent le brief | li sancs li remut e fremi."
+
+- __229__: The editor of this edition decides to add __inverted__ commas to what could be considered as _indirect discourse_. To communicate with Milun, the woman has to _train the swan_, by feeding it or not.
+
+- __252-260__: The animal's suffering (__fasting__) is again equal to its _semantic_ functions; this story is truly obsessed with __naming__ and _writing_, in any case.
+
+- __277-288__: The system has been established: the bird's _fasting_ allows for the lovers' communicating.
+
+- __309-308__: The 
