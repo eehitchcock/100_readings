@@ -590,4 +590,50 @@
 
 - __277-288__: The system has been established: the bird's _fasting_ allows for the lovers' communicating.
 
-- __309-308__: The 
+- __309-308__: The young son whishes to __leave__ his home - "Forre de la tere e del pais."
+
+- __319-320__: The son travels from __Northumberland__ (Umbria?) to __Barbefluet__. Here we see that the main geographical _alterity_ is between __continent__ and _siland_.
+
+- __340__: Through his heroic deeds in a foreign land, the son gains a new __name__: "Que cil ki nel seivent numer | L'apeloent partut "sanz per""
+
+- __349-352__: A tragic __mistake__; Milun is - indeed - a terrible character; he now wishes to kill the _mysterious_ "sanz per," not knowing that he is his son.
+
+- __367-368__: But Milun also has a __positive quest__, which requires - predictably - that he should leave his home country: "quant pur le fuz trover e quere | voleit eissir fors de la tere." But danger and salvation mix.
+
+- __388__: Like in Guigemar, romance becomes a political and _historical_ matter. Here there is a war between multiple countries: "Mes n'i ot guere des engleis." This absence doesn't have an immediate justification. Actually it is a series of __tournaments__, described as "gueres" and "dereuz."
+
+- __412__: The potential violence between the father and his lost son is soon replaced by a sense of empathy and respect: "Mult li fu bel e mult li plot."
+
+- __421__: And indeed, the youth feels pity for the __old man__ _qua_ old man - "la barbe e les chavoz chanuz" are what stops the struggle; it is as if Mulun had suddenly recovered the dignity proper to his age.
+
+- __443-444__: We remember here a detail from the opening: Milun had never been unharmed by any adversary. And that happened _twenty years_ before this.
+
+- __470-471__: Marie's realism and sense of psychology - the father holds the son's hauberk (mail) and utters "E Deu! fait il, cum sui gariz!"
+
+- __474__: There's more emphasis on __travelling abroad__: "eissi van fors de ma terre"
+
+- __499-500__: The son proposes to __kill__ the mother's husband. Why is this happening only now?
+
+- __516__: But the violence of _murder_ is prevented by the _natural circumstances_. Happy ending.
+
+- __531-534__: The closing lines fit well a story so focused on __writing__: Marie reminds us that "firent un lai li ancien, e jeo, ki l'ai mis en escrit | al racunter mut me delit."
+
+##X. Chaitivel
+
+- __1-8__: Synthesis of what is in a _lai_: "l'aventure," "la cite," and its two __names__.
+
+- __29-42__: The structure duplicates the binary symmetries found in the book so far: four knights, unnamed, are in love with a woman.
+
+- __70__: "E chescuns escriot sun nun" - once again, names are crucial __tokens__.
+
+- __76-81__: Again we find the _motive_ of the international tournament.
+
+- __100__: The four knights all fight at the same time; a strange __imaginative__ experiment.
+
+- __119-124__: As they decide to fight separately from each other, the four characters are wounded and overcome; only one of them survives, but he has lost.
+
+__143-144__: The lady suffers for all four of them; this is a truly __mysterious__ tale. The four are inseparable and indistinguishable, and they act as one; the lady loves all of them in the same way - and that is why she mourns.
+
+- __167-171__: The dead bodies seem more important than the wounded knight; there's a morbid attention toward their treatment; and the lady keeps mourning.
+
+-__181-185__: A moment of psychological finesse: the lady is suddenly reminded of her lost lovers, even though time has passed and she can be consoled. Marie uses gestures: "De sum grant 
