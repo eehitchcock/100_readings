@@ -36,7 +36,7 @@
 
 - __pr. 43__: a dedication to the good king - Henry II.
 
-##Guigemar
+##I. Guigemar
 
 - __Gu. 1-2__: A strong attention to the __making__ of a _story_ - the _quality of form_.
 
@@ -160,7 +160,7 @@
 
 - __Gu. 873__: The conclusion is striking: Guigemar decides to side with Meriadu's enemy, and he sieges Meriadu's castle with his army in order to slay the lord and snatch away the nameless queen. This murder could even resemble an act of __revenge__ and betrayal. THe rythm of the section is also especially frantic, and the ending seems abrupt - leaving the two lovers almost on the side.
 
-##Equitan
+##II. Equitan
 
 - __Eq. 1-2__: two elements are here _reiterated_: the __nobility of the bretons__ and the __mnemonic and celebratory function__ of their lais, records of _aventures_.
 
@@ -195,3 +195,211 @@
 - __Eq. 296-299__: Equitan's death is __abrupt__, violent - and somewhat _surprising_. There is something __ridiculous__ in his forgetfulness and in his __shame__. Similarly violent is the way in which the vassal pushes his wife into the tub: there is not much __nobility in these Bretons__: no character is saved - none is redeemable (positive).
 
 - __Eq. 308__: Marie invites us to draw a __moral__ - reisun - from the exemplary tale - it is a general __admonition__ against violence: "tels purcace le mal d'autrui | dunt tuz i mals revert sur lui." At the end of the story, the woman is perhaps the true victim: reasonable, virtuous, and forced to __love__ and __suffer__.
+
+##III. Fresne (Ash tree)
+
+- __1-2__: A very laconic introduction; these probably functioned morea as _titles_.
+
+- __19-20__: Marie's attention to __realistic__ detail is always especially remarkable; here "li riches hum sist al mangier | a tant es vuz le messagier!"
+
+- __27-29__: The two women are juxtaposed: one is virtuous, the other wicked. __Pairs__ of _contrasting_ - though _mirroring_ - characters are a recurrent device in the __lais__.
+
+- __36-42__: Here the __adventure__ of giving birth to a pair of __twins__ (another _pair_!) is __misintepreted__. THe characters of the _Lais_ can __utter__ and even __argue__ for what is clearly __false__ - a polyphony that includes __deception__.
+
+- __55-56__: In any case, her claim is so _absurd_ that nobody believes her.
+
+- __61-64__: Nobody except for her __idiotic husband__; misogyny is, again, _stated_ and then __upturned__, falsified by the circumstances.
+
+- __76-80__: Again, notice the use of the _monologue_ (soliloquy?); similarly remarkable are the fact that _one discourse_ can become __universal prejudice__, and that the event of birth is - again - referred to as an "__aventure__." "Certes james ne me crerrunt, | des que ceste aventure orrrunt | car ceo mesme me jugai | de tutes femmes mes parlai" Prejudice is __reflexive__.
+
+- __92__: "Un des enfanz m'estes murdriz" - __ferocious__ deduction; the best resolution of this doubt is __murder-filicide__.
+
+- __135__: A realistic description of the path leading from the __castle__ into the __woods__, then from the woods to the __countryside__ and the __monastery__ where the infant is left. Between __civilization__ and __wilderness__.
+
+- __149__: The setting is actually that of a "vile riche e dele," a city.
+
+- __135-161__: these gestures are quick, concrete, expressive - few details convey a strong sense of __action__ in __secrecy__ - "hastivement est la venue"; even in the small variations allowed by the simple directness of her style, the syntax is flexible enough to produce meaningful inversions.
+
+- __167__: Here enters the "__freisne__," the silent, vegetal (arboreal) protagonist of this narrative, strangely suggestive: "un freisne vi, le e branchu."
+
+- __181-183__: Another synthetic, though highly expressive and realistic, sequence of gestures: "Icele nuit par tens leva, chaindelles, lampes albuma | les seins sona e l'us uvri." A simple character, yet incredibly vivid.
+
+- __193__: His discourse blends into the __indirect discourse__. It becomes __indirect discourse__. We follow his thought at this point: from the infant found on the tree to his own daughter - "un fille ot, ki veove esteit."
+
+- __214__: "L'aventure il veut canter | de l'enfant cum il le trovat." The aventure is what happens unexpectedly to the character of a story - it is the __furtuitous event__ that is worth telling, and in reaction to which your virtue and talent are measured.
+
+- __228-230__: We now learn that __Freisne__ is also the infant child - the eponimous character being, therefore, both a __human__ and a __tree__.
+
+- __246__: Here we have a __second named character__ - _Gurun_, male protagonist? By now we have learnt to distrust what Marie says when __introducing__ a character.
+
+- __273__: This formula is __omnipresent__: "Tant li pria, tant li premist, qu'ele otria ceo ke il quist." These are stories of seduction - and seduction seems to be __always the same__.
+
+- __283__: Marie is not afraid of __sexuality__. Here the grief that the __prioress__ would feel is that of seeing her daughter pregnant - "_Fuessez enceintes_."
+
+- __295__: Here we have a masterful use of __analexis__ too - details that the reader did not know about how the __female protagonist__ was _raised_.
+
+- __315__: Enter the theme of __feudalism__ - here the good __lord__ - Guron - suffers the pressure of his __vassals__, who want a different, nobler lady.
+
+- __325__: Again, the conflict is between __loyalty__ to the __feudal__ system - history, politics - and __faitfhfulness__ to the imperatives of __love__.
+
+- __335__: Enter a __second lady__ whose name is a tree - la codre - the _hazel tree_. The two are juxtaposed for their __fruifulness__ or __sterility__.
+
+- __344-348__: Another __masterful analexis__: "Allas! Cum est mesavenu | Ke li prudume n'unt seu | L'aventure des dameiseles | Ki esteint sereurs gemeles!" We here discover that _hazel_ is _ash's_ sister.
+
+- __359-388__: Here we find another example of Marie's empathy for __Villains__ (given that we consider them as such): a __long indirect discourse__ by the mother of the three daughters, who eventually repents her evil decision.
+
+- __399__: the __decisive detail__ is realistic, even trivial: "li dras esteit d'un viel bofu"; an old piece of cloth; Marie treats these commendably.
+
+- __405-408__: This character is the first virtuous one of the collection - a true __Christian Model__ (Fraisne); she follows the "_ercevekes_."
+
+- __445__: We have here the conventional model of __recognition__ [_agnition_?] (and __evidence__).
+
+- __418__: "Tuz li curages li fremi" - the emotion felt by the mother, and expressed through this powerful, yet simple image, is a striking sign of Marie's empathy.
+
+- __452__: The _mother_ here bursts with strong feelings/emotions - so much that she __faints__. Strong emotions seems to prodcut __change__ in this world and these people.
+
+- __488-489__: "Grant joie nus ad deus donee, ainz que li pechez fust dublez." __Doubling__ is one of the _motives_ of this story - but, we could argue, is also one of the __themes__ of the whole collection. Here it is a threat that the characters _avoid_, through a restoration of __balance__.
+
+- __499-500__: "L'ercevekes ad cunseilie | que issi seit la noit laissie": the characters have to spend one night in the current situation of __imbalance__, before something can be done about it. There is a certain component of mystery here.
+
+- __513__: Marie is eager to tell us that _Hazel_ witll marry too - and that is what mostly contributes to a sense of closure and perfect __balance__.
+
+- __515-518__: The final four lineas again indicate explicitly the __title of the lai__ (probably an editiorial/scribal convention as well); the verb for composing is now the conventional "trove," which thransforms the _aventure_ of _history_ into the formal lai.
+
+##IV. Bisclavret
+
+- __1-4__: The first four lines refer to a double linguistic and cultural tradition; _Bisclavret_ is __Breton__, _Garwaf_ is __Norman__. The story is about duplicity, and the language emphasizes that (consider __endiadis__ as well).
+
+- __9__: "Garvalf, ceo est beste selvage" - this looks like a simple __definiton__, and again stresses the __linguistic__ value of these _names_.
+
+- __14__: "Del Bisclavret vus voil cunter." Bisclavret seems to be a __different creature__, perhaps not as _wild_, not as _foreign_, as Garwalf. To different names eventually seem to correspond very __different entities__.
+
+- __19-22__: The protagonist of the story is initially presented as capable of a perfect balance between the __private__ (_erotic_) sphere and the __public__ (_political_) sphere. "de tuz ses veizins amez | femme ot espuse.."
+
+- __25-26__: "Qu'en la semeine le perdeit | treis jours entiers" - like a character held by a dream, or lost in the space of a dream - Bisclavret is __somewhere else__ for _half of his week_ (_almost_ half). He's a __mind divided__.
+
+- __30__: The endiadis is here an expression of Bisclavret happiness (contentment) when he is exploring the wilderness - "a sa meisun, joius e liez" (ambiguous?)
+
+- __47-48__: "cunfort/mort" is one of the most frequent rhymes in the world of MdF.
+
+- __51__: The second life of Bisclavret is initially compared to an _erotic transgression_: "mun escient que vus amez." Is this what the wife secretly hopes for?
+
+- __63__: Fabulous self-profession: "Dame, jeo devienc Bisclavret." Blunt.
+
+- __67-70__: Again, the wife's preoccupation seems always sexual: her first question is whether is goes in the wilderness clothed or all naked. Bisclavret's answer is again __memorably straighfroward__: "Dame, fet il, jeo vois tuz nuz."
+
+- __87__: "Tant l'anguissa. tant le suz prist": insistence is the key to __confession__.
+
+- __91__: Here we find an element that could bear more veiled symbolical valence: the hiding place for his clothes is a __religious place__ - "une vielz chapele." Is this "__aventure__" a metaphor for _life_ before _salvation_?
+
+- __97__: Weird timing here: the woman becomes "de pour [fu] tute vermeille" only when she hears the details about the husband's stripping in the forest. Shame?
+
+- __124-125__: "Issi fu Bliscravet trahiz | e par sa femme maubailiz": more __duplicity__ here; Bisclavret is both the wild state of the werewolf and the __civil name__ (proper name) of the __human__. His betrayal seems an act of __intolerance__, emargination (exclusion) - justified solely by __prejudice__.
+
+- __143-144__: The __dogs__ and the __hunters__ are close to _murdering the protagonist_; "Tant que pur poi ne l'eurent pris | e tut decire e maumis."
+
+- __154__: Bisclavret is truly almost __human__ - still almost human; here he is described as he acts __humanely__ towards the king: "ele ad sen d'hume | merci crie." By acting like a _submissive dog_ he is _almost human_.
+
+- __160__: An interesting detail: the __King__ decides to __stop hunting__ completely for the day, after having discovered __one sensible beast__.
+
+- __184__: "Bien s'aperceit que il l'amout." And that love is genuine - the _genuine_ love felt by a dog. Bisclavret seems happy in this _new condition_.
+
+- __207-208__: "Ceo dient tust par la meisun | K'il nel fet mie sanz reisun" THe reason is here both human and animal (for the __reader__), and possibly exclusively animal (for the people at the castle). Another element of duplicity.
+
+- __227__: Interestingly, "Bisclavret" can also be a sort of adjective - "femme Bisclavret"; by her acquaintance with the strange man, the woman has become strange too.
+
+- __233-235__: Here is the most mysterious section of the poem. "Vers li curut cum enragiez | Oiez cum il est bien vengiez: | Le neis li esracha del vis." Another aspect of __metamorphosis__, forced onto the woman. Here, besides, Bisclavret proves his __humanity__, his rage can only be _revenge_.
+
+- __248-249__: Indeed, the people at court immediately justify the animal's gesture as one possessing a deeper reason: "Par cele fei ke jeo vus des, | aukun curuz ad il vers li." This vassal si sure that this __violence__ has a _cause_.
+
+- __259-260__: A proverbial saying about __Britain__ - "Meinte merveille avum veue | ki en Breitagne est avenue." The land of __marvels__ - because of its many cultures?
+
+- __273-274__: Now the name "Bisclavret" indicates the __human__ nature of the _animal_ hosted by the king - "tres bien quivot e bien creeit | Que la beste Bisclavret seeit." The name certainly indicates a __human individual__.
+
+- __283-288__: __Shame__ is one of the _main themes_ of this story. One of its main propellers. Here Bisclavret cannot show his metamorphosis to the court: "Que devant vus ses dras reveste | ne mut la semblance se d'este."
+
+- __289__: The solution is therefore that of bringing the wolf into the king's chambers; _a wolf in the king's chambers_. He is thus clearly treated as a _human_.
+
+- __293__: THe metamorphosis is never directly described; as if words would allow us to __see__.
+
+- __313-314__: The ending is __memorable__ - it creates a new __strangeness__, a new _diversity_; "plussurs des femmes del lignage | c'est veritez, senz nes sunt neies | e sovent ierent esnaisees." Sympathy? Bitterness? Allegory?
+
+##V. Lanval
+
+- __5-10__: Here we have the first appearance of _King Arthur_; he is living abroad, since the __Scots__ and the __Picts__ are invading his _home country_. "En la tere de Logre entroent | e mut suvent la damagoent."
+
+- __19__: Lanval enters the story as the _excluded_, forgotten knight.
+
+- __23__: Lanval is also envied by most, and mostly for his own virtues.
+
+- __28__: He is also __far__ from his _land_ - a __stranger__. "Mes luin ert de sun heritage!"
+
+- __36-38__: And here Marie shows all her sympathy for the character: "Hum estrange recunseillez, | mut est dolenz en autre terre | quant il ne seit u sucure quere!" The motive of this tory seems to be __foreigness__ - a crucial one for Marie.
+
+- __44-48__: Here we have a conventional _locus amoenus_; it is an _idealized, alluring version_ of the __exotic__ wilderness found, for instance, in Bisclavret.
+
+- __61-64__: Lanval's vision is - unsurprisingly - one of __two women__. Double forms appear here too.
+
+- __78-79__: A strange annotation about the _horse_ - at a moment when it seems totally irrelevant.
+
+- __80-92__: The description of this __tent__ seems conventional; notice how, like in Guigemar, the detailed __ekphrasis__ of a beautiful artifact is always connected to the _exotic_.
+
+- __97-106__: Here we have a description of the __lady lying__ on the bed; her _skin_ is emphasized, both when naked and when clothed by (with) the precious drapes.
+
+- __111-112__: We find out that the lady is a __stranger__ here too: "pur vus vinc jeo fors de ma tere: de luinz sui venu quere!" Two foreigners meet.
+
+- __116__: She is already in love with him, and she is there to ask for his love: her behavior reverts customary roles, and seems another sign of __foreigness__. It is an _inverted_ seduction; and it seems genuine and powerful here.
+
+- __140-142__: There seems to be something __suspicious__ in Lanval's _new privilege_. Is it deserved? "Cum plus despendra richement, | E plus avra or e argent."
+
+- __147-150__: The __condition__ for this _privilege_ is _secrecy_. The reason for this secrecy is unclear.
+
+- __199-200__: The mode of __magic__, of _doubt_, of _romance_, is part of Lanval's reaction to the _exotic_ lady: "Esbaiz est, ne seit que creire, | Il ne la quide mie a veire." Also notice Marie's attention for __spaces__ and beliefs.
+
+- __209-212__: __Anaphora__ is extremely __rare__ in Marie; here we have an example. Its function its expressive; she uses it to convey a sense of __abundance__.
+
+- __220__: "Apres la feste seint Joseph": this story is the first one where __dates__ acquire strategic narrative importance. Is there a connection to __Arthur__?
+
+- __225-228__: Here we have two canonical knights: Gawain and Ivain. Notice how Gawain is described as _seductive_ and _desired_. Not a good character here.
+
+- __253__: Lanval prefers his __invisible lover__ to the women whom his companions have chosen. "Lanval s'en vait a une part | luin des autres; ceo li est tart | que s'aime puisse tenir, | baiser, acoler e sentir."
+
+- __257__: What is the "other," foreign pleasure that Lanval has tried, and that keeps attracting him? "L'autrui joie prise petit, si il nen ad le seen delit." He is a lonely character, with a solitary passion. He resembles Guigemar (who could not love) and Bisclavret (for his _secret_).
+
+- __280-282__: Here we have an explicit reference to Lanval's __latent homosexuality__; "asez le m'ad hum dit sovent | que des femmes n'avez talent/" And more: " Vellez avez bien afeitez | Ensemble od eus vus deduiez."
+
+- __291-300__: Incredible twist here: Lanval confesses his secret only because he doesn't want to be considere an expert "__de cel mestier__." The queen behaves badly; but now Lanval insults her, and betrays his beloved.
+
+- __319-320__: We have here a detailed description of the queen's __lies__. __Misogyny__ in action.
+
+- __327-328__: There is little nobility in the King as well: he's prepared to __burn__ or __hang__ hi,.
+
+- __383-384__: Here we have a brief glimpse of __feudal democracy__: the King asks for __advice__; he does so with "tuz ses hommes": subordinates, not peers.
+
+- __391-392__: A __term__ is established for Lanval's life (just like in __SGGK__).
+
+- __400__: "Walwains i vait, ki l'a plevi." Gawain is Lanval's protector here. The knights at court have suddenly become __sympathetic__ towards __Lanval__: is there any explicit justification for this change? __Misery__?
+
+- __421-422__: Indeed, Lanval is suddenly _more likable_. And it is because of his troubles: "Mut furent tuit pur lui dolent | Jeo quid k'il en i ot teus sent."
+
+- __427-428__: Lanval's __strangeness/foreigness__ is reiterated: "Del franc humme s'autre paus | Ki entre eus ert si entrepris." He's a __foreign prisoner__.
+
+- __433__: The Duke of Cornwall is the __voice of submission__ to the king's will.
+
+- __472-473__: The magical appearance of the _two ladies_ is here __reiterated__ and _amplified_.
+
+- __509-510__: And it happens __again__: two ladies, riding horses, eerie and mysterious. This is a form of the __foreigness__ - an exotic presence __threatening__ and __alluring__.
+
+- __531-532__: The crucial detail is that these creatures are __fairer__ than the queen.
+
+- __548-549__: The __magical lady__ who seduces Lanval enters the scene _similarly_.
+
+- __565-579__: This description is slow and detailed, like that of the __Green Knight__. The participation of the whole town is another sign of __strangeness__.
+
+- __600__: A wonderful line: "Kar gariz sun quant jeo la vei!" Marie's mastery.
+
+- __619-621__: The choice is __collective__ - and this detail resonates with the rest of the narrative: "n'i ad un sul ki n'ait jugie | que Lanval ad tut desrainie."
+
+- __637-646__: A wonderful ending; Marie's use of __trivial__, concrete detail, is as masterful as usual; here the __marble__. And the island of __Avalon__ is the ultimate _strangeness_.
+
+##VI.
