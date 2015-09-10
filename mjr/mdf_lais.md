@@ -636,4 +636,84 @@ __143-144__: The lady suffers for all four of them; this is a truly __mysterious
 
 - __167-171__: The dead bodies seem more important than the wounded knight; there's a morbid attention toward their treatment; and the lady keeps mourning.
 
--__181-185__: A moment of psychological finesse: the lady is suddenly reminded of her lost lovers, even though time has passed and she can be consoled. Marie uses gestures: "De sum grant 
+-__181-185__: A moment of psychological finesse: the lady is suddenly reminded of her lost lovers, even though time has passed and she can be consoled. Marie uses gestures: "De sum grant doel li remembrunt | sun chief e sun vis en baissot | forment comencet a penser." the thought remains hidden.
+
+- - -
+
+- 204: the creation of the lai is included in the lai - it is its object and its condition; notice that the alternative name is used here.
+
+- 208: and, indeed, the fourth knight wants the traditional name for his lai; each name, therefore, bears a different connotation.
+
+- 230: the lady decides to call the lai "caitivel." so that the alternative name cpild even be considred inappropriate - or simply different. the lady does not change her behavior here, only her song.
+
+- 231-237: the conclusion asserts that both names are legitimate, but that one "ad nun en us." the conclusion remains thus ambiguous.
+
+##XI. Chievrefoil
+
+- 5-10: here marie refers to a tradition that is both oral and written - "tristram."
+
+- 11-16: by inserting a reference to a different tradition, marie has here become a __commentator__ rather than a translator. she is situating her work in relationship to the literary context.
+
+- 21-24: it's as if we had a stronger feeling of marie's presence here, from start. here she generalizes the circumstance which she is telling, making a general statement about its global applicability. a "gnome."
+
+- 27-28: the exposition is here extremely synthetic - almost disorienting. Marie is giving for granted a high familiarity with the original texts.
+
+- 53-56: and the style is here slightly different - perceivably different; as if the focus of the story had changed. the details are still realistic and vivid, but they seem less relevant, less connected to the main purpose of the story. In any case, we have again an emphasis on writing and concrete tokens.
+
+- 68-76: and indeed, the name of the lai comes from a __metaphor__, not even from a character (as almost always) or a strong narrative detail. the simile is probably used by tristram himself.
+
+- 82: the focus on __writing__ is reiterated: "tutes les lettres i conut."
+
+- 107-118: indeed, the lai is simply an __episode__ of the story - a larger story - turned by tristram himself into a lai - "gotelef" and "chievrefoil."
+
+##XII Eliduc
+
+- 13-15: here is a synthesis of two of the main themes of the collection: foreigness, with eliduc forced to go abroad, and duplicity, with the establishment of the two households; also romance and politics.
+
+- 21-23: the lai has changed its name to refer to the two ladies, and not to the male protagonist. But who changed it? Marie herself?
+
+- 29-32: here returns the theme (or motive) of the loyal vassal - eliduc is a vassal in _bretaine menur_, much envied for his privileges.
+
+- 68-74: this edition has a strange tendency to turn indirect discourse into direct discourse; here we have a prolexis in indirect discourse.
+
+- 91: from _totness_ to _exeter_: the description of the journey from the island into the continent is rich in toponyms and action.
+
+- 96-99: an old man who does not want to have his daughter married causes an entire war. this is the world of Marie de France, between romance and history. the motive is on the background, as if the reader didn't need detail.
+
+- 107-132: here we have a slow description of _diplomatic exchanges_. at times the book looks like an experiment in narrative form: rythm and focus.
+
+- 145-226: again, this long description of a _battle_ - the first one so detailed in the book; seems to be a sort of demonstration of literary talent.
+
+- 257-264: it is also the description of an __entirely masculine world__ - homosocial and strongly militarized. history (politics? war?) without romance. marie here indulges in numbers and objects that might seem _unnecessary_.
+
+- 279-280: we share some of the astonishment felt by guilliadun. why is eliaduc still far from her? history eventually absorbs romance.
+
+- 304-309: here we have the presence of the god _amur_ instead of the fine psychology found elsewhere. the piece generally feels more conventional - but perhaps because it is anticipating moves that will become canonical.
+
+- 319-321: and here we have a confession by the knight that we might also ascribe to the _genre_: "mut pas se t'ert a entrepris | que tant ad este el pais | que ne l'ad vaue sovent."
+
+- 337-350: another memorable speech by a woman; now simply about _love_.
+
+- 381: there is more dialogue; the pace is generally slower.
+
+- 397: one amazing line: "ore est tel tut en aventure!" Now I have no power.
+
+- 408-413: here the interaction is swift; gestures replace words, verbs speech: "l'anelet d'or mist en sun des, | la ceinture ceinst entur sei." male characters are laconic in romance, verbose in history.
+
+- 433-434: the knight's silence is indeed misunderstood by the chatty woman.
+
+- 466: and here is the key of the drama: the knight has another woman; he cannot promise more love. "ore est sis quor en grant prisun!"
+
+- 467: love is now inevitable - it is an aventure, uncontrollable.
+
+- 497: finally we see a dialogue between two lovers; perhaps this verbosity and this slowness is another mark of _realism_.
+
+- 519: the knight has direct discourse; the lady's speech is indirect.
+
+- 585: "allas, fet il, mal ai erre! | trop ai en cest pais este!" contamination. Eliduc has been abroad, and he will no longer be the same.
+ 
+- 816: "une turments event en mer"; the tempest is the quintessential _aventure_; the image seems to resonate with _boethian_ echoes.
+
+- 1032: the "musteile curant" is another wonderful detail - realistic at first, magical later; nevertheless colorful and vivid.
+
+- 1102: the balance is achieved as one of the two women decides to pursue a _religious vow_.
