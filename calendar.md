@@ -13,47 +13,53 @@
 - Anonymous, _King Horn_ (1545 ll.)
 - Mooney, _Chaucer's Scribe_ (41 pp.)
 
+#Major List 1
+
 ##Week 3: September 14th
 
-- Chretien de Troyes, _Yvain, le Chevalier au Lion_ (6818 ll.)
-- Cannon, _The Grounds of English Literature_ (250 pp.)
-- Crane, _Insular Romance_ (262 pp.)
+- De Lorris & De Meun, _Roman de La Rose_ (21780 ll.)
+- Dante, _Vita Nova_
+- Anonymous, _Wynnere and Wastoure_ (503 ll.)
 
 ##Week 4: September 21st
 
-- Copeland, _Rhetoric, Hermeneutics, and Translation in the Middle Ages_ (312 pp.)
-- Kaeuper, _Holy Warriors: The Religious Ideology of Chivalry_ (344 pp.)	
+- Anonymous, _The York Corpus Christi Plays_
 - Anonymous, _The Cloud of Unknowing_ (2529 ll.)
+- Chaucer, _Parliament of Fowles_ (699 ll.)
 
 ##Week 5: September 28th
 
-- Anonymous, _Stanzaic Guy of Warwick_ (3589 ll.)
-- Reynolds, _Scribes and Scholars: a Guide to the Transmission_ (321 pp.)
-- Kaeuper, _Chivalry and Violence in Medieval Europe_ (338 pp.)
+- Langland, _Piers Plowman_
+- Chaucer, _The House of Fame_ (2158 ll.)
+- Pearl Poet, _Pearl_ (1213 ll.)
 
 ##Week 6: October 5th
 
-- Anonymous, _The York Corpus Christi Plays_
-- Anonymous, _Amis and Amiloun_ (2509 ll.)	
-- Parkes, _The Influence of the Concepts of_ Ordinatio _and_ Compilatio (27 pp.)
+- Chaucer, _The Canterbury Tales_, Fr. 2 (1190 ll.)
+- Chaucer, _The Canterbury Tales_, Fr. 6 (968 ll.)
+- Usk, _The Testament of Love_
 
 ##Week 7: October 12th
 
-- Copeland and Sluiter, _Medieval Grammar and Rhetoric_ (992 pp.)
-- Hiatt, _Genre without System_, (17 pp.)
-- Baswell, _Multilingualism on the Page_ (11 pp.)
+- Chaucer, _The Canterbury Tales_, Fr. 8 (1481 ll.)
+- Chaucer, _The Canterbury Tales_, Fr. 9 (362 ll.)
+- Gower, _Confessio Amantis_
 
 ##Week 8: October 19th
 
+- Chaucer, _The Canterbury Tales_, Fr. 10 (1093 ll.)
+- Norwich, _Shewings_
+- Hoccleve, _The Series_
+
+- - -
+
 - Anonymous, _Libro de Apolonio_ (660 ll.)
-- Chaucer, _The House of Fame_ (2158 ll.)
 - Anonymous, _Sir Tristrem_ (3510 ll.)
 
 ##Week 9: October 26th
 
 - Buchtal, _Historia Troiana: Studies in the History of Mediaeval Secular Illustration_ (74 pp.)
 - Anonymous, _Libro de Alexandre_ (10700 ll.)
-- Chaucer, _Parliament of Fowles_ (699 ll.)
 
 ##Week 10: November 2nd
 
@@ -61,10 +67,23 @@
 - Parkes, _Pause and effect: an Introduction to the History of Punctuation in the West_ (327 pp.)
 - Guilhem de Tudela and Anonymous, _Cancon de la Crosada_ (9560 ll.)
 
+- Copeland, _Rhetoric, Hermeneutics, and Translation in the Middle Ages_ (312 pp.)
+- Kaeuper, _Holy Warriors: The Religious Ideology of Chivalry_ (344 pp.)	
+- Anonymous, _The Cloud of Unknowing_ (2529 ll.)
+
+
+- Anonymous, _Amis and Amiloun_ (2509 ll.)	
+- Parkes, _The Influence of the Concepts of_ Ordinatio _and_ Compilatio (27 pp.)
+
 ##Week 11: November 9th
 
 - Chaucer, _The Canterbury Tales_, Fr. 1 (4422 ll.)
-- Chaucer, _The Canterbury Tales_, Fr. 2 (1190 ll.)
+
+- Chretien de Troyes, _Yvain, le Chevalier au Lion_ (6818 ll.)
+- Cannon, _The Grounds of English Literature_ (250 pp.)
+- Crane, _Insular Romance_ (262 pp.)
+
+
 - Doyle and Parkes, _The Production of Copies of the_ Canterbury Tales (47 pp.)
 
 ##Week 12: November 16th
@@ -76,25 +95,19 @@
 ##Week 13: November 23rd
 
 - Chaucer, _The Canterbury Tales_, Fr. 5 (1624 ll.)
-- Chaucer, _The Canterbury Tales_, Fr. 6 (968 ll.)
 - Reynolds, _Medieval Reading: Grammar, Rhetoric, and the Classical Text_ (235 pp.)
 
 ##Week 14: November 30th
 
 - Chaucer, _The Canterbury Tales_, Fr. 7 (3462 ll.)
-- Chaucer, _The Canterbury Tales_, Fr. 8 (1481 ll.)
 - Anonymous, _Cantar de mio Cid_ (3735 ll.)
 
 ##Week 15: December 7th
 
-- Chaucer, _The Canterbury Tales_, Fr. 9 (362 ll.)
-- Chaucer, _The Canterbury Tales_, Fr. 10 (1093 ll.)
 - Kerby-Fulton, _Iconography and the Professional Reader_ (288 pp.)
 
 ##Week 16: December 14th
 
-- Anonymous, _Wynnere and Wastoure_ (503 ll.)
-- Langland, _Piers Plowman_ C
 - Anonymous, _Sir Orfeo_ (604 ll.)
 
 - - -
