@@ -60,4 +60,51 @@
 
 - xviii. this book is full of anonymous women - a public for d.'s behavior, complementing that of his literate friends. here d. explains how the salute was the place of all his happiness (boethian __fortune__ and fame), and now he has lost it. this section leads to the discovery of the __loda__ as a way to achieve beatitude.
 
-- xix. here we find the notorious "donne ch'avete intelletto d'amore"
+- xix. here we find the notorious "donne ch'avete intelletto d'amore." __affective intellect__.
+
+	- the poem contains the first __theological transfiguration__ of b.: an angel relates her extraordinary beauty (grace? virtue?) to the highest sphere. heavens claim her.
+
+	- the _transfiguration_ is __typology__ (and only secondarily allegory): he is figura of human beatitude in the skies.
+
+	- this is the discovery of the canzone - __indirect praise__ to god (and an acknowledgement of his superior faculty to regulate cosmic order).
+
+	- the canzone mixes history, typology, allegory and psychology. beatrice as the "__cosa nova__."
+
+- xx. the sonnet as a __philosophical form__: here we have an analysis of love and its domain.
+
+- xxi. the new mode of d.'s poetry is philosophical and theological, praising her as a __virtue__.
+
+- xxii. b.'s dad dies: this death is treated differently, from a more explicitly __christian perspective__. here the sonnets are used to reiterate the words spoken by b.'s friends, as a sort of __dialogue__. the topic is that of __transformation__ and _appearance_. beatrice's sight changes one.
+
+- xxiii. here, fallen ill, the poet suffers in bed about the idea of the frailty of b.'s health. the poet, as in a vision, realizes that the woman is mortal. __visions__ here too (those of a feverish mind - hallucinations perhaps). the faculty is __fantasia__, who wonders (errare). this fantasy of b.'s death, prompting catastrophic reactions in the universe, is one of the most __imaginative__ moments of the book. it is also psychologically accurate - the sort of anxious thought that would really keep a lover awake. "tu se' morto."
+
+- xxiv. the visions become more frequent. here we have one where the _nickname_ of one of d.'s acquaintances ("primavera") becomes a __signifier__ for one of b.'s attributes (she will be soon revealed; she will come soon). __history as figura; people as signs.__
+
+- xxv. a small discussion of a potential ambiguity - love as an __allegorical personification__ could be confused with love as an __entity__ (inanimate), and therefore be __deceiving__. the philosophical contradicition is solved by appealing to classical authority (i.e., ovid).
+
+- xxvi. a small episode becomes the quintessential __lode__ - "tanto gentile e tanto onesta pare." the woman's salute is an instrument for __theological and ethical ascent__, like the poem.
+
+- xxviii. here we have the __death of beatrice__. dante will not, in this case, describe the _historical circumstance_. the book is shitfing from the material to the __celestial world__.
+
+- xxix. the only historical datum is the date of her death, which becomes the object of a complex __translation__ to the _arab tradition_, in order to make it __nine__, her number.
+
+- xxxi. the __division__ now anticipates the song; _the secondary meaning emerges from the primary?_
+
+- xxxiv. the death of beatrice occupies an _almost metaphysical space_; but here we return (after a year) to the streets of florence, and its precise local circumstances. d. is drawing angels on some tablets, and two men discover him.
+
+	- the poem, however, ignores these specific details; it has __two beginnings__ - one with love, the other with mary. the whole section deals with __mourning__ and its social perception.
+
+- xxxvii. d. curses his eyes for finding too much enjoyment in another woman. he has to keep steadfast his leading thought, his __awareness__, his mourning. boethian __memento__.
+
+- xxxviii. a new doubt, then - should the poet forget his grief, and pursue a new, __ephemeral happiness__? the mode to express it is, again, __psychological allegory__.
+
+- xxxix. a __vision__ of beatrice calls the poet back; he bears the signs of suffering so much that his own appearance becomes __figura__, like that of a martyr (purple eyes - circles).
+
+- Xl. the episode of the pilgrims, on their way to see the _impression of christ on the veil_. is it another allegory? dante wonders how they can live without knowing b.
+	- two signs compared - the __image__ and the __historical person__; and the loss of _an entire city_.
+
+- xli. the last sonnet is the complete, accomplished description of the __elevation__ achieved through the thought and the praise of beatrice. thus, by means of her, dante's "__sospiro__" reaches the spaces "oltre la spera che piu larga gira."
+
+	- this is the first journey of a pilgrim that moves prompted by "__intelligenza nova__."
+
+- xlii. here we have an anticipation of __commedia__, in the form of an _invocation to god_.
