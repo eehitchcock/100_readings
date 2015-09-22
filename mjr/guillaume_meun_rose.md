@@ -234,3 +234,19 @@
 	- from natural phemomena, jean moves to _mirrors and illusions_. __appearance and deceit__ seem to be his strongest focus, even when dealing with the physical world.
 
 - 21720. eventually, wiser with all the previous exposition (humanity, free will and the order of the cosmos), the poet has access to the rose - and he fully enjoys it.
+
+##Conclusive thoughts
+
+1. Here the allegorical mode is strongly preponderant. We find a number of new instruments:
+
+	1. _allegorical personification_ where the idea mixes _abstract features_ and _historical details_ drawn from specific individuals (flat and tridimensional, like the initial frescoes);
+
+	2. the idea of a readable procession (mode one, a _list_);
+
+	3. the idea of meaningful spatialization (mode two, a _hierarchy_ or a _taxonomy_, where ideas are _grouped together_);
+
+	4. a strong narrative drive, here drawn from the tradition of romance.
+
+2. The themes are those of __appearance__ and __performance__.
+
+	- The poets, and especially Jean de Meun, are also particularly eager to include _literary form, convention and tradition_ among the objects of their inquiry.
