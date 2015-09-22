@@ -275,3 +275,21 @@
 	- the ending is __pure philosophy__.
 
 	- there are two orders of necessity; but for god all is one. the ending, addressed to a _second person plural_, as an __impereative__ in a sermon (_omiletic_), describes __god's eye__, seeing all.
+
+##Conclusive thoughts
+
+1. The structure of the volume:
+
+	1. Book one: Boethius' double misery. His _forgetfulness_ and his physical _imprisonment_.
+	
+	2. Book two: fortune and material goods are deceiving; they are unstable and ephemeral.
+
+	3. Book three: the highest good is one, and every man seeks it; it is God.
+
+	4. Book four: the origin of evil; the problem of perspective, between unfathomable _providentia_ and deceiving _fatum_.
+
+	5. Book five: free will and eternity.
+
+2. A pedagogical manual, where form and content are attentively distributed in order to achieve clarity and effectiveness. The learner has to access new ideas only when he or she is ready for them.
+
+3. The argumentative instruments employed are also different, from monologic exposition, to maieutic dialogue, from poetic exempla, to tight theological (or philosophical) argument. Similarly, Boethius contemplates different objects according to his purpose: the natural world from a scientific perspective, or the domain of ideas from a purely metaphysical one. 
