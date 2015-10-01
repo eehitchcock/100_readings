@@ -188,4 +188,66 @@
 
 	- the audience probably became the people of jerusalem in the fiction. a number of fictional citizens have understood very well _who he is_.
 
-	- a pauper and a blind man are chosen as jesus' interlocutors. eventually the blidn man can __see the show__, participate in the privilege. zache climbs up on the tree to see j. better; the whole piece becomes a __triumph of vision__ (even in vocabulary). [_meditation on the role of sensorial experience in the 
+	- a pauper and a blind man are chosen as jesus' interlocutors. eventually the blind man can __see the show__, participate in the privilege. zache climbs up on the tree to see j. better; the whole piece becomes a __triumph of vision__ (even in vocabulary). [_meditation on the role of sensorial experience in the understanding of divinity, and the making of faith. jesus makes a visible performance of his arrival into the city in order to be interpreted correctly by those who see him._]
+
+26. with pilatus we have the return of __aliteration__ (which really is the poetical counterpart of power).
+
+	- he's the core of the piece, and in a way he succumbs to the insistent requests of the jewish clergy. his long alliterative metre becomes short and rhymed. the whole piece is suspended between comedy and a strong sense of foreboding. judas is first seen as he tries to access the doors of the palace. this is the most heavily dramatic piece we've read so far - in a way, both the most complex and the most conventional. many characters. [_it is the piece about the conspiration; the jewish priests and authorities ordeal jesus' death, and judas enters the scene as the missing piece that they had been waiting for. therefore, this complexity requires a more elaborate plotting of the play itself - a larger number of characters, and a dense set of interactions among them._]
+
+27. the most famous lines of the last supper are uttered first in __latin__, then in __english__. there is a strong sense of slow, meaningful __translation__ here - the _interpretation_ of a textual tradition (the most famous lines of the gospel, perhaps), its unpacking.
+
+28. the piece about the betrayal mirrors the early pieces with god and the first generations of mankind - jesus speaks in a consistently alliterative line; the apostles misunderstand him, and the metre is often broken. __typology in the making__. echoes.
+
+29. so many of these plays start with a character explicitly asserting his power, often in alliterative lines. here it is cayphas. the theme is still __misunderstanding__.
+
+	- here we have the beginning of __degradation__ and __torture__. the miles' sick games.
+
+30. pilatus prepares for the trial. here we have a vision of the devil, happening in his sleep. - actually, he visits pilatus' wife, and tricks her to have jesus condemned. not a true vision. the devil knows that he will be misunderstood - and he uses that.
+
+	- the trial contains an attempt to understand jesus' preachings, including a discusson about the __meaning__ of the word _osanna_ (pure __interpretation__). (__linguistic.).
+
+31. herod is a creature out of hell; misunderstanding and cowardice become here pure evil. formally, the play alternates between __alliterative lines__ and __broken metre__ that could even resemble prose. herod is told every miracle performed by jesus - no lies. but the same miracles are interpreted as "dedis of the devil" by the judge. with him, jesus even stays silent. [_the same signifier leads to a different signified; and the supposed interpreter becomes a silent sign, because history has to be built upon misinterpretation - because misinterpretation is the key to redemption. because we translate these words wrong, and we will keep doing it, and this is what makes history flow. the redemption of the original sin is produced by the greatest historical sin of misinterpretation._]
+
+32. judas and pilatus meet for the last time - judas repents and restitutes the money.
+
+33. pilatus speaks here with one of the most __irregular metres__ observed so far. jesus and especially his speech have disappeared. [_jesus' silence would deserve so much attention; we live in jesus' silence, we live in the time where jesus is a silent signifier, and we have to work towards its interpretation constantly._] the language of everybody else has grown to its excess; his has shrivelled. and, through torture (here too, in the form of the miles describing the ways in which they beat and hurt him), his body becomes both a sign and a threatened entity - close to its disappearance. [_torture should be studied further. torture as the disappearance of the signifier, or as its making (think parchment and flaying)._]
+
+	- history might become the single interpretable sign right now - gestures, when all else is lost. [_and this contradiction - history as a nonverbal sign; signifiers that work without words, that try constantly to exist and make meaning without words._]
+
+34. the crucifixion is preceded by the road to calvary. apostles and the miles, builders of history. [_the sense, like in noah's piece, of a collective effort - of a collective craft - a thing that a town makes with their hands - a ship, a scaffold to torture and kill._]
+
+35. the actual crucifixion, a series of __couplets__ spoken by the miles who set up the cross, is interrupted by jesus' prayers to god. the whole process is __necessary__ - and now too. [_obscure conclusion; this is probably the darkest moment of history in the making. ecce homo. jesus' starts speaking again as the wounds in his body let his spirit - the breath of his life - away._]
+
+36. jesus begins to speak again, now that he is placed on the cross and close to death. his speech translates and paraphrases the words of the gospel.
+
+37. the action moves to the underworld, and jesus - now dead - liberates hell's prisoners in the "__harrowing of hell__." we hear all prophets and patriarchs; then the devils and satan; eventually jesus, speaking __latin__ and __english__, commanding the liberation of the hostages like in __epic__ or in a __roman__. opening the gates of hell.
+
+38. pilatus is told about the signs following jesus' death. he also learns about the prophecies regarding the __resurrection__. we have then the posing of the stone and the resurrection itself; the body has disappeared from the sepulcher [_what has disappeared? the signifier? the primary meaning? the literal level? what is the body, who speaks here?_]
+
+	- the passage opens and closes on pilatus; the character is the quintessential reader. [_that is, pilatus stands in not for the audience but for the interpreter; for the quiet reader who is reading this set of plays as the novel about jesus. he is the character whose intimacy we are closest to - not jesus at all._]
+
+39. jesus appears to magdalene - but he is not __recognized__ immediately; she believes him. [_that is, she believes him later, when he explains the situation to her._]
+
+40. the piece about the travelers to emmaus resembles the one about the shepherds. these anonymous, marginal characters __interpret__ what has happened so far - the torture and the crucifixion. the men dine with jesus, without recognizing him [_theoxeny, meaning in the making_], until he has gone. again, misunderstanding.
+
+41. this piece has a beautuful, __regular meter and rhyme pattern__. as the apostles' discuss jesus' death, this appears among them. thomas is the __doubting__ figure; his resistance is similar to joseph's stubborness - the resistance of the disciple, of the __interpreter who misinterprets__.
+
+	- thomas is compared to the brethen who believe without seeing. but the audience sees. [_that is, we are not the virtuous brethen; we are thomas. or - maybe - we are a version of thomas, experienced the echoing typology of this performance._]
+
+42. a long monologue by jesus precedes the moment of the ascension. here jesus explains his actions and the prophecies surrounding them - he reveals the __meaning__ of his life. the triumph of __signs__ interpreted, contrasting with the silence of his death. eventually the apostles know what to do. [_is this the encounter, the matching of primary and secondary meaning? or is it, instead, simply the disappearance - the fading away - of the literal level, of the signifier?_]
+
+43. the pentecost is introduced by the apostles explaining their mission, and using many __latin quotations__. like the plays, the apostles are __translators__.
+
+	- they function as __translators__ and __preachers__ of words and history.
+
+44. the angel announces to mary her upcoming death. they eventually meet in heaven, triumphantly. it is a feast of love and holiness.
+
+45. a long complaint with thomas apostolus mourning the deaths of mary and her son; he is angry and upset. he summarizes again the horror of the passion. a group of angels asks marie to raise - abundant __repetition__ and __anaphora__. it is a beautiful praise (__laus__) of mary. finally even this _mute_, brutal sign, death, is decyphered. and thomas tells the others his __vision__.
+
+	- this is an actual __vision__, like the one of the devil in pilatus' piece. [_and vision within vision should be traced constantly. what does it mean to see the holy? what does it mean to see these characters seeing the holy, experiencing holiness visually?_]
+
+46. in heaven, jesus and mary meet and perform a marriage. this is __a vision for us__ [_true, we have two matching moments in these plays - the underworld of the harrowing of hell, and the heavenly marriage of mary and jesus in heaven, inspired by the song of songs. these are moments when the perspective of the plays leaves the earthly manifestations of the divine, and pictures the worlds beyond ours - what is hell, what is heaven, how are we allowed to see them?_]
+
+47. god father, speaking in __couplets__, retells the history of the universe. good souls and bad souls are divided. god uses his own story of incarnation and sacrifice as the motive for his justice. an __omiletic conclusion__, in which god himself explains what good and bad souls deserve in the afterlife. this is the end of the day, and the end of "all earthly thyng."
+
+	- the conclusion is about how god was there, he was the other - the neighbor - who needed to be clothed and fed. __definitive allegory__. [_that is, right now, as you leave this feast, remember that your neighbor stands for god. he is the signifier of god._]
