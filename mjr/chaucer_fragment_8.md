@@ -59,3 +59,23 @@
 930. a long description of the labor itself - it is a sort of material substitute of an intellectual method - it is an __experimental__ method, in a way. chaucer seems to acknowledge this, by having the yeoman expose his knowledge of astrology and the elements. and the description of these characters' devotion reveals a genuine motivation - they believe in what they are doing, they sacrifice everything for their research. they grow poor and attract the people's scorn. the description of the pot exploding involves the __devil__. some of these lists of matters and stones may refer to the __tradition of lapidaries and bestiaries__.
 
 	- words become items; it is also an exposition similar to saint cecilie's teachings.
+
+971. the experiments constantly fail; the matter is sweeped and reused. a cycle that might be endless; a group of investors that keep __hoping__. their direct speeches about the possible causes for the failure of the experiment indicate a __vivid collective effort__.
+
+1073. the actual tale is about a priest and a canon. the canon is an expert __manipulator__ - he can use his words very well for fiendish purposes. the tale becomes a __mirror__ of the previous one - __conversion__ to christianity, and __conversion__ out of it. __greed and rhetoric__.
+
+1175. as the canon practices his tricks to beguile the priest, we learn that he is a sort of fiend from another world. "on his falsehede fayn wolde i me wreke, | if i wiste how, but he is heere and there; | he is sovariaunt, he abit nowhere." __embodied evil__ [_the sort of agent operating in history that we have seen in other dream visions and allegorical personifications._]
+
+1278. with the number of experiments, it increases the priest's happiness, excitement and __hope__ [_strong sense of expectation; in a way, it is a wish to witness the supernatural, an anxiety to experience something transcendent or divine._] as well. the description of the __art__ has changed from the first part. now it is just a series of __tricks__, done with malevolence and without any curiosity. it is also a lesson on mistrusting appearances and senses (the opposite from the nun's tale, about the __true vision__ of theology). __deception__.
+
+1374. the final gladness experienced by the priest makes him comparable to a bird in spring, to a lady in love, to a knight in a romance. he loses his __identity__ and perhaps his __dignity__. no longer recognizable as a man of religion. he is now as covetous as the rest of society. he buys the formula for forty pounds.
+
+1481. the conclusion is a long __explicit moral__ - about greed caused by need and about the neverending hope that drives men to blindness.
+
+	- the tale had a strong sense of its __consistent imagery__ - the fire, the sweat, the metal [_although prof. johnson pointed out that the versification is especially faulty here; the couplets are highly irregular compared to the rest of the tales, and especially to the perfect form of the second nun's one._]
+
+	- there is a contrast between __sensorial__ and __intellectual__ blindness.
+
+	- eventually, the yeoman describes some of the hermetic vocabulary employed by the alchemists. it is conveived to be solely understood and used by them [_this conclusive digression is also another way in which the form of this tale can be considered broken and faulty_].
+
+	- the quest is cryptic because the object can only be granted by the higher virtue of god; the ending identifies the stoon with a __distant theological truth__; theology and alchemy might work similarly [_this is perhaps the most disconcerting implication of this pairing, or the most clever; as boethius has taught us, humans all llok for the same object - the highest good; only, they use different paths to get there, some of which are incorrect_].
