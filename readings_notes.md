@@ -1,12 +1,21 @@
-#Notes - August 19th 2015
+#Suggested secondary readings: Vision
 
-##To-do list
+- __Beckwith__, Sarah, _Signifying God: Social Relation and Symbolic Act in the York Corpus Christi Plays_, Chicago UP, 2001 (Book, 312 pp.)
 
-1. Get started on all four lists; nothing will give you a better sense of what's next than some careful hands-on work.
-2. Contact the four advisors (next week?) to define a schedule for the first few meetings.
-3. Decide on an effective, convenient system for annotations and end-notes. Understand how many texts would be available right noow; how many should be bought; how many could simply be printed out.
-  - Ideally, we should be able to combine bot; we should have a _hard-copy_ for each single text, and a digital system of annotations to accompany it. We know very well that that would be the perfect combination.
-  - Also, we should keep in mind that some texts __won't__ be available on-line; the perfect examples are _Copeland's_ anthology, and every facsimile that we will be using for the first MN list.
-  - For this last point, therefore, we should find a better, more versatile system.
-  - For now, we will try using a single .md file for each text, as we had initially planned.
-  
+- __Minnis__, Alastair, _Affection and Imagination in 'Cloud of Unknowing' and Hilton's 'Scale of Perfection'_, Traditio, 1983 (Article, 44 pp.)
+
+- __Johnson__, Eleanor, _Feeling Time, Will, and Words: Vernacular Devotion in the Cloud of Unknowing_, The Journal of Medieval and Early Modern Studies, 2011 (Article, 24 pp.)
+
+- __Hanna__, Ralph, _Pursuing History: Middle English Manuscripts and Their Texts_, Stanford University Press, 1996 (Book, not sure about this)
+
+- __Carruthers__, Mary, _The Book of Memory: A Study of Memory in Medieval Culture_, Cambridge UP, 2008 (Book, 540 pp., looks great)
+
+- __Carruthers__, Mary, _The Craft of Thought: Meditation, Rhetoric, and the Making of Images, 400-1200_, Cambridge UP, 2000 (Book, 456 pp., great too - candidate for mnr1?)
+
+- __Dean__, James, _Dismantling the Canterbury Book_, PMLA, 1985 (Article, 16 pp.)
+
+- __Karnes__, Michelle, _Will's Imagination in Piers Plowman_, JEPG, 2009 (Article, 31 pp.)
+
+- __Peck__, Russell, _Kingship & Common Profit in Gower's Confessio Amantis_, Southern Illinois UP, 1978 (Book, 204 pp., maybe not that relevant)
+
+- __Johnson__, Eleanor, _English Law and the Man of Law's "Prose" Tale_, JEPG, 2015 (Article, 21 pp.)
