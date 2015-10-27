@@ -53,70 +53,83 @@
 
 - - -
 
-- Anonymous, _Libro de Apolonio_ (660 ll.)
-- Anonymous, _Sir Tristrem_ (3510 ll.)
+#Major List 2
 
 ##Week 9: October 26th
 
-- Buchtal, _Historia Troiana: Studies in the History of Mediaeval Secular Illustration_ (74 pp.)
-- Anonymous, _Libro de Alexandre_ (10700 ll.)
+- Amis e Amilun?
+- The Romance of Horn?
+- Gui de Warewic?
+- Roman de Thèbes?
+- Wace, Roman de Brut? (14866 ll.)
 
 ##Week 10: November 2nd
 
+- _Amis and Amiloun_ (2509 ll.)	
+- _Havelok the Dane_ (3001 ll.)
 - Pearl Poet, _Sir Gawain and the Green Knight_ (2530 ll.)
-- Parkes, _Pause and effect: an Introduction to the History of Punctuation in the West_ (327 pp.)
-- Guilhem de Tudela and Anonymous, _Cancon de la Crosada_ (9560 ll.)
-
-- Copeland, _Rhetoric, Hermeneutics, and Translation in the Middle Ages_ (312 pp.)
-- Kaeuper, _Holy Warriors: The Religious Ideology of Chivalry_ (344 pp.)	
-- Anonymous, _The Cloud of Unknowing_ (2529 ll.)
-
-
-- Anonymous, _Amis and Amiloun_ (2509 ll.)	
-- Parkes, _The Influence of the Concepts of_ Ordinatio _and_ Compilatio (27 pp.)
 
 ##Week 11: November 9th
 
-- Chaucer, _The Canterbury Tales_, Fr. 1 (4422 ll.)
-
-- Chretien de Troyes, _Yvain, le Chevalier au Lion_ (6818 ll.)
-- Cannon, _The Grounds of English Literature_ (250 pp.)
-- Crane, _Insular Romance_ (262 pp.)
-
-
-- Doyle and Parkes, _The Production of Copies of the_ Canterbury Tales (47 pp.)
+- _Floris and Blancheflour_ (1225 ll.)
+- _Sir Orfeo_ (604 ll.)
+- Chaucer, _Troilus and Criseyde_ (8239 ll.)
 
 ##Week 12: November 16th
 
-- Chaucer, _The Canterbury Tales_, Fr. 3 (2294 ll.)
-- Chaucer, _The Canterbury Tales_, Fr. 4 (2240 ll.)
-- Cohen, _Medieval Identity Machines_ (368 pp.)
+- _Stanzaic Guy of Warwick_ (3589 ll.)
+- _Sir Tristrem_ (3510 ll.)
+- Chaucer, _The Canterbury Tales_, Fr. 1 (4422 ll.)
 
 ##Week 13: November 23rd
 
+- Chaucer, _The Canterbury Tales_, Fr. 3 (2294 ll.)
+- Chaucer, _The Canterbury Tales_, Fr. 4 (2240 ll.)
 - Chaucer, _The Canterbury Tales_, Fr. 5 (1624 ll.)
-- Reynolds, _Medieval Reading: Grammar, Rhetoric, and the Classical Text_ (235 pp.)
 
 ##Week 14: November 30th
 
 - Chaucer, _The Canterbury Tales_, Fr. 7 (3462 ll.)
-- Anonymous, _Cantar de mio Cid_ (3735 ll.)
 
 ##Week 15: December 7th
 
-- Kerby-Fulton, _Iconography and the Professional Reader_ (288 pp.)
+- _Alliterative Morte Arthure_ (4346 ll.)
 
 ##Week 16: December 14th
 
-- Anonymous, _Sir Orfeo_ (604 ll.)
+- Lydgate, _Troy Book: Selections_
+
+- - -
+
+#Winter Break
+
+- - -
+
+##To be continued
+
+- Buchtal, _Historia Troiana: Studies in the History of Mediaeval Secular Illustration_ (74 pp.)
+- Anonymous, _Libro de Alexandre_ (10700 ll.)
+- Parkes, _The Influence of the Concepts of_ Ordinatio _and_ Compilatio (27 pp.)
+
+- Kerby-Fulton, _Iconography and the Professional Reader_ (288 pp.)
+- Anonymous, _Cantar de mio Cid_ (3735 ll.)
+- Reynolds, _Medieval Reading: Grammar, Rhetoric, and the Classical Text_ (235 pp.)
+- Chretien de Troyes, _Yvain, le Chevalier au Lion_ (6818 ll.)
+- Cannon, _The Grounds of English Literature_ (250 pp.)
+- Crane, _Insular Romance_ (262 pp.)
+- Cohen, _Medieval Identity Machines_ (368 pp.)
+- Anonymous, _Libro de Apolonio_ (660 ll.)
+- Doyle and Parkes, _The Production of Copies of the_ Canterbury Tales (47 pp.)
+- Parkes, _Pause and effect: an Introduction to the History of Punctuation in the West_ (327 pp.)
+- Guilhem de Tudela and Anonymous, _Cancon de la Crosada_ (9560 ll.)
+- Copeland, _Rhetoric, Hermeneutics, and Translation in the Middle Ages_ (312 pp.)
+- Kaeuper, _Holy Warriors: The Religious Ideology of Chivalry_ (344 pp.)
 
 - - -
 
 #Winter Break
 
 ##Week 17: January 18th
-
-- Anonymous, _Alliterative Morte Arthure_ (4346 ll.)
 
 ##Week 18: January 25th
 
