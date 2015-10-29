@@ -80,4 +80,56 @@
 
 679. on the ship, as the merchant again threatens her to have sex with her [_threatens to kill her in order to have sex with her_], she obtains a miraculous storm through her prayer, which sends her to a new shore. an act of __providence__.
 
-777. __providence__ has also avenged the empress by sending illnesses to her attackers [__NB__: _the readability of providence is the readability of the signifier of time; it is our ability to perceive god in history - at times we are able to read god in history, to allign the broken signifiers of time with the eternal single meaning of divinity - when this happens, we are accessing the high theological truths contemplated by the inaccessible spheres - through visions - through dreams - when we are able to allign the signified and the signifier, we are doing what the angels do in the primum mobile - we are reading god, we are interpreting god - interpretation is the machine that brings us closer to god - interpretation is time and eternity occupying the same space in the chain of meaning, of the meaning making machine. interpretation is theology, but interpretation is also ethical and even ontological ascension. the angels are readers; the angels are working with signifiers and signifieds, as we are. this is a moment when providence and fate suddenly coincide - when fate has become readable as providence; it is, therefore, a moment when we can access god._] - leprosy to one steward, palsy to the other. the hand of god is restoring order (through illness, a relevant issue for hoccleve); fate becomes providence (same for the thief-servant and the merchant - the latter in a frenzy). is hoccleve implying that his own sickness.
+777. __providence__ has also avenged the empress by sending illnesses to her attackers [__NB__: _the readability of providence is the readability of the signifier of time; it is our ability to perceive god in history - at times we are able to read god in history, to allign the broken signifiers of time with the eternal single meaning of divinity - when this happens, we are accessing the high theological truths contemplated by the inaccessible spheres - through visions - through dreams - when we are able to allign the signified and the signifier, we are doing what the angels do in the primum mobile - we are reading god, we are interpreting god - interpretation is the machine that brings us closer to god - interpretation is time and eternity occupying the same space in the chain of meaning, of the meaning making machine. interpretation is theology, but interpretation is also ethical and even ontological ascension. the angels are readers; the angels are working with signifiers and signifieds, as we are. this is a moment when providence and fate suddenly coincide - when fate has become readable as providence; it is, therefore, a moment when we can access god._] - leprosy to one steward, palsy to the other. the hand of god is restoring order (through illness, a relevant issue for hoccleve); fate becomes providence (same for the thief-servant and the merchant - the latter in a frenzy). is hoccleve implying that his own sickness was motivated by his previous mistreatment of women? is he justifying madness? atoning?
+	
+	- the topic is indeed __contrition__: the emperor brings his brother to the woman, now living as a nun, unable to heal diseases. there we find the other sick sinners too. she refuses to cure them; they will be able to recover only after they confess sincerely. like hoccleve?
+
+885. the sincere confession of the steward prompts both the emperor's anger and a second confession, by the earl's steward, who connects his account [_his version of the story, his segment of the chronology_] to the brother's one. the confession becomes a __narrative__, slowly connecting the different sections of the story, collectively.
+
+952. the last line of the tale refers to the __inevitability__ of our own __death__. the empress forgives the four sinners, and she heals them all (confession is the unmaking of time - it links the past to the present). at the end of the four stories, the empress reveals her identity and concludes the narrative; __confession has become one with the poet's voice__. [_the poem has become a confession; and, as we have learnt, it was also an act of contrition._]
+
+##The moral of the story
+
+20. a surprising twist; the amicus visits hoccleve again, asks him where the __moral__ is - after having read the __translation__. hoccleve admits that he does not have it. the friend goes to his house to __fetch the moral__ from another edition of the same story, so that hoccleve can translate it into __english prose__, as he does. amicus has a reassuring role.
+
+	- what follows is an extended __paraphrasis__ where every element of the story is matched with its __allegorical meaning__; the process of __interpretation__, in __unambiguous prose__. the explanation is __not entirely convincing__ (many details are left without their parallel). [_signifiers and signifieds do not entirely match; but there is a costant effort to align them again; this effort is lucidity and sanity._]
+
+##Lerne to dye
+
+86. the opening is an invocation to god, to have some new __wisdom__ from him. god responds by saying that the best thing one could learn is __how to die__: with sweetness. reason specifies that her project is not a __memento mori__; it is about the __disposition__ before the inevitable event that awaits everyone [_the awareness of inevitable death is given for granted; it requires no further exposition_]. this preparation is the most valuable teaching.
+
+168. the disciple imagines a dying man; __imaginative__ is employed as a pedagogical means. the dying man then imagines death (__performance__ is a cardinal rhetorical and intellectual instrument in hoccleve - he inteprets ideas, he performs them mentally). __dialog__. [_hoccleve has much in common with langland._]
+
+287. it is a fictional dialog between the man, disciple and poet, and personified death. the personified death [_imago mortis, the dying man_] complains about the ephemeral quality of life and __time__, and of his waste of devotion towards material pursuits. the problem is that he did not learn to die.
+
+420. the personification can become a __mirror__ for the poet [_another crucial motive; the mirror is both the mirror of imaginative, the performance of imagination, and poetry as a way to know the self, to understand the ways in which the self would hypothetically operate (remember the hypothetical period in kafka; the cardinal device of betrachtung)_]; the discussion now concerns __repentance__ and its possibility so late in life. it is unthinkable for personified death. [_imago mortis is also the embodiment of despair._]
+
+514. the disciple is now learning from the imago mortis how to learn to die. the personification has become the __teacher__. the method is again __imaginative personification__ (or performance); the image asks the poet to imagine his soul in purgatory, as he repents the time misspent.
+
+623. hoccleve's problem - the disciple's - is here that of __reception__ - how can people be __persuaded__ [_what is the poetical, intellectual, pedagogical instrument_] that their behavior must change? the answer is that they must consider their death as the end of earthly suffering and the beginning of __true bliss__. they must consider __life a vision__.
+
+740. a description of __death__ from the perspective of the dying man - slow list of symptoms. the image's speech ends with another imagined speech - that of the tormented souls of hell.
+
+822. the poet has __absorbed__ the image of death [_a langlandian move; and one that reminds us of the conclusion of usk as well_]; he repents loudly, as he would, asking for mercy.
+
+917. the final words are spoken by "sapience," who recommends __contrition__ and virtue to the poet. [_a final boethian turn._]
+
+##The joys of heaven
+
+- the poet explains that, since his power to compose [_verses_] is limited, he won't translate the entire book but only the description of the celestial jerusalem, and only in prose. bliss with __heavenly clarity__.
+
+##Jonatha's tale
+
+84. as a mirror to virtuous women, the friend suggests that hoccleve now [should] translate the tale of an unchaste woman; this should serve as an example against lechery. the tale is accepted.
+
+182. the tale is a mixture of __romance__ and __parable__, with a young boy using the __talents__ of magic gifts.
+
+301. the son wastes all of his mother's gifts for the love of his mistress. lecherous waste.
+
+	- it is interesting to notice that the woman - fellicula - is met at the university. [_what does this imply? what sort of dangerous knowledge does she stand for?_]
+
+497. in his journey home, jonathas falls ill and recovers from sickness. __old age__ and infirmity return here, as elements that constitute much of hoccleve's imagination [_both allegorical and very concrete_].
+
+637. as in the previous tale, jonathas becomes a healer, and the villain can be cured only if she confesses. the inversion of gender might imply a progression for the poet [_an improvement in his condition, and an actual enlightment in his ability to understand and controll sin_].
+
+	- this parable too is followed by a moral in prose, and by a dedication to lady westmoreland, to whom the book is dedicated.
