@@ -34,4 +34,38 @@
 
 	- he describes how we are supposed to feel, but he does not make us feel.
 
-385. in his descriptio
+385. in his description of __sin__ and of its historical and psychological causes, the parson includes a narration of the original sin in genesis and a simile that compares sin to water slowly penetrating the bottom of a ship; but the two images are __controlled and structured__; he explains carefully the __figurative__ (secondary, the tenor) meaning of each element of the example. reason, not poetry.
+
+	- there is a __moral implication__ to this somberness - it seems consistent with the way in which sin is declared as any sort of __earthly enjoyment__.
+
+389. the parson refers to the "chapitres folwynge"; he is composing a __treatise__ [_an abridged penitential manual_], not a tale.
+
+	- he maintains the simile of the tree; but now this refers to sin, not confession.
+	
+	- the simile of the tree is fitting for his exhaustive __taxonomical method__ - every "twig" [_that is, every small branch of his wide taxonomy_].
+
+473. the description of pride focuses on both its internal effects and its outer appearance; it contains a description of the scandalous clothing worn by some of the parson's contemporaries, which makes them __bestial__ in shape, and similar to a grotesque caricature of their future suffering in hell (flaying, sickness, the debasement of human nature). it is colorful but short. it emphasizes how clothing displays every __imperfection of the body__ (the parson hates the body). the body is the root of sin.
+
+580. __ira__ has one of the most extensive treatments in this procession. a physical simile is employed to make its danger understandable - it is like a __fire__, burning in a secret oven, impossible to put out. all these images are used to describe the ferocity of the physical world. the parson then includes an articulate analysis of homicide, which he extends to many diverse crimes, including abortion. [_ira is therefore connected to homicide, which is in turn connected to most sins; ira, as we have seen, is the execution of sin._]
+
+675. verbal sins, such as swearing and lying, are included among the types of wrath. wrath is the execution, the actual __performance of sin__; its remedy is patience (endurance). every sin has its specific __remedy__; in these sections as well the parson moves __between description and prescription__ - he exposes how things should be.
+
+	- the way in which sins and virtues are described, between their inner causes and their outer concrete effects, is consistent with the portrait of the parson - __activa and contemplativa__.
+	
+	- remember that that contrast was also cardinal to _cloud of unknowing_ and its style. [_contemplation is the purity of prose; active life corresponds to the colorful distractions of poetry and its objects. the same phenomenon was perceivable in langland, after all. and it was eventually broken by the irruption of gluttony. gluttony is pure activa - it is the body._]
+
+803. with accidia and avaritia the focus shifts to the __social implications__ of individual sins; the parson wants us to realize that the immorality of these sins provokes __social injustice__. avaritia is also connected to idolatry and sacrilege - those of other faiths. [_avaritia, through the biblical golden calf, becomes the quintessential threat to monotheism. polytheism is a form of materialism._]
+
+	- the description of __gluttony__ is the shortest - the exposition seems __complementary__ to that of the _pardoner's tale_; here there is absolutely no indulgence in the material world that it is being condemned. it is a __pure rejection of pleasure__ - and it is, therefore, __unpleasant__. virtue is boring, the parson seems to imply; it has to be boring. this treatise will only consider the boring parts of sinfulness. [_the tales are an improper pedagogical instrument; they are mixed with vita activa, and they are entertaining. telling tales is a sinful activity, mixed with lechery and gluttony._]
+
+913. the description of lechery focuses on the __social and theological implications__ of the behaviors that it simply lists - it does not describe anything in scandalous detail.
+ 
+957. the conclusion of the procession is an exposition of __marriage__ as a remedy to lechery. marriage is described in its __legal and ethical__ aspects, as the foundational unit of society - as in gower, the first regulation of desire (the core of society).
+
+1027. the section devoted to __confession__ contains a series of instructions and conditions that make confession __valid__ - in a way, legitimate [_legal language_]. here the piece resembles most an actual __penitential manual__ - the steps that lead to __proper absolution__.
+
+	- the branches and the textual markers probably serve this purpose - be __useful__.
+
+1080. the conclusion of the piece is a short description of __eternal bliss in heaven__ [_just like in hoccleve's "lerne to dye"_]; the emphatic reward.
+
+1091. chaucer and the parson become __one__ in the conclusion - their voices merge, and the books merge - the entirety of canterbury with the small final piece (retold or written?) belonging to the parson. the great book of tales has become a __small penitential manual__. they share the same humbleness and the same intent - like in piers plowman, __the character has absorbed the personification__. chaucer then reminds the readers of his books, and saves only _boethius_ and his religious writings; canterbury, with the other masterpieces, is condemned. the ending is a prayer.
