@@ -74,4 +74,6 @@
 
 	- the tone becomes increasingly __religious__, and the characters pray god more and more [_this happens at the end of horn as well_].
 
-1250. healed, the lord amilun returns to his country, forgives everybody but his wife, who in shame has hidden in her room the 
+1250. healed, the lord amilun returns to his country, forgives everybody but his wife, who in shame has hidden in her room. the punishment devised for her is specular to the way in which amilun was treated; the hut is turned into a watch-tower, for everybody to see, and she is imprisoned there until her death. "a morters gisent en lombardie"; amilun decides to never remary and grants all of his inheritance to owain, the boy. in mortara their bodies, buried together, grant miracles to the pilgrims (heal blindness and muteness).
+
+- __Form__: __octosyllabic couplets__. the lines often parallel the two friends formally too.
