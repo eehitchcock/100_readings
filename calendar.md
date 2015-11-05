@@ -57,11 +57,9 @@
 
 ##Week 9: October 26th
 
-- Amis e Amilun?
-- The Romance of Horn?
-- Gui de Warewic?
-- Roman de Thèbes?
-- Wace, Roman de Brut? (14866 ll.)
+- _Amis e Amilun_
+- _Romance of Horn_
+- Thomas, _Tristran_
 
 ##Week 10: November 2nd
 
