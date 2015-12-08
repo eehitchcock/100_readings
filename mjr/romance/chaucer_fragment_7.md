@@ -1,0 +1,39 @@
+#The canterbury tales - fragment 7
+
+##Introduction
+
+- the longest and the most varied of the groups of tales; probably formed __late in the production__ of the poem [when chaucer already knew what his work was about]; it obviously never received a final revision. it is harder to find a unifying topic for the tales here; some call it a __literary group__ (many genres).
+
+- the __shipman's tale__ may be chaucer's __earliest fabliau__; it is relatively simple compared to the _miller's_ and the _reve's_ ones. it was probably initially told by the wife.
+
+- the __prioress' tale__ is a __miracle of the virgin__, where __pathos and violence__ are emphasized.
+
+- __chaucer's tale__ should serve as a relief from the prioress' somber tale; it is a __pastiche__ of many __minstrel romances__; these were a popular genre [with] which chaucer was probably well acquainted with.
+
+	- it is a __parody__, both literary and social; _thopas_ is an __unworthy imitator__, like chaucer.
+
+- the second tale told by chaucer is the __prose of the melibee__; this was, apparently, an immensely popular tale; it is an __allegorical debate__, translated from _albertanus of brescia_.
+
+- the __monk's tale__ was probably written before the conception of c. t.; it is probably ch.'s first experiment with the __collection__ of __short narratives__; it is inspired by boccaccio's _de casibus virorum illoustrium_; it is exemplary in its treatment of __medieval tragedy__ (the influence of __fortune__). the stories are grim, and should show how happiness is deceptive.
+
+- the __nun's priest's tale__ is a __beast fable__, with antecedents in _mdf's [marie de france] book_ as in the _roman de renard_; it is, however, expanded into a grandiose __mock-heroic tragedy__.
+
+##The shipman's tale
+
+207. the first few lines indeed assume a __narrator__ very reminiscent of the _wife of bath_; we have the quintessential premise of a __fabliau__; a merchant and his pretty wife, whom he pleases with gifts and clothes. in this perspective, the woman seems simply __another possession__; and the merchant and one of his "gestes," a "yonge monk" with whom he swears "eterne aliaunce" [this is the triangle, with the relationships based on _treuthe_ - the wife, the monk, the merchant]; and the merchant seems a positive character; he invites the monk to eat and drink and feast with him and his wife, trusting the friend. on the third day, the three characters are busy in different spaces - the merchant is counting his money, the monk is strolling in the garden, and the wife runs into the latter [juxtaposition of closed and open spaces]. the monk and the wife share a long and __suggestive__ dialogue, where the truth is revealed: the monk has no real feelings for the merchant, whom he cherishes only to approach the woman; and the woman hates him, and needs money [therefore, both the relationships that the merchant had _bought_, friendship and marriage, as revealed as insubstantial; eros may be stronger; or - better - another version of economy could be more profitable].
+
+399. the two find a __secret agreement__; the wife tries to distract the husband from his occupations, but he insists on the grave importance of his business, which requires constant devotion. the three have dinner [food is a constant presence in this tale]; after that the monk announces that he's leaving for brugges, and he asks for a loan of "100 frankes." while the merchant is away, completing his tasks almost __virtuosly__ [again, the merchant is described as an irreprehensible figure; he is simply committed to his important job], the monk pays the wife to sleep with him [__inversion__; again, __substitution__, granted by an __economical premise__; the loan is what allows the monk to replace the merchant, even __morally__; money allows for a set of interactions that is independent from ethics; moreover, at times the most successful economical transactions are those that invert, subvert, the assumptions of ethics]. as the merchant returns, the monk explains that he has already restituted the money that he owed, to the wife [the transactions are described in great detail here; now it seems a tale that would hardly suit the _wife of bath_; __fine economical detail__, amost inaccessible to those who are strange to the profession]; the merchant returns home; there, after having enjoyed the company of the woman, he asks her about the loan.
+
+452. asked to respond for the money, the wife blames the monk for being insincere about it, but explains that she will promplty repay her debt (a __transitive__ debt, that now she has contracted with her own husband) by giving him her body. the final word - an __ambiguous moral__ - belongs to the merchant "keep bet thy good," either the __money__ or the __body__; the whole tale seemed based on this equivalence. the hoost now asks the prioresse, afer having turned this tale into a parable _against monks_ [__misinterpretation__? the merchant from the tale, on the other hand, seems to have understood a little better what the deal was about].
+
+##the prioress' prologue and tale
+
+655. the prologue is a prayer to the lord and the virgin mary, treated as a __mother__; it uses images of __childhood__ and, eventually, it describes the __very narrator as an infant__, almost uncapable of articulate speech when confronted with the mystery of divinity [__ineffable__; and compassion for the human]. the tale, in __rhyme royal__, is set in asye, in a jewish ghetto, full of enemies of christ [strange country, strange people - strongly __antisemitic speech__ to describe a hostile context]; there we find a school full of christian chidren. one of them [ch. very rarely describes children] has learned __latin prayers by heart__, without knowing their meaning - by __imitation__ [he is somewhat illiterate]; apparently none of the children knows the actual meaning, but they learn these prayers rather than the school lessons. the child keeps singing in the ghetto, until one of the jews, inspired by satan, cuts his throat and throws his body in a pit. here the "wydwe's" complaint (she is the child's tutor) seems to be one with the narrator's; she looks for him - until when, for a miracle, his body rises and - his throat still slit - starts singing the prayers to mary [analogies with the _st. erkenwald_ tradition]. the christian community carries the child in triumph; and this counts as __proof__ of the jews' guilt, for which those who were aware of the murder are __tortured and killed__. continuing the miracle, the __child speaks__.
+
+690. he speaks to the community of christians, and explains them the miracle; a "greyn" [here the link between the prioress' gluttony and the obsessive orality of her story] was placed on his tongue, to make him sing. when that is removed, he dies again [the grain is speech, food, and life]. everybody mourns.
+
+##the prologue and tale of sir thopas
+
+890. after the conclusion of the _prioress' tale_ every pilgrim seems distraught, and chaucer especially [he is looking down, and his gaze keeps shifting]. the hoost grabs him and shows him to the group; he is treated like a _popet_ - a doll - or a child. the prologue is still in the __rhyme royal__ used for the prioress; it is as if this section was __a continuation, a parody or a reenactment (reinterpretation)__ of the tale - the dumb child speaking with another man's voice, like a puppet [the grain is also an element of gluttony, perhaps]. the hoost and chaucer share the shape of their waist, but not the "countenance" - chaucer is secretive, the host outspoken. 
+
+	- he is asked to tell a "tale of myrthee"; he humbly starts "a rhym" - the form is surprising - a __tail-rhyme stanza__ employed in many other m. e. poems [romances], with __irregular variations__ and __very short lines__
