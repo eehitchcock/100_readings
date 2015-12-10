@@ -110,4 +110,19 @@
 
 292. how did romance address __misogyny__? [one feature of romance that this text is emphasizing: its __strong moral focus__, achieved by employing an apparently __amoral narrator__ - one that does not judge the object of the tale, nor does one comment on it.]
 
-323. romances were __spaces for devate__; positive depictions of women were juxtaposed with negative ones; consider, for instance, the evil mother-in-law [figure] obsessively contrasted with cunstance in the _man of law's tale_.
+323. romances were __spaces for debate__; positive depictions of women were juxtaposed with negative ones; consider, for instance, the evil mother-in-law [figure] obsessively contrasted with cunstance in the _man of law's tale_.
+
+	- __adultery__ is treated in an __ambivalent way__ by the genre; __courtly love__ occasionally coincided with adultery; but the core was __free choice__ when deciding [the very possibility of decision; this is always emphasized by the genre, whether in its negation (paralisis) or in its positive enactment].
+
+##chapter 7: restoring the rightful heir
+
+360. the revelation of the rightful heir [__agnition__] is often accompanied by a __supernatural event__, an almost metaphysical endowment [consider the light out of havelok's mouth]; this is a moment when __magic is needed__, as a physical, __tangible__ proof (_a token_) of something __intangible__.
+
+
+	- one trope is that of the "__fair unknown child__"; he would prove his worth [physical counterpart to his metaphysical predestination; again, consider _horn_ and _havelok_; both works focus on the idea of historical enactment of a metaphysical predestination or force (e.g. providence)].
+
+##chapter 8: unhappy endings
+
+381. the genre soon started experimenting with one of its most __recognizable tropes__ - the happy conclusion. _sggk_, _troilus and criseyde_, and the _knight's tale_, all end __unsatisfactorily__ - as if their authors had been questioning the very possibility of absolute happiness; the _knight's tale_, for instance, contrasts with the __tragedies__ told by the monks [hence the knight's words at the end of the monk's section _in the canterbury tales_], because the world that he describes is idealized and ruled by __providence__, not __fortune__.
+
+408. the conclusion reminds us that _king lear_ too could be considered a _bad romance_ [romance with a bad ending; _this final note exemplifies the purpose of cooper's book and its only partial applicability to our work; the memes that have been chosen all last 500 years; but that is probably not the case for the entirety of the motifs found in romances].
