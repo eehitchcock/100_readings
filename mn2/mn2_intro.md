@@ -10,31 +10,55 @@ __Examiner__: Prof. Jesús Rodríguez-Velasco
 
 1. __-__, _Perceval, le Conte du Graal_ (~1190)
 
+	- __ENG__: Butler Stacks PQ1445.P2 E5 2015g;
+
 1. Lancelot-Graal, _Queste del Saint Graal_ (1220)
+
+	- __ENG__: Butler Stacks PQ1489.L213 L36 1994;
 
 1.  Lancelot-Graal, _Mort Artu_ (1220)
 
 1. __Maimónides__, _Guía de los Perplejos_ (1190)
 
-1. __Alfonso de San Cristóbal__, Vegecio, _Epitoma rei militaris_ (~1400)
+	- __ENG__: Butler Stacks BM545 .D3313 2007;
+
+1. __Alfonso de San Cristóbal__, Vegecio, _Epitoma rei militaris_ (~1400);
+
+	- Requested through __BD__;
 
 1. __Alfonso de Palencia__, _La batalla campal de los perros contra los lobos_ (1457)
+
+	- Requested through __BD__;
 
 1. __Christine de Pizan__, _Epistre Othea_ (~1400)
 
 1. __Enrique de Villena__, _Glosas al primer libro de la Eneida_ (~1410)
 
+	- Requested through __BD__ (and __offsite__?);
+
 1. __Gonzalo de Berceo__, _Milagros de Nuestra Señora_ (~1260)
 
+	- __ESP__: Butler Stacks PQ6397 .M5 2011g;
+
 1. __Hugo de San Víctor__, _Didascalicon de studio legendi_ (~1130)
+
+	- Requested through __BD__;
+
+	- __ENG__: Butler Stacks 900 R245 v.64;
 
 ###Secondary Readings
 
 1. _Medieval Literary Theory and Criticism c. 1100 - c. 1375: The Commentary Tradition_
 
+	- Requested through __BD__;
+
 1. __Aden Kumler__, _Translating Truth: Ambitious Images and Religious Knowledge in Late Medieval France and England_
 
+	- Requested through __BD__;
+
 1. __Henri de Lubac__, _Medieval Exegesis: The Four Senses of Scripture_ (1959-1964)
+
+	- Requested through __BD__.
 
 ---
 
