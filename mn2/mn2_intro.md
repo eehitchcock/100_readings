@@ -2,6 +2,42 @@
 
 __Examiner__: Prof. Jesús Rodríguez-Velasco
 
+##Revised List
+
+###Primary Readings
+
+1. __Chrétien de Troyes__, _Lancelot, le Chevalier de la Charrette_ (~1177)
+
+1. __-__, _Perceval, le Conte du Graal_ (~1190)
+
+1. Lancelot-Graal, _Queste del Saint Graal_ (1220)
+
+1.  Lancelot-Graal, _Mort Artu_ (1220)
+
+1. __Maimónides__, _Guía de los Perplejos_ (1190)
+
+1. __Alfonso de San Cristóbal__, Vegecio, _Epitoma rei militaris_ (~1400)
+
+1. __Alfonso de Palencia__, _La batalla campal de los perros contra los lobos_ (1457)
+
+1. __Christine de Pizan__, _Epistre Othea_ (~1400)
+
+1. __Enrique de Villena__, _Glosas al primer libro de la Eneida_ (~1410)
+
+1. __Gonzalo de Berceo__, _Milagros de Nuestra Señora_ (~1260)
+
+1. __Hugo de San Víctor__, _Didascalicon de studio legendi_ (~1130)
+
+###Secondary Readings
+
+1. _Medieval Literary Theory and Criticism c. 1100 - c. 1375: The Commentary Tradition_
+
+1. __Aden Kumler__, _Translating Truth: Ambitious Images and Religious Knowledge in Late Medieval France and England_
+
+1. __Henri de Lubac__, _Medieval Exegesis: The Four Senses of Scripture_ (1959-1964)
+
+---
+
 ##Rationale
 
 On the one hand, this list is devised as a complement to my major list; it tries to explore the strand of romance, and its manifold transmutations, as they have developed on the continent and, more specifically, in the Franco-Iberian territory, from the second half of the 12th century, with Chrétien de Troyes' Arthurian cycle, to the end of the 14th century, with the short narratives collected in Christine de Pisan's _Epistre Othea_. But, as it expands to incorporate chronicles (Ramón Muntaner, Dom Pedro Afonso) and travel narratives (Ibn Battuta, Ibn Khaldun), this selection is also trying to pose a number of questions related to the ethical and political role of _chivalry_ (_chevalerie_, _caballería_), both in the Christian world and along its geographical and cultural boundaries. What are the ideological foundations of this social class, and how are they related to - or produced by - literary works? How does literature interact with analogous writings - biographical, historiographical - in describing factual events associated to chivalric values (like, for instance, the Albigensian Crusade)? How, instead, does the representation of fictional knights, and of their exploits, problematize the identity of this category?
