@@ -1,0 +1,9 @@
+#Medieval Literary Theory and Criticism: The Commentary Tradition
+
+##Introduction
+
+- the period covered goes from __1100__, when the "introductions to the authors" became established [widespread], to 1375, when boccaccio dies [the last author mentioned in the book]; it includes the __xii s. renaissance__, the raise of __scholasticism__, __universities__, and __italian humanism__ [italy being very prolific for glosses].
+
+- these commentaries trace the __story__ of medieval __criticism__; its techniques and vocabulary __emerged__ in the __xii s.__; they were then picked up by __scholastic philosophy__ in the __xiii s.__, and eventually used to discuss the works of __contemporary authors__ in the __xiv__.
+
+- the __xii s.__ saw the establishment of a __critical idiom__; in the __xiii s.__ this was integrated with the __four causes__ [of cardinal importance in themselves] of __aristotelian metaphysics and phyisics__ [__philosophy__ and __critical commentaries__ are slowly merging; the discourses about the universe and those about poetry converge; _it is an interesting question - how did these spaces become spaces of wider pedagogical exposition, concerning not only the text at hand, but also a wide array of disciplines and educational elements? how did this space slowly expand to contain this sort of ecyclopedic knowledge, at times surpassing the contents of the book itself for abundance and diversity - consider, for instance, enrique's glosses to the aeneid?_]; this meant that the __bible__ had a __primary efficient cause__ [__god__] and a __formal and material cause__ [the __author__ of each book - the human writer; _these two levels correspond, arguably, to the two levels of signification, allegorical and literal; the second one being at times necessary to the first one_]; __attention__ slowly shifted to the __latter__ [the bible starts having __human authors__, _and editors, and techniques, and circumstances_].
