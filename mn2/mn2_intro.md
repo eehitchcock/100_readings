@@ -6,6 +6,10 @@ __Examiner__: Prof. Jesús Rodríguez-Velasco
 
 ###Primary Readings
 
+1. _Teresa de Caragena_, _Arboleda de los enfermos y Admiraçión operum Dey_ - __066M T11 v.15-18__
+
+1. _Christine de Pisane_, City of Ladies __PQ1575.L56 E5 2014__
+
 1. __Chrétien de Troyes__, _Lancelot, le Chevalier de la Charrette_ (~1177)
 
 1. __-__, _Perceval, le Conte du Graal_ (~1190)
