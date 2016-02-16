@@ -6,7 +6,11 @@ __Examiner__: Prof. Jesús Rodríguez-Velasco
 
 ###Primary Readings
 
+1. _Erich Auerbach_, _Figura_ - __PN504 .A94 2014__
 
+1. _Ibn Hazn_, _Ring of the Dove_ - NYU Bobst ; Main Collection ; __HQ19 .I213 1981__
+
+1. _Yan Thomas_, _Les opérations du droit_ - Ordered through BD
 
 - - -
 
