@@ -4,6 +4,14 @@ __Examiner__: Prof. Jesús Rodríguez-Velasco
 
 ##Revised List
 
+###Ideas
+
+1. Bible moralisée
+
+2. Cantigas de santa maria
+
+3. Alain de Lille - Omnis mundi creatura
+
 ###Primary Readings
 
 1. _Erich Auerbach_, _Figura_ - __PN504 .A94 2014__
