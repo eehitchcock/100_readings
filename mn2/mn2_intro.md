@@ -2,6 +2,53 @@
 
 __Examiner__: Prof. Jesús Rodríguez-Velasco
 
+##Global list
+
+1. _Ibn Hazn_, _Ring of the Dove_ - NYU Bobst ; Main Collection ; __HQ19 .I213 1981__ - Butler Reserves __BF575.L8 I36 1994g__
+
+1. _Teresa de Caragena_, _Arboleda de los enfermos y Admiraçión operum Dey_ - __066M T11 v.15-18__
+
+1. _Christine de Pisane_, City of Ladies (1405) __PQ1575.L56 E5 2014__
+
+1. __Chrétien de Troyes__, _Lancelot, le Chevalier de la Charrette_ (~1177)
+
+1. __-__, _Perceval, le Conte du Graal_ (~1190)
+
+1. Lancelot-Graal, _Queste del Saint Graal_ (1220)
+
+1. Lancelot-Graal, _Mort Artu_ (1220)
+
+1. __Maimónides__, _Guía de los Perplejos_ (1190)
+
+1. __Alfonso de San Cristóbal__, Vegecio, _Epitoma rei militaris_ (~1400);
+
+1. __Alfonso de Palencia__, _La batalla campal de los perros contra los lobos_ (1457)
+
+1. __Christine de Pizan__, _Epistre Othea_ (~1400)
+
+1. __Enrique de Villena__, _Glosas al primer libro de la Eneida_ (~1410)
+
+1. __Gonzalo de Berceo__, _Milagros de Nuestra Señora_ (~1260)
+
+1. __Hugo de San Víctor__, _Didascalicon de studio legendi_ (~1130)
+
+###Secondary Readings
+
+1. _Medieval Literary Theory and Criticism c. 1100 - c. 1375: The Commentary Tradition_
+
+1. __Aden Kumler__, _Translating Truth: Ambitious Images and Religious Knowledge in Late Medieval France and England_
+
+1. __-__, _Res et Significatio: The Material Sense of Things in the Middle Ages_
+
+1. __Nirenberg__, David, _Aesthetic Theology and Its Enemies_
+
+1. __Henri de Lubac__, _Medieval Exegesis: The Four Senses of Scripture_ (1959-1964)
+
+1. _Erich Auerbach_, _Figura_ - __PN504 .A94 2014__
+
+1. _Yan Thomas_, _Les opérations du droit_ - Ordered through BD
+
+
 ##Revised List
 
 ###Ideas

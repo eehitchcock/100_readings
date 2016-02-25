@@ -2,6 +2,10 @@
 
 __Examiner__: Prof. Christopher Baswell
 
+##Calendar
+
+
+
 ##Rationale
 
 This list proposes to constitute an instrument to investigate the development of Medieval literary culture through two privileged aspects of its redaction and circulation: the transmission and transformation of grammar and rhetoric, learned from the treatises of classical and late antiquity and progressively adapted to the establishment of the vernacular, and the production and diffusion of manuscripts. For the first aspect, which I have tentatively associated with the context of the _classroom_ (although its scope is certainly broader), I have decided to include two complementary anthologies of Latin and Middle English literary theory, both extensive in their motivations and scopes: _Medieval Grammar and Rhetoric: Language Arts and Literary Theory, AD 300-1475_, particularly for late antiquity, and _The Idea of the Vernacular: An Anthology of Middle English Literary Theory, 1280-1520_, for the late medieval period; I have integrated this selection with a number of secondary readings on the topics of education, linguistic and literary theory, and translation. For the second aspect, which I have located in the _scriptorium_, I have chosen a sequence of representative manuscripts from different places and times (mostly containing works that I have already included in my other two lists), which I will consider for features such as _ordinatio_ and _compilatio_, marginal annotations and revisions, multilingualism, and illustrations. To assist me in this task, I have selected a number of exemplary approaches to these problems, often concerning specific artifacts, to which I have added the volume _Opening Up Middle English Manuscripts: Literary and Visual Approaches_ as a general guide to this exploration.
