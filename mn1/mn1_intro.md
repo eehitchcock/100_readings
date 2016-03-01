@@ -10,6 +10,52 @@ __Examiner__: Prof. Christopher Baswell
 
 This list proposes to constitute an instrument to investigate the development of Medieval literary culture through two privileged aspects of its redaction and circulation: the transmission and transformation of grammar and rhetoric, learned from the treatises of classical and late antiquity and progressively adapted to the establishment of the vernacular, and the production and diffusion of manuscripts. For the first aspect, which I have tentatively associated with the context of the _classroom_ (although its scope is certainly broader), I have decided to include two complementary anthologies of Latin and Middle English literary theory, both extensive in their motivations and scopes: _Medieval Grammar and Rhetoric: Language Arts and Literary Theory, AD 300-1475_, particularly for late antiquity, and _The Idea of the Vernacular: An Anthology of Middle English Literary Theory, 1280-1520_, for the late medieval period; I have integrated this selection with a number of secondary readings on the topics of education, linguistic and literary theory, and translation. For the second aspect, which I have located in the _scriptorium_, I have chosen a sequence of representative manuscripts from different places and times (mostly containing works that I have already included in my other two lists), which I will consider for features such as _ordinatio_ and _compilatio_, marginal annotations and revisions, multilingualism, and illustrations. To assist me in this task, I have selected a number of exemplary approaches to these problems, often concerning specific artifacts, to which I have added the volume _Opening Up Middle English Manuscripts: Literary and Visual Approaches_ as a general guide to this exploration.
 
+##Calendar (Provisional?)
+
+###Week 1: February 24th
+
+1. Copeland and Sluiter, _Medieval Grammar and Rhetoric_
+	
+2. Copeland, Rita, _Rhetoric, Hermeneutic, and Translation in the Middle Ages_ [__Butler Stacks PA8035 .C6 1991__]
+	
+3. Reynolds, Suzanne, _Medieval reading: grammar, rhetoric, and the classical text_ [__Stacks PA2061 .R48 1996__]
+
+###Week 2: March 2nd
+
+1. Wogan-Browne, Watson, Taylor, and Evans, _The Idea of the Vernacular_
+
+2. Reynolds, L.D., _Scribes and scholars: a guide to the transmission of Greek and Latin Literature_
+
+	- Or - Mooney, _Chaucer's scribe_
+
+3. Baswell, _Multilingualism on the Page_
+
+###Week 3: March 9th
+
+1. Kerby-Fulton, Hilmo, and Olson, _Opening Up Middle English Manuscripts_
+
+2. Buchthal, Hugo, _Historia Troiana: Studies in the History of Mediaeval Secular Illustration_
+
+3. Kerby-Fulton and Despres, _Iconography and the Professional Reader_
+
+###Week 4: March 16th
+
+1. Parkes, _The Influence of the Concepts of Ordination and Compilatio_
+
+2. Doyle and Parkes, _The Production of Copies of the Canterbury Tales and the Confessio Amantis_
+
+3. Parkes, _Pause and Effect_
+
+4. Parkes, _Pages from the Past_
+
+###Week 5: March 23rd
+
+- Manuscripts
+
+###Week 6: March 30th
+
+- Manuscripts
+
 ##Classroom: Latin and Vernacular Literary Theory 
 
 ###Primary Readings
@@ -24,11 +70,11 @@ This list proposes to constitute an instrument to investigate the development of
 
 1.  __Irvine__, Martin, _The Making of Textual Culture: Grammatica and Literary Theory, 350-1100_, Cambridge Univeristy Press, Cambridge, 1994 - Stacks: __PN671 .I68 1994__
 
-1. __Reynolds__, L. D., _Scribes and Scholars: a Guide to the Transmission of Greek and Latin Literature_, Oxford University Press, Oxford, 1991 - Burke (UTS): __PA47 .R4 1991__
+1. [__?__] __Reynolds__, L. D., _Scribes and Scholars: a Guide to the Transmission of Greek and Latin Literature_, Oxford University Press, Oxford, 1991 - Burke (UTS): __PA47 .R4 1991__
 
 1. __Reynolds__, Suzanne, _Medieval Reading: Grammar, Rhetoric, and the Classical Text_, Cambridge University Press, Cambridge, 1996
 
-1. __Ward__, John O., Selections from _The Classics in the Medieval and Renaissance Classroom: The Role of Ancient Texts in the Arts Curriculum as Revealed by Surviving Manuscripts and Early Printed Books_, Brepols, Turnhout, 2013
+1. [__?__] __Ward__, John O., Selections from _The Classics in the Medieval and Renaissance Classroom: The Role of Ancient Texts in the Arts Curriculum as Revealed by Surviving Manuscripts and Early Printed Books_, Brepols, Turnhout, 2013
 
 - - -
 
