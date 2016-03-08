@@ -18,7 +18,7 @@ This list proposes to constitute an instrument to investigate the development of
 	
 2. Copeland, Rita, _Rhetoric, Hermeneutic, and Translation in the Middle Ages_ [__Butler Stacks PA8035 .C6 1991__]
 	
-3. Reynolds, Suzanne, _Medieval reading: grammar, rhetoric, and the classical text_ [__Stacks PA2061 .R48 1996__]
+3. Reynolds, Suzanne, _Medieval reading: grammar, rhetoric, and the classical text_ [__Stacks PA2061 .R48 1996__; also at __BOBST__]
 
 ###Week 2: March 2nd
 
