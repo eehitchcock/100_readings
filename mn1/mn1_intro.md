@@ -20,19 +20,9 @@ This list proposes to constitute an instrument to investigate the development of
 	
 3. Reynolds, Suzanne, _Medieval reading: grammar, rhetoric, and the classical text_ [__Stacks PA2061 .R48 1996__; also at __BOBST__]
 
-###Week 2: March 2nd
-
-1. Wogan-Browne, Watson, Taylor, and Evans, _The Idea of the Vernacular_
-
-2. Reynolds, L.D., _Scribes and scholars: a guide to the transmission of Greek and Latin Literature_
-
-	- Or - Mooney, _Chaucer's scribe_
-
-3. Baswell, _Multilingualism on the Page_
-
 ###Week 3: March 9th
 
-1. Kerby-Fulton, Hilmo, and Olson, _Opening Up Middle English Manuscripts_
+1. Kerby-Fulton, Hilmo, and Olson, _Opening Up Middle English Manuscripts_ [Butler Stacks (and possibly NYU Bobst) __Z106.5.G7 K47 2012__]
 
 2. Buchthal, Hugo, _Historia Troiana: Studies in the History of Mediaeval Secular Illustration_
 
@@ -55,6 +45,17 @@ This list proposes to constitute an instrument to investigate the development of
 ###Week 6: March 30th
 
 - Manuscripts
+
+
+###Week 2: March 2nd
+
+1. Wogan-Browne, Watson, Taylor, and Evans, _The Idea of the Vernacular_
+
+2. Reynolds, L.D., _Scribes and scholars: a guide to the transmission of Greek and Latin Literature_
+
+	- Or - Mooney, _Chaucer's scribe_
+
+3. Baswell, _Multilingualism on the Page_
 
 ##Classroom: Latin and Vernacular Literary Theory 
 
