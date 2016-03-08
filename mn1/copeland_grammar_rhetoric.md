@@ -20,4 +20,42 @@
 
 - __grammar__ emerged not only from philosophical speculation, but from __literary analysis__ as well; it was both a science of __expressing__ and __understanding__; since words produced thoughts, grammar studied __how meaning is produced__ in general [presumably what reynolds defined as "nominatio"], and how ideas are communicated and remembered.
 
-- __grammar__'s treatment of rhetorical figures was different from that of __rhetoric__ because grammarians considered them "faults" of style [_barbarism_ or _metaplasm_] - not __ornamentation__; they are __translations__ - transferences of meaning that are __intentional__ and __controlled__ (_this probably refers to rhetoric_; verbs of movement are used to describe their operation)
+- __grammar__'s treatment of rhetorical figures was different from that of __rhetoric__ because grammarians considered them "faults" of style [_barbarism_ or _metaplasm_] - not __ornamentation__; they are __translations__ - transferences of meaning that are __intentional__ and __controlled__ (_this probably refers to rhetoric_; verbs of movement are used to describe their operation); they are a sort of __deviation__ too (but a deviation that is somehow inferrable from the original concept; _part of the same shape, the circle corresponding to a diameter - the number of significations allowed by a word_); figural and literal meaning are related before the deviation occurs (they are compared to the straight and curved elements of a circle); in later grammarians, the deviation of figure was extended to __fiction as a whole__ - a __distortion__ of truth (__fictio__ and __figura__ both come from __fingere__).
+
+	- bede distinguished between __allegoria in verbis__ and __allegoria in factus__ (the first is __allegory__ strictu sensu, the second is __figura__ - _typology_); it remained a __complex__ distinction.
+
+- [much of the focus of the book is on the distinction between the two - grammar and rhetoric; _we now know that this is a cardinal problem in the treatment of this topic_.] the two disciplines had to establish the __structure of composition__ as well; thew would serve as the principles for __poetical creation__; this structure often __mirrored__ ideas about __thoughts__ and __mental representations__ [that is, the structure of textual composition would match the structure of thought].
+
+	- many images were recurrent for __poetic structure__ - the __house__, the __body__; another means to classify formal differences [classification and not metaphor, therefore] was the __literary genre__ (for instance __fabula__ - fiction - __argumentum__ - "realistic" fiction - and __historia__ - nonfiction; or "comedy, tragedy, invective, satire, fable, history, and argument"); these were used to frame broader questions of __ethics__ and __method__ [supposedly concerning the text itself; rhetoric studies the embodiment of language as _praxis_, in history and society].
+
+- with augustine and christianity, the purpose of these disciplines shifts from __composition__ [rhetoric] to __hermeneutic__ [grammar] - they [the sciences of language] become the sciences of __interpretation__ of the __scripture__ (the text - fundamental - is _de doctrina christiana_); __invention__ and __interpretation__ merge - books are _written to be interpreted_ (here copeland cites the prologue from marie's lais, where she explains that the ancients wrote "oscurement" for us - _to be interpreted by us_).
+
+- __ethics__ was remarkably not included among the __7 liberal arts__; __but__ it was the main teaching of the books that grammar regarded as its subjects; the science of interpretation allowed for the study of ethics (_it was its premise_); often this relationship was criticized or opposed (xiii s.; _probably with the introduction of aristotle's organon_).
+
+##Part 1: Arts of Language Ca. 300 - Ca. 950
+
+- introduction: the linguistic curriculum of the middle ages was inherited from __antiquity__; grammar was the subject that taught language [it was used to teach latin, and then language in general] and judged literature [it allowed readers to assess the value of works of literature].
+
+	- donatus' __ars grammatica__ (_mid iv s ._, divided into _minor_ and _maior_) is the __key intermediary figure__ - he collected and organized a long tradition of __greek theory__ and __latin__ adaptations, in order to provide a __handbook__ for language analysis and poetical understanding.
+
+	- donatus' work was highly influential, and originated many __subgenres__ - focused on grammar, figurative language, or christian readings.
+
+	- priscian's __institutiones__ [v - vi s.] initially circulated only as a manual on __latin syntax__; it was rediscovered in the __x__ and in the __xii__ s. especially.
+
+	- other fundamental books on the subject were the works of the __encyclopedists__ (e. g. _isidore_, _vi - vii s._) and the old works from __latin__ republican rome, the "__rhetorica ad herennium__" and cicero's _de inventione_ (both from __90 b. c.__); they contain the __universally__ renown __divisions of the speech__ (exordium, narratio, partitio [the presentation of both conversation and argument], confirmatio, refutatio [counterargument and response to it], peroratio).
+
+	- the two approaches to __rhetoric__ were either highly _technical_ [praxis, we might assume] or _logical_ (dialectical, _theoria_); both ciceronian [that is, found in cicero]; cicero was the master of rhetoric up to 1100.
+
+	- rhetoric and grammar shared the treatment of __tropes__; they were merged in the crucial work by augustine, __de doctrina christiana__ (397 - 426; _a turning point_).
+
+##Part 2: Dossiers on the ablative absolute and etymology
+
+- introduction: this section traces the development of the treatment of the __ablative absolute__ from late antiquity to the late xiv s.; from a simply grammatical interest, its discussion was included in __manuals of rhetoric__ (xii s.) and then in __debates__ on __dialectic__ (xiii) that attempted to define the relationship of __consequentia__ implicit in the connection [this might be the moment of _grammatica speculativa_; grammatica speculativa is that of the _modistae_; it contends that language makes meaning through three __modes__ - being, understanding, and signfiying - that correspond to both the __parts of speech__ and a representation of reality; for these thinkers, grammar was a way to access metaphysics]; __etymology__ was both a pedagogical tool (heuristic and mnemonic and, later, a precious method to analyze language.
+
+- ablative absolute did not exist in greek; its treatment posed a problem for grammarians, since it required a step from the analysis of the __parts of speech__ to that of __syntax__ (a __combination__ of parts), a field that was still developing.
+
+	- other commentators, like priscian, focus on the __meaning__ rather than the form of the construction; they inspire later philosophical approaches to the issue.
+
+	- between __xii__ and __xiii__ we find two remarkable developments - a higher focus on priscian's __consequentia__ and the new notion of __regimen__ ("every term put in proper case, in a mutual relationship"; _as reynolds explains, however, this category was problematically oscillating between morphological and semantic description_), apparently defied by the ablative "__absolutus__" [without visible - morphological _and semantic_ - relationships]; in the __xiv__ we have __modi__ [probably the dialectical debate of grammatica speculativa].
+
+- etymology is a __speculative__ tool used to ground an argument on interpretation and tradition; its focus remains the __present__, not the __past__; it is a __causal connection__ explained by __similarity__.
