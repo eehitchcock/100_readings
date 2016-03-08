@@ -36,4 +36,49 @@
 
 	- but roughly at the same time, __patristic texts__ were starting a strong tradition of __translation theory__; this had a __problematic connection__ with the latin tradition; patristic writing was modelling a __relationship with the scripture__; this meant that the purpose of __displacement__ and __appropriation__ used for __greek__ by the romans could not be extended to this field; patristic texts inherited the __loose__ - __literal__ dichotomy, without incorporating its contradictions.
 
-	- the task of the translator was in this case to __restore__ the wholeness of revelation - a literal or loose rendition [jerome supported the latter] through which a __transcendent meaning__ has to emerge
+	- the task of the translator was in this case to __restore__ the wholeness of revelation - a literal or loose rendition [jerome supported the latter] through which a __transcendent meaning__ has to emerge; for jerome a word-for-word translation may also imply an __obstacle__ to correct interpretation; the __implication__ is that the __transcendent meaning__ (signified) of __scripture__ will be delivered in any case, despite the potential variations in the particular __signifiers__ (__surface__ may vary, while __depth__ paradoxically remains the same); jerome repurposed the ciceronian precept of translating according to __sense__; boethius instrad defended literal translation.
+
+	- around the __v s.__ (_nuptiis philologiae et mercurii_ by m. capella describes this), grammar and rhetoric were discussed again - __grammar__'s domain grew to include rhetorical figures; it had become the __main science of language and intepretation__ [substituting rhetoric]; "grammatical __enarratio__ comes to supplant rhetoric as the master discourse"; __hermeneutic supplanted rhetoric__.
+
+3. _The rhetorical character of academic commentary_
+
+	- __rhetoric__ was considered a __practical__ art [science] by __quintilian__ and the ensuing tradition; __enarratio__, a technique of __grammar__, slowly acquired the same __connotation__; at the same time, __commentaries__ and __enarrationes__ were incorporating some of the devices and ideas of __rhetorical composition__ (the __accessus__ ad _auctores_ is adapted from the _rhetorical circumstantiae_); commentary becomes an almost "__independent productive act__."
+
+	- the focus of this __creative__ faculty was the __cur__ or the __causa__ of the __circumstantiae__ - it was the attempt to ascertain the author's __intentio__; another __creative mode__ was the __allegoresis__ (__commentary__ is an __allegorical translation__); paraphrase was, again, another form of __systematic interpretive translation__, between __rhetoric__ and __grammar__.
+
+4. _Translation and Interlingual Commentary: Notker of St. Gall and the Ovide Moralisé_
+
+	- __enarratio__ hand become a form of __rewriting__ that might occasionally __supplant__ the source text; together with __paraphrase__ we find __interlingual translation__; here copeland analyzes the history of the terms associated to exegesis - hermeneia and __interpretatio__; both were associated with __translation__, exegesis, and the __interpretation__ of __scripture__.
+
+	- __vernacular translation__ was also linked to __exercitatio__, a form of rhetorical exercise aimed at enhancing the __flexibility__ of language.
+
+	- copeland distinguishes between __two forms__ of __translation__ - "__primary__," that is __dependent__ from the __source__ and from the __tools__ of exegesis; and __secondary__, "independent textual productions" where __reinvention__ surpasses __exegesis__; here copeland provides two __contrasting__ examples (_apparently both of primary translations_): the __german translations__ of notker, which seem a predictable development of __interpretive practices__(primary); the __ovide moralisé__ [primary as well] uses the __same strategies__, but in an __implicit way__, to __replace__ the original and its function - the very auctor; the reader has become a (re)writer.
+
+5. _Translation and intralingual reception: French and English Traditions of Boethius' "Consolatio"_
+
+	- both notker and the ovide moralisé respond to the assumptions of __exercitatio__; the moralisé uses the techniques of __exegesis__ to incorporate __a commentary about itself__.
+
+	- copeland likes to contrast a __metaphorical__ notion of __translation__ (a replacement __between distinct systems__) with a __metonymic one__ (a replacement __within the same system__); the translations of __boethius__ in __english__ and __french__ were indebted not only to the __latin source__ - but to themselves - each other; __vernacular languages__ became a __cluster__ of __autonomous relationships__, often with their own __authority__ [this is one of the cardinal sections of the book, and a resonant .
+
+	- the practice of __exercitatio__ expanded not only the capabilities of a __vernacular__, but its __canon__ too; the new text produced in french and english could refer to these translations as __linguistic sources__ (__jean de meun__ refers to his own _boethius_ in the __roman de la rose__; chaucer uses his [jean de meun's] translation [into french] for his own [into english].
+
+
+6. _From Antiquity to the Middle Ages 2: Rhetorical Invention as Hermeneutical Performance_
+
+	- while some __translations__ existed as forms of __enarratio__, some __rhetorical inventions__ were, in fact, __translations__.
+
+	- during the passage from __late antiquity__ to the __middle ages__, __inventio__ became an element of __dialectic__, no longer __rhetoric__; rhetoric lost its centrality, and remained useful only for __preaching__ - where __exegesis__ was more important than __invention__; __interpretation__ replaced __invention__; inventio became a science of reading - the discovery (this was its original meaning, in the context of __judicial rhetoric__) of __signa__ - __sense__; finding "__materia__ while reading.
+
+7. _Translation as Rhetorical Invention: Chaucer and Gower_
+
+	- __augustine__ and his tradition had __identified__ the __modus inveniendi__ with the __modus interpretandi__.
+
+	- in this chapter copeland presents two examples of "__secondary__" translation - __chaucer__ and __gower__; here the __techniques of exegesis__ become techniques of __topical invention__; in these translations, vernacular is invested with the __prestige of academic discourse__ (while rhetoric is identified with __hermeneutics__); to introduce these problems, copeland provides a brief analysis of dante's "__de vulgari__" and "__convivio__," where the project is that of attributing to __rhetoric__ - and __vernacularity__ - the power of __exegesis__; through __exegetical performance__ (the deployment of the techniques of __exegesis__ and __commentary__), chaucer recovers __rhetoric__ as the instrument to make __translations__ displace their __source__; __confessio amantis__ uses __academic discourse__ and __auto exegesis__ for an __ethical project__; he shows a __fragmented world__ (_divisioun_) healed by an __interpretive process__ (_divisio textus_) in vernacular.
+
+8. _Afterword_
+
+	- in __roman antiquity__, __translation__ was a vehicle of the __conflict__ between __grammar__ and __rhetoric__, and __rome__ and __greece__; __medieval theory__ inherited some notions and techniques, but it also changed their function; sense-for-sense translation, for instance, was an __instrument__ of __appropriation__ and displacement for rome (cicero), and one of __conservation__ and submission to the source for christianity (jerome and the scripture).
+
+	- in rome the dominant critical discourse was __rhetoric__; in the middle ages, it was hermeneutic.
+
+	- vernacular translation is often a __transfer of privilege__ (cultural authority) from one sphere to another; it implies __appropriation__, not __access__.
