@@ -58,4 +58,47 @@
 
 	- between __xii__ and __xiii__ we find two remarkable developments - a higher focus on priscian's __consequentia__ and the new notion of __regimen__ ("every term put in proper case, in a mutual relationship"; _as reynolds explains, however, this category was problematically oscillating between morphological and semantic description_), apparently defied by the ablative "__absolutus__" [without visible - morphological _and semantic_ - relationships]; in the __xiv__ we have __modi__ [probably the dialectical debate of grammatica speculativa].
 
-- etymology is a __speculative__ tool used to ground an argument on interpretation and tradition; its focus remains the __present__, not the __past__; it is a __causal connection__ explained by __similarity__.
+- __etymology__ is a __speculative__ tool used to ground an argument on interpretation and tradition; its focus remains the __present__, not the __past__; it is a __causal connection__ explained by __similarity__.
+
+
+##Part 3: Sciences and Curricula of Language in the XII s.
+
+- the xii s. is the period of "__great systematic commentaries__ and __encyclopedic overviews__"; an __organization__ of __knowledge__ that is also an __epistemological meditation__ on its __structure__; this movement was probably prompted by the first __translation__ of __aristotle__ (and __plato__) from the __arabic learned texts__ (into latin, in the "great centers of southern europe"); the study of the __timaeus__ prompts an interest for __platonic cosmology__ and __natural philosophy__ (i. e. - __physics__).
+
+	- this is also the moment when the great __cathedral schools__ of __rhineland__ and __northern france__ prosper (rhineland is western germany - french border); and the peak of activity in __toledo__, where greek, arabic, hebrew and latin learning intersected.
+	
+	- one __methodological change__ was the shift from __glosses__ to __independent commentaries__ in grammar and rhetoric books (priscian, donatus); they were __free standing commentaries__ with __short quotations__ ("lemmata") linking their contents to the original text; these commentaries allowed the reorganization and __subdivision__ of these disciplines (e.g. __grammar__ becoming independent from __logic__).
+	
+	- __rhetoric__ followed the same trajectory, with a renewed interest for __cicero__ and the __ad herennium__; it was caused by a wider interest in __primary sources__, in the malleability of __truth__, and in classical culture, logic and literature.
+	
+##Part 4: Pedagogies of Grammar and Rhetoric, ca. 1150 - 1280
+
+- new __pedagogical needs__ caused the __combination__ of __ciceronian oratory__ [rhetoric] and __horace's poetic__ [poetic] under one umbrella - "grammatical __instruction__."
+
+	- the twelfth century produced lasting changes in the __teaching of grammar__; the commentaries on priscian of the northern french schools focused on the __causes__ of __linguistic phenomena__ (accidents of the parts of speech) and the __theoretical__ (__philosophical__) aspects of language; the same for __rhetoric__ (__ethically__ and __epistemologically__ considered).
+
+	- this philosophical change met some __new educative needs__; now latin had to be taught to speakers of vernacular; and latin itself had changed; the new popular __handbooks__ (_alexandre of villa dei_ and _eberhard of béthune_) were __in verse__, to aid __memorization__, and they depended on priscian and donatus; but they addressed only __exposition__, not the __composition__ of __whole texts__; __composition__ was __prescribed__, for instance, in the __commentaries__ to horace's __ars poetica__, and in the many "__arts of poetry__" inspired by it (the most influential one was the "__poetria nuova__" by __geoffrey of vinsauf__, in verse); these __manuals__ combined __pragmatic grammar__ and __pragmatic rhetoric__, horace and cicero, figures and versification, __interpretation__ and __invention__; they explain and present a __classical canon__; they were used both in __elementary__ schools and in __universities__.
+	
+	- alongside these texts we find __artes dictaminis__ (letters) and __predicandi__ (teaching).
+	
+##Part 5: Professional, Civic, and Scholastic Approaches to the Language Arts - Ca. 1225 - Ca. 1272
+
+- the __pedagogical project__ of the xii s. was __comprehensive integration__ of disciplines; that of the __xiii__ was __specialization__; universities were organized in __faculties__ where __disciplinary distinctions__ were crucial, and defined sharply; and sharp distinctions marked the approaches of __different schools__ as well (__paris__ emphasized __theoretical knowledge__ and __logic__; __bologna__ was dominated by __law__).
+
+	- __ars dictaminis__ began in __italy__; it was a development of __rhetoric__ aimed at the composition of __prose letters__, for __bureaucratic__ reasons; among its centers we find __bologna__; it slowly replaced __classical rhetoric__ in some contexts.
+	
+	- in __oxford__ and in __paris__, during the xiii s., priscianus and donatus were still read regularly, but for __theoretical__ - not __linguistic__ - reasons; it was an __introduction__ to __linguistics__ and semantics, subordinated to __logic__; language was a premise to logic, and latin was its scientific language; language was now investigated as an __epistemological problem__, a turn that led to the __modistae__ of the late xiii s. (who classified __linguistic components__ and rules under the "mode of signifying," separated from the ontological "mode of being" and the rational "mode of understanding"); __syntax__ poses another __theoretical problem__.
+
+	- more concrete and __traditional__ approaches to grammar (based, e.g., on the __canon__ of acutores) survived in grammar schools [outside of universities].
+
+	- the role of rhetoric in universities during the xiii s. is debated; it developed as "__vernacular ciceronianism__" in italy, in the 1260s, as an aid in __dictaminal__ classes; but the greatest change occurred with the introduction of aristotle's __rhetoric__ in the latin west; the system of the __organon__ considered rhetoric as a specific science, with strong __ethical__ and __political__ ripercussions.
+
+##Part 6: Receptions of the Traditions; the Language Arts and Poetics in the later M. A. (ca. 1369 - ca. 1475)
+
+- vernacular handbooks still presented many elements of __continuity__ with ancient language __arts__; latin was still taught and regulated through donatus, priscianus, villa dei, and béthune.
+
+	- grammar and logic were inextricably bound up - this was the peak of __speculative grammar__ (late xiv s.); in the __xiv s.__ the philosophical discussions of grammar reached its teaching outside of universities (modi and speculative grammar); __scholastic__ ideas were used in grammar schools.
+
+	- the metalanguage of __latin__ grammar was increasingly deployed for __vernaculars__.
+
+	- in rhetoric, the __ad herennium__ re-emerged.
