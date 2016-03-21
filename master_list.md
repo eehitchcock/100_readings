@@ -1,3 +1,4 @@
+
 #Master List
 
 ##Major 1: Vision
@@ -135,16 +136,12 @@
 94. Copeland, _Rhetoric, Hermeneutics, and Translation_
 95. Irvine, _The Making of Textual Culture: Grammatica and Literary Theory 350-1100_
 96. Reynolds, _Medieval Reading: Grammar, Rhetoric, and the Classical Text_
+97. Fein, _Literary Scribes: The Harley Scribe and Robert Thornton as Case Studies_
+98. Baswell (ed.), _Competing Archives, Competing Histories: French and Its Cultural Locations in Late-Medieval England_
 
-"Literary Scribes: The Harley Scribe and Robert Thornton as Case Studies." In Insular Books: Vernacular Manuscript Miscellanies in Late Medieval Britain. Ed. M. Connolly and R. Radulescu. Proceedings of the British Academy 201. Oxford: Oxford University Press, 2015. Pp.61-79.
-Cluster on multilingualism in recent volume of Speculum.  
+99. Check these out:
 
-Andrew Taylor Textual Situations 
-
-Daniel Birkholz  works on Harley MS 
-
-Arthur Bahr Fragments and Assemblages (mostly on Auchinleck) 
-
-Chaucer Review 47 (2013)  Special issue on ME MSS
-
-Alexandra Gillespie and Daniel Wakelin, eds., The Production of Books in England 135 - 1500
+	- Daniel Birkholz, _Histoire Imparfaite: Gilote et Johane and the Counterfactual Lessons of Harley 2253_
+	- Arthur Bahr, _Fragments and Assemblages_ (__PR255 .B27 2013__)
+	- Chaucer Review 47 (2013) (PR1901 .C45 or Periodical RR)
+	- Gillespie Wakelin (eds)., _The Production of Books in England 1350-1500_
