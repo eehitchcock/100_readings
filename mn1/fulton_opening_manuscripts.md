@@ -37,3 +37,33 @@
 	- the __juxtaposition__ and __rubrication__ of poems was also __strategic__ and __political__ - a poem about "_in the ecclesiastical court_," documenting the __corruption and sadism__ of __clergy__ and the "__maltreatment__" of the working poor, is placed alongside __matthew's parable on social justice__ - labourers in the vineyard [another very important notion; the book is omnivourous, and its assimilation strategies have political implications].
 
 	- some poems, like the anglo-norman "_gilote and johanne_," are written for __multiple voices__, with indications for the __different speakers__ (initials on the margin); others, like the __bob-an-wheel__ poem "the follies of fashion" (partly alliterative), are arranged to emphasize the __floating character__ of some lines (the four-lines stanzas are bracketed, with the bob somehow linked to all of them).
+
+3. _Gawain and the medieval reader: the importance of manuscript ordinatio in a poem we think we know_
+
+	- kerby fulton analyzes cotton nero a. x. art. 3 - the gawain ms. (pearl, cleanness, patience, and sggk); all __alliterative poems__.
+
+	- she calls the hand of cnax3 "__strange__"; it is a form of __gothic textualis rotunda media__, a script that belongs to the __xiii__ s. (not the second half of s. __xiv__), used for copies of __owl and the nightingale__ and other __foundational works__ of english literature; the transcription also displays a __significant anglo-norman__ influence (due, probably, to either the impact of __a.n. romances__ on the poem, or - more likely - to the familiarity that the scribe had with __anglo-norman__ bureaucracy, like __harley__); the scribe was therefore trying to __imitate an ancient english tradition__.
+
+	- the owner of the manuscript, its copists, and its author, were connected to an __educated__, influential upper class located around cheshire.
+
+	- the first element of ordinatio emphasized by kf is the presence of __initials__ to organize the poem and to stress the importance of some sections (the __hunt scenes__, the moments of "__soul searching__"); the fitts are a victorian addition, while the original text is split into __nine passages__.
+
+	- the treatment of rhyme changed importantly over the xiv s.; the scribe of sggk, however, makes several __archaic choices__; he places the __bob line__ to the right of the stanza, often two or three lines before the last one (ex., the "wyth wynne" of the first stanza brackets lines referring to __britain, rome and lombardy__), referring to multiple lines at once.
+
+	- the same floating bob is found in the __hengwrt__ "_thopas_."
+
+##3. Madie Hilmo, The Power of Images in the Auchinleck, Vernon, Pearl, and two Piers Plowman MSS.
+
+4. _The Pearl Manuscript_
+
+	- hilmo starts by addressing the __apparent crudeness__ of the images found in cotton nero ax.
+
+	- she notices that, although the __theme__ of at least three out of four of these poems is religious, the illuminations contain no depiction of god or the virgin; the __reticence__ probably indicates that the book was produced when the value of images had already been questioned by lollards.
+
+	- the illuminations seem to emphasize the __moral trajectory__ of the protagonists of each poem.
+
+	- the illustrations seem to have been __added to the text__ (perhaps after the work on the __trascription__ had been completed); four precede pearl, five fill the blank pages between the poems, three appear at the end, after _sggk_.
+
+	- the balance in the arrangement of the miniatures suggests that the artist planned them as a __whole__; as hilmo explains, his intention might have been to create "an overarching spiritual narrative"; the narrative depicts a character __mourning the loss__ of a beloved one, then trying to access a castellated fortress (pearl); then a series of episodes from the old testament (cleanness, patience); finally the entrance to camelot, identified, potentially, with the __celestial jerusalem__ (_sggk_).
+
+	- the first image, with the voice of pearl depicted as a __dreamer__ asleep in a garde, seems to borrow from similar __christian iconography__ [a note; it is interesting to compare the images chosen for _pearl_, where the character is mostly _acting_, with those chosen for cleanness, patience, or, in part, gawain, where the characters portrayed are speakers, like in the douce plowman tradition]
