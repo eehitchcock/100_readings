@@ -66,4 +66,78 @@
 
 	- the balance in the arrangement of the miniatures suggests that the artist planned them as a __whole__; as hilmo explains, his intention might have been to create "an overarching spiritual narrative"; the narrative depicts a character __mourning the loss__ of a beloved one, then trying to access a castellated fortress (pearl); then a series of episodes from the old testament (cleanness, patience); finally the entrance to camelot, identified, potentially, with the __celestial jerusalem__ (_sggk_).
 
-	- the first image, with the voice of pearl depicted as a __dreamer__ asleep in a garde, seems to borrow from similar __christian iconography__ [a note; it is interesting to compare the images chosen for _pearl_, where the character is mostly _acting_, with those chosen for cleanness, patience, or, in part, gawain, where the characters portrayed are speakers, like in the douce plowman tradition]
+	- the first image, with the voice of pearl depicted as a __dreamer__ asleep in a garde, seems to borrow from similar __christian iconography__ (adam, st. augustine; and perhaps even endymion; _a note: it is interesting to compare the images chosen for pearl, where the character is mostly acting, with those chosen for cleanness, patience, or, in part, gawain, where the characters portrayed are speakers, like in the douce plowman tradition;_); next to the dreamer, according to hilmo, we see a spot that is as __polysemous__ as the one in the poem (it really looks like a stream); hilmo explains that underneath the darker point we find __traces__ of flowers and grass, details not visible where the artist was more explicitly trying to recreate water; the painter is clearly less careful when it comes to coloring.
+
+	- hilmo notices the consistency of space in the illuminations.
+
+	- the depictions of the dreamer in the garden mirror closely the traditional representations of __god during creation__ (this might explain the occasional __erasures__).
+
+	- finally, hilmo briefly describes the __extravagant hat__ worn by the dreamer in the first image, then lost; she suggests that it might represent his spirit, "taking flight."
+
+	- the woman encountered by the dreamer wears a __crown__ and a collar with three pearls (pearl and __trinity__); in the last picture, she becomes almost one with the __walls__ of the __celestial city__ (for hilmo she stands for the "pearl gate" of john's revelation); the cycle of pictures ends here - leaving the dreamer in this __suspended state of desire__.
+
+	- there are apparently no images in cleanness worth discussing, so that hilmo moves to _patience_, whose first image, jonah thrown into a whale (being eaten by it), is placed right at the end of the cleanness poem; this is immediately followed by an image of jonah __preaching__ [again, the juxtaposition of characters acting - perhaps enduring - and characters speaking].
+
+	- for hilmo these images are incredibly dense with __biblical references__, which multiply the actual referents of each sign indefinitely, creating __typological and allegorical__ echoes.
+
+	- for hilmo, the whale stands for __death__ (like the stream in the pearl sequence).
+
+	- the images are undoubtedly __painted after__ the completion of the ms. (although they might have been drawn at the same time).
+	
+	- for hilmo, jonah __preaching__ follows the tradition of __jesus preaching after the harrowing of hell__ (she finds a number of iconographic similarities, such as the proportions between the different characters); next to the crowd being preached to, we find a man dressed like the dreamer in pearl (same __extravagant hat__, same gown); possibly a self-portrait, or a depiction of the poet?
+
+	- the four images of _sggk_ depict the giant at arthur's court; gawain at the castle of bertilak, seduced by the queen; gawain at the green chapel, and - again - gawain in camelot, praised by arthur and the knights.
+
+	- the image of gawain at camelot with the giant is, for hilmo, remarkable for the __many blades__ displayed in it; these may represent the ritualistic aspect of the episode, matching sacrifice or circumcision; it also echoes the beheading of john the baptist.
+
+	- interestingly, the image of gawain at the green chapel perfectly __mirrors__ the first one - gawain as the rider/intruder, the giant as the axe-wielding protector of the household.
+
+	- hilmo then describes the hellish landscape of the chapel, where we see a __daunting cave__.
+
+	- the final miniature shows a __reconciliation__ between gawain and the court, under an arc that may represent an __access__ [to a sort of transcendent truth].
+
+##4. Kerby-Fulton: Professional Readers at Work; Annotators, Editors, and Correctors
+
+- the chapter examines __annotation__, both anonymous and authorial.
+
+	- late middle english author probably envisioned a __system of annotations__ for their works; at times, imitating the pre-humanist modes of dante, petrarca, boccaccio, they even wrote these themselves (gower and latin in the __confessio amantis__).
+
+	- it is debated whether chaucer himself planned a similar commentary for the canterbury tales.
+
+	- annotations had __different purposes__ for different texts and genres.
+
+	- books soon developed elaorate systems of __ordinatio__ for notes.
+
+1. _Categories of marginalia: the annotating and glossing of chaucer_
+
+	- kerby-fulton distinguishes between __four types of marginalia__: ethical pointers; narrative reading aids; polemical responses; literary responses.
+
+	- the work on chaucer's canterbury tales is fascinating; we learn about reader expectations and frequent mistaken inferences; they were, at times, as puzzled as contemporary readers (they often sought __historical referents__ to vague allusions made by the poets).
+
+	- some of these __lexical or grammatical glosses__ (helpful to understand middle english) were added by the very scribe responsible for the main text; at times, as in ellesmere 7.3050, the annotation identifies, with "__auctor__," the actual __authorial voice__ [but doesn't the doubt remain? couldn't this be the auctor of the tale, rather than chaucer himself?].
+
+	- ethical pointers either __instruct__ (command, morally) or __reveal__ truths (theological ones).
+
+	- annotators often had __graphical systems__ to distinguish between different kinds of annotations; in hengwrt, pinkhurst marked __every narrative reading aid__ with two parallel slashes.
+
+	- __glosses__, a subset of annotations, were closely related to the idea of __interlingual translation__ [the same discussed by copeland].
+
+	- __vernacular texts__ often interacted with __latin glosses__, and often with problematic results; the ellesmere glossator, for instance, adds a story of uxoricide next to the wife of bath's description of her fourth husband [the ellesmere chaucer is an "authorizing" manuscript; how does this engender the ideal recipient?]; his use of a __sober latin reference__ contrast the heated tone of the wife, almost identifying the boundary between languages with that between genders.
+
+	- glosses are most often composed by authors themselves, while annotations are offered by scribes; there are __significant exceptions__; differences between __authorial glosses__ and __scribal annotations__ allow us to understand the corresponding gap between __expected public__ (in the author's intentions) and the actual __audience__.
+
+	- most of the glosses to chaucer's tales are in __latin__; many of these connect the tales of the marriage group to the __humanist and classical__ sources; here the most heavily glossed portion are the debates or polemical sections; __debates and polemical arguments__, given their extensive use of __soruces__, often require __erudite explanations__.
+
+	- but at times these glosses do more than simply providing __background__; they __authorize__ the debates, they __ambiguate__ them, and at times potentially __heighten__ their irony; they were added very early in the history of the text - perhaps by chaucer himself (this is kf's argument).
+
+	- the __same set of glosses__ accompanies the wife of bath's prologue in __ellesmere__ and in __hengwrt__; it was transcribed by pinkhurst in both cases, although those for hengwrt were probably not planned from the beginning, so that they are cramped in the right margin; while the layout of ellesmere was designed to __host__ the glosses.
+
+	- __ellesmere__ contains the __best apparatus of glosses__; it is both possibly authorial and thoroughly planned; in the case of the wife of bath's prologue, the glosses constantly refer to the __biblical quotes__ contained in jerome's mysoginist work, the "__adversus jovianum__"; they refer to many of the antimatrimonial texts explicitly mentioned by the poem, but also to many __obscure works__ possibly known only to __chaucer__ [that is, the scribe was either directly instructed by him, or had access to his own documents].
+
+	- the persistent references to jerome in fact undermine some of the wife's arguments (e.g., her use of "__crescite et multiplicamini__," already countered by jerome's text); the whole prologue becomes, in fact, an __extended gloss to jerome's argument__ [chaucer's tale as a gloss].
+
+	- kf analyzes the glosses to the passage about the "diffinicioun" of the __number of spouses__ allowed by the scripture; here the glosses expand an __articulate and ambivalent textual universe__, accessible in different ways by different kinds (tiers) of readers, depending on their degree of latin literacy and knowledge of the sources.
+
+	- similarly, the passage on the wife having "__power__" over her husband's "body" is supported by four quotations from jerome, and closely matched by one from paul; but this last one is essentially a __misquotation__, where the context, omitted here, would radically alter the meaning of the words cited; overall, the glosses work like those in __langland__ (_by glosses kf means_ the latin lines); kf [claims] that gower's glosses in _confessio amantis_ are different, since they either __support__ or __overtly displace__ the context of the main text (chaucer's glosses are __oblique__); both authors understand that texts were often read from gloss to main text (__inwards__, from apparatus to primary source), maintaining a strict left-to-right, latin-to-vernacular progression; chaucer and gower deployed this implicit hierarchy in opposite ways.
+
+	- kf concludes by analyzing an editorial mystery; the glosses to ellesmere and hengwrt were transcribed by the same person, pinkhurst; but at times they __do not match__; for instance, hengwrt has a set of glosses connecting the miracle of the prioress's tale to john of garland's miracula beatae virginis, a version of the story with a happy and less antisemitic conclusion; for kf, this might have been part of a project for an __alternative ending__, later discarded.
