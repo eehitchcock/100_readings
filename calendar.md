@@ -1,158 +1,106 @@
-#Fall Semester
+#Calendar
 
-##Week 1: August 31st
+##Week 1: May 21st
 
-- Alain de Lille, _De Planctu Naturae_
-- Marie de France, _Lais_
-- Irvine, Martin, _The Making of Textual Culture: Grammatica and Literary Theory_
-- Chretien de Troyes, _Lancelot, le Chevalier de la Charrete_
+###Secondary readings
 
-##Week 2: September 7th
+1. __Parkes__, _The Influence of the Concepts of Ordinatio and Compilatio on the Development of the Book_
+2. __Parkes__, _Pause and Effect: Punctuation in the West_
+3. __Doyle__ and __Parkes__, _The Production of Copies of the Canterbury Tales and the Confessio Amantis in the Early Fifteenth Century_
+4. __Mooney__ and __Stubbs__, _Scribes and the City_
+5. __Fulton__ and __Despres__, _Iconography and the Professional Reader: The Politics of Book Production in the Douce Piers Plowman_
+6. __Horobin__, _Compiling the Canterbury Tales in Fifteenth-Century Manuscripts_
+7. __Baswell__, _Multilingualism on the Page_
+8. __Kerby-Fulton__, __Olson__, and __Hilmo__, _Opening Up Middle English Manuscripts: Literary and Visual Approaches_
 
-- Boethius, _De Consolatione Philosophiae_
-- Anonymous, _King Horn_ (1545 ll.)
-- Mooney, _Chaucer's Scribe_ (41 pp.)
+###Manuscripts
 
-#Major List 1
+1. __Ellesmere Chaucer__ (Huntington MS EL 26 C 9)
+2. __Hengwrt Chaucer__ (Peniarth MS 329D)
+3. __Douce Piers Plowman__ (Bodleian MS Douce 104)
+4. __Pearl__ (BL Cotton Nero A.x.)
 
-##Week 3: September 14th
+##Week 2: March 28th
 
-- De Lorris & De Meun, _Roman de La Rose_ (21780 ll.)
-- Dante, _Vita Nova_
-- Anonymous, _Wynnere and Wastoure_ (503 ll.)
+###Secondary Readings (MN1)
 
-##Week 4: September 21st
+1. __Birkholz__, _Harley Lyrics and Hereford Clerics_
+2. __Bahr__, _Fragments and Assemblages_
+3. __Fein__, _Literary Scribes: The Harley Scribe and Robert Thornton as Case Studies_
+4. __Baswell__, __Cannon__, __Wogan-Browne__ and __Kerby-Fulton__, _Competing Archives, Competing Histories: French and Its Cultural Locations in Late-Medieval England_
 
-- Anonymous, _The York Corpus Christi Plays_
-- Anonymous, _The Cloud of Unknowing_ (2529 ll.)
-- Chaucer, _Parliament of Fowles_ (699 ll.)
+###Manuscripts
 
-##Week 5: September 28th
+1. __Harley Lyrics__ (BL Harley MS 2253)
+2. __Auchinleck__ (NSL Adv MS 19.2.1)
 
-- Langland, _Piers Plowman_
-- Chaucer, _The House of Fame_ (2158 ll.)
-- Pearl Poet, _Pearl_ (1213 ll.)
+###Primary Readings (MJR2)
 
-##Week 6: October 5th
+1. Lydgate, _Troy Book_
 
-- Chaucer, _The Canterbury Tales_, Fr. 2 (1190 ll.)
-- Chaucer, _The Canterbury Tales_, Fr. 6 (968 ll.)
-- Usk, _The Testament of Love_
+##Week 3: April 4th
 
-##Week 7: October 12th
+###Secondary Readings
 
-- Chaucer, _The Canterbury Tales_, Fr. 8 (1481 ll.)
-- Chaucer, _The Canterbury Tales_, Fr. 9 (362 ll.)
-- Gower, _Confessio Amantis_
+1. __Gillespie__, _The Production of Books in England 1350-1500_
+	
+	- _OR_ __Johnston__ and __Van Dussen__, _The Medieval Manuscript Book: Cultural Approaches_
 
-##Week 8: October 19th
+2. __Parkes__, _Pages from the Past: Medieval Writing Skills_
 
-- Chaucer, _The Canterbury Tales_, Fr. 10 (1093 ll.)
-- Norwich, _Shewings_
-- Hoccleve, _The Series_
+3. ?
 
-- - -
+###Secondary Readings (MJR1)
 
-#Major List 2
+1. ?
+2. ?
 
-##Week 9: October 26th
+###Readings (MN2)
 
-- _Amis e Amilun_
-- _Romance of Horn_
-- Thomas, _Tristran_
+1. ?
+2. ?
 
-##Week 10: November 2nd
+###Manuscripts
 
-- _Amis and Amiloun_ (2509 ll.)	
-- _Havelok the Dane_ (3001 ll.)
-- Pearl Poet, _Sir Gawain and the Green Knight_ (2530 ll.)
+1. __Holkham Bible__ (Add MS 47682)
+2. __Book of the Queen__ (BL Harley MS 4431)
 
-##Week 11: November 9th
+##Week 4: April 11th
 
-- _Floris and Blancheflour_ (1225 ll.)
-- _Sir Orfeo_ (604 ll.)
-- Chaucer, _Troilus and Criseyde_ (8239 ll.)
+###Secondary Readings
 
-##Week 12: November 16th
+- _The Idea of the Vernacular_
 
-- _Stanzaic Guy of Warwick_ (3589 ll.)
-- _Sir Tristrem_ (3510 ll.)
-- Chaucer, _The Canterbury Tales_, Fr. 1 (4422 ll.)
+###Secondary Readings (MJR1)
 
-##Week 13: November 23rd
+1. ?
+2. ?
+3. ?
+4. ?
+5. ?
+6. ?
 
-- Chaucer, _The Canterbury Tales_, Fr. 3 (2294 ll.)
-- Chaucer, _The Canterbury Tales_, Fr. 4 (2240 ll.)
-- Chaucer, _The Canterbury Tales_, Fr. 5 (1624 ll.)
+###Manuscripts
 
-##Week 14: November 30th
+1. Estoire de Saint Aedward le Rei (Cambridge MS Ee.3.59)
+2. Illustrated Roman de la Rose (BNF MS 9345)
 
-- Chaucer, _The Canterbury Tales_, Fr. 7 (3462 ll.)
+##Week 5: April 18th
 
-##Week 15: December 7th
+- __Review__
 
-- _Alliterative Morte Arthure_ (4346 ll.)
+##Week 6: April 25th
 
-##Week 16: December 14th
+- __Review__
 
-- Lydgate, _Troy Book: Selections_
+##Week 7: May 2nd
 
-- - -
+- __Review__
 
-#Winter Break
+##Week 8: May 9th
 
-- - -
+- __Review__
 
-##To be continued
+##Week 9: May 16th
 
-- Buchtal, _Historia Troiana: Studies in the History of Mediaeval Secular Illustration_ (74 pp.)
-- Anonymous, _Libro de Alexandre_ (10700 ll.)
-- Parkes, _The Influence of the Concepts of_ Ordinatio _and_ Compilatio (27 pp.)
-
-- Kerby-Fulton, _Iconography and the Professional Reader_ (288 pp.)
-- Anonymous, _Cantar de mio Cid_ (3735 ll.)
-- Reynolds, _Medieval Reading: Grammar, Rhetoric, and the Classical Text_ (235 pp.)
-- Chretien de Troyes, _Yvain, le Chevalier au Lion_ (6818 ll.)
-- Cannon, _The Grounds of English Literature_ (250 pp.)
-- Crane, _Insular Romance_ (262 pp.)
-- Cohen, _Medieval Identity Machines_ (368 pp.)
-- Anonymous, _Libro de Apolonio_ (660 ll.)
-- Doyle and Parkes, _The Production of Copies of the_ Canterbury Tales (47 pp.)
-- Parkes, _Pause and effect: an Introduction to the History of Punctuation in the West_ (327 pp.)
-- Guilhem de Tudela and Anonymous, _Cancon de la Crosada_ (9560 ll.)
-- Copeland, _Rhetoric, Hermeneutics, and Translation in the Middle Ages_ (312 pp.)
-- Kaeuper, _Holy Warriors: The Religious Ideology of Chivalry_ (344 pp.)
-
-- - -
-
-#Winter Break
-
-##Week 17: January 18th
-
-##Week 18: January 25th
-
-##Week 19: February 1st
-
-##Week 20: February 8th
-
-##Week 21: February 15th
-
-##Week 22: February 22nd
-
-##Week 23: February 29th
-
-##Week 24: March 7th
-
-##Week 25: March 14th
-
-##Week 26: March 21st
-
-##Week 27: March 28th
-
-##Week 30: April 4th
-
-##Week 31: April 11th
-
-##Week 32: April 18th
-
-##Week 33: April 25th
+- __Review__
