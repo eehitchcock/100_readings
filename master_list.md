@@ -128,7 +128,7 @@
 
 87. Kerby-Fulton, Olson, Hilmo, Opening Up Middle English Manuscripts: Literary and Visual Approaches
 88. Baswell, Multilingualism on the Page
-89. Doyle and Parkes, _The Production of Copies of the Canterbury Tales and the Confessio Amantis in the Early Fifteenth Century_
+89. Doyle and Parkes, _The Production of Copies of the Canterbury Tales and the Confessio Amantis in the Early Fifteenth Century_  (__Z109.M44__)
 90. Kerby-Fulton and Despres, Iconography and the Professional Reader: The Politics of Book Production in the Douce Piers Plowman
 91. Parkes, _The Influence of the Concepts of Ordinatio and Compilatio on the Development of the Book_
 92. Parkes, _Pause and Effect: Punctuation in the West_
