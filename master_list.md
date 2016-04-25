@@ -1,73 +1,67 @@
 
 #Master List
 
-##Major 1: Vision
+##Vision
 
-###Primary
+###Primary Texts
 
-1. Boethius, De Consolatione Philosophiae
-2. Alain de Lille, De Planctu Naturae
-3. Jean de Meun, Roman de la Rose
-4. Dante, Vita Nuova
-5. Anonymous, Wynnere and Wastoure
-6. Anonymous, The Cloud of Unknowing
-7. Anonymous, York Corpus Christi
-8. Chaucer, House of Fame
-9. Chaucer, Parliament of Fowls
-10. Chaucer, CT, Fr. 2
-	11. Chaucer, CT, Fr. 6
-	12. Chaucer, CT, Fr. 8
-	13. Chaucer, CT, Fr. 9
-	14. Chaucer, CT, Fr. 10
-15. Usk, Testament of Love
-16. Anonymous, Pearl
-17. Langland, Piers Plowman (C)
-18. Julian of Norwich, Revelations of Divine Love
-19. John Gower, Confessio Amantis
-20. Hoccleve, The Series
+1. _Boethius_, __De Consolatione Philosophiae__ (~524)
+2. _Alain de Lille_, __De Planctu Naturae__ (~1160)
+3. _Jean de Meun_ and __Guillaume de Lorris__, __Roman de la Rose__ (~1225, ~1270)
+4. _Dante Alighieri_, __Vita Nuova__ (1295) 
+5. Anonymous, __Wynnere and Wastoure__ (~1360)
+6. Anonymous, __The Cloud of Unknowing__ (~1375)
+7. Anonymous, __The York Corpus Christi Plays__ (~1376) 
+8. _Geoffrey Chaucer_, __The House of Fame__ (~1378)
+9. _Geoffrey Chaucer_, __The Parliament of Fowls__ (~1378)
+10. _Geoffrey Chaucer_, __The Canterbury Tales__ [Frag. __2__, __6__, __8__, __9__, __10__] (~1400)
+15. _Thomas Usk_, __The Testament of Love__ (~1388)
+16. Anonymous, __Pearl__ (~1390)
+17. _William Langland_, __Piers Plowman__ [C-text] (~1390)
+19. _John Gower_, __Confessio Amantis__ (~1390)
+18. _Julian of Norwich_, __Revelations of Divine Love__ [long text] (~1393)
+20. _Thomas Hoccleve_, __The Series__ (~1422)
 
-###Secondary
+###Secondary Texts
 
-21. Beckwith, _Signifying God: Social Relation and Symbolic Act in the York Corpus Christi Plays_
-22. Minnis, _Affection and Imagination in 'Cloud of Unknowing' and Hilton's 'Scale of Perfection'_
-23. Johnson, _Feeling Time, Will, and Words: Vernacular Devotion in the Cloud of Unknowing_
-24. Carruthers, _The Book of Memory: A Study of Memory in Medieval Culture_
-25. Dean, James, _Dismantling the Canterbury Book_
-26. Karnes, Michelle, _Will's Imagination in Piers Plowman_
-27. Johnson, Eleanor, English Law and the Man of Law's "Prose" Tale
-28. Johnson, Eleanor, Practicing Literary Theory in the Middle Ages: Ethics and the Mixed form in Chaucer, Gower, Usk, and Hoccleve
+22. Alastair __Minnis__, _Affection and Imagination in 'Cloud of Unknowing' and Hilton's 'Scale of Perfection'_ (1983)
+25. James __Dean__, _Dismantling the Canterbury Book_ (1985)
+24. Mary __Carruthers__, _The Book of Memory: A Study of Memory in Medieval Culture_ (1990)
+21. Sarah __Beckwith__, _Signifying God: Social Relation and Symbolic Act in the York Corpus Christi Plays_ (2001)
+26. Michelle __Karnes__, _Will's Imagination in Piers Plowman_ (2009)
+23. Eleanor __Johnson__, _Feeling Time, Will, and Words: Vernacular Devotion in the Cloud of Unknowing_ (2011)
+28. Eleanor __Johnson__, _Practicing Literary Theory in the Middle Ages: Ethics and the Mixed form in Chaucer, Gower, Usk, and Hoccleve_ (2012)
+27. Eleanor __Johnson__, _English Law and the Man of Law's "Prose" Tale_ (2015)
 
-##Major 2: Romance
+##Romance
 
-###Primary
+###Primary Texts
 
-29. Anonymous, Amis e Amilun
-30. Anonymous, Romance of Horn
-31. Thomas, Tristran
-32. Marie de France, Lais
-33. Anonymous, Amis and Amiloun
-34. Anonymous, Havelok the Dane
-35. Anonymous, Sir Gawain and the Green Knight
-36. Anonymous, Floris and Blancheflour
-37. Anonymous, Sir Orfeo
-38. Anonymous, Stanzaic Guy of Warwick
-39. Anonymous, Sir Tristrem
-40. Chaucer, Troilus and Criseyde
-41. Chaucer, CT, Fr. 1
-	42. Chaucer, CT, Fr. 3
-	43. Chaucer, CT, Fr. 4
-	44. Chaucer, CT, Fr. 5
-	45. Chaucer, CT, Fr. 7
-46. Anonymous, Alliterative Morte Arthure
-47. Lydgate, Troy Book
+30. _Thomas_, __Romance of Horn__ [Anglo-Norman] (~1170)
+29. Anonymous, __Amis e Amilun__ [Anglo-Norman] (~1190)
+32. _Marie de France_, __Lais__ (~1175)
+31. _Thomas of Britain_, __Tristran__ (~1180)
+1. Anonymous, __King Horn__ [Middle English] (~1250)
+36. Anonymous, __Floris and Blancheflour__ [Middle English] (~1250)
+34. Anonymous, __Havelok the Dane__ (~1280)
+39. Anonymous, __Sir Tristrem__ [Middle English] (~1290)
+3. Anonymous, __Amis and Amiloun__ [Middle English] (~1300)
+37. Anonymous, __Sir Orfeo__ (~1300)
+38. Anonymous, __Stanzaic Guy of Warwick__ (~1300)
+40. _Geoffrey Chaucer_, __Troilus and Criseyde__ (~1386)
+41. _Geoffrey Chaucer_, __The Canterbury Tales__ [Frag. __1__, __3__, __4__, __5__, __7__] (~1400)
+35. Anonymous, __Sir Gawain and the Green Knight__ (~1390)
+46. Anonymous, __Alliterative Morte Arthure__ (~1400)
+47. _John Lydgate_, __Troy Book__ (~1420)
 
-###Secondary
+###Secondary Texts
 
-48. Kay, Courts, Clerks, and Courtly Love
-49. Cooper, The English Romance in Time: Transforming Motifs from Geoffrey of Monmouth to the Death of Shakespeare
-50. Crane, Insular Romance: Politics, Faith, and Culture in Anglo-Norman and Middle English Literature
-51. Field, Romance in England, 1066-1400
-52. Kermode, Hoti's Business: Why Are Narratives Obscure?
+52. Frank __Kermode__, _Hoti's Business: Why Are Narratives Obscure?_ (1980)
+50. Susan __Crane__, _Insular Romance: Politics, Faith, and Culture in Anglo-Norman and Middle English Literature_ (1986)
+51. Rosalind __Field__, _Romance in England, 1066-1400_ (1999)
+48. Sarah __Kay__, _Courts, Clerks, and Courtly Love_ (2000)
+49. Helen __Cooper__, _The English Romance in Time: Transforming Motifs from Geoffrey of Monmouth to the Death of Shakespeare_ (2004)
+53. Alfred __Hiatt__, _Genre Without System_ (2007)
 
 ##Minor List 1: Continental Allegory
 
