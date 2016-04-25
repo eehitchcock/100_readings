@@ -52,7 +52,7 @@
 41. _Geoffrey Chaucer_, __The Canterbury Tales__ - Frag. __1__, __3__, __4__, __5__, __7__ (~1400)
 35. Anonymous, __Sir Gawain and the Green Knight__ (~1390)
 46. Anonymous, __Alliterative Morte Arthure__ (~1400)
-47. _John Lydgate_, __Troy Book__ (~1420)
+47. _John Lydgate_, __Troy Book__ - selections (~1420)
 
 ###Secondary Texts
 
