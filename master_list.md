@@ -1,7 +1,4 @@
-
-#Master List
-
-##Dream Vision
+##Major List: Dream Vision (c.524-c.1422)
 
 ###Primary Texts
 
@@ -33,7 +30,7 @@
 28. Eleanor __Johnson__, _Practicing Literary Theory in the Middle Ages: Ethics and the Mixed form in Chaucer, Gower, Usk, and Hoccleve_ (2012)
 27. Eleanor __Johnson__, _English Law and the Man of Law's "Prose" Tale_ (2015)
 
-##Romance
+##Major List: Romance (c.1170-c.1420)
 
 ###Primary Texts
 
@@ -63,79 +60,74 @@
 49. Helen __Cooper__, _The English Romance in Time: Transforming Motifs from Geoffrey of Monmouth to the Death of Shakespeare_ (2004)
 53. Alfred __Hiatt__, _Genre Without System_ (2007)
 
-##Minor List 1: Continental Allegory
+##Minor List: Continental Allegory
 
-###Primary
+###Primary Texts
 
-53. Ibn Hazn, Ring of the Dove
-54. Teresa de Cartagena, Arboleda de los Enfermos
-55. Teresa de Cartagena, Admiraçión Operum Dey
-56. Christine de Pizan, La Cité Des Dames
-57. Christine de Pizan, Epistre Othéa
-58. Chrétien de Troyes, Lancelot
-59. Chrétien de Troyes, Perceval
-60. Lancelot-Graal, Queste del Saint Graal
-61. Lancelot-Graal, Mort Artu
-62. Maimónides, Guía de los Perplejos (The Guide for the Perplexed)
-63. San Cristóbal, Epitoma Rei Militaris
-64. Palencia, Batalla Campal de los Perros contra los Lobos
-65. Villena, Glosas al Primer Libro de la Eneidaor
-66. Berceo, Milagros de Nuestra Señora
-67. San Víctor, Didascalicon de Studio Legend
+53. _Ibn Hazm_, __The Ring of the Dove__ (c. 1022)
+67. _Hugh of Saint Victor_, __Didascalicon de Studio Legendi__ (c. 1129)
+58. _Chrétien de Troyes_, __Lancelot__ (c. 1180)
+59. _Chrétien de Troyes_, __Perceval__ (c. 1190)
+62. _Maimonides_, __The Guide for the Perplexed__ (c. 1190)
+60. Anonymous, __La Queste del Saint Graal__ - Lancelot-Graal (c. 1230)
+61. Anonymous, __La Mort Artu__ - Lancelot-Graal (c. 1230)
+66. __Gonzalo de Berceo__, _Milagros de Nuestra Señora_ (c. 1260)
+68. _Alfonso X_, __Cantigas de Santa María__ (c. 1284)
+63. _Alfonso de San Cristóbal_, __Epitoma Rei Militaris - Traducción y glosas__ (c. 1400)
+57. _Christine de Pizan_, __Epistre Othéa__ (1400)
+56. _Christine de Pizan_, __La Cité Des Dames__ (1405)
+65. _Enrique de Villena_, __Eneida - Traducción y glosas__ (c. 1430)
+54. _Teresa de Cartagena_, __Arboleda de los Enfermos__ (c. 1450)
+55. _Teresa de Cartagena_, __Admiraçión Operum Dey__ (c. 1450)
+64. _Alfonso de Palencia_, __Batalla Campal de los Perros y los Lobos__ (1457)
 
-###Secondary
+###Secondary Texts
 
-68. Medieval Literary Theory and Criticism 1100 - 1375: The Commentary Tradition
-69. Kumler, Translating Truth
-70. Kumler, Res et Significatio: The Material Sense of Things in the Middle Ages
-71. Nirenberg, Aesthetic Theology and Its Enemies
-72. Lubac, Medieval Exegesis: The Four Senses of Scripture
-73. Auerbach, Figura
-74. Thomas, Les opérations du droit
+73. Erich __Auerbach__, _Figura_ (1938)
+72. Henri __de Lubac__, _Medieval Exegesis: The Four Senses of Scripture_ (1959)
+68. Alastair J. __Minnis__, A. B. __Scott__, David __Wallace__, _Medieval Literary Theory and Criticism c.1100-c.1375: The Commentary Tradition_ (1988)
+69. Aden __Kumler__, _Translating Truth: Ambitious Images and Religious Knowledge in Late Medieval France and England_ (2011)
+74. Yan __Thomas__, _Les Opérations du droit_ (2011)
+75. Jesús Rodríguez __Velasco__, _Plebeyos Márgenes: Ficción, Industria del Derecho y Ciencia Literaria, Siglos XIII-XIV_ (2011)
+70. Aden __Kumler__ and Christopher __Lakey__, _Res et Significatio: The Material Sense of Things in the Middle Ages_ (2012)
+71. David __Nirenberg__, _Aesthetic Theology and Its Enemies: Judaism in Christian Painting, Poetry, and Politics_ (2015)
+ 
 
-##Minor List 2: Classroom and Scriptorium
+##Minor List: Language Arts and the Scriptorium
 
-###Primary
+###Primary Texts
 
-####Classroom
+77. _Cambridge University Library MS Ee.3.59_, __La Estoire de Seint Aedward le Rei__ (c. 1260)
+85. _Paris BNF MS Fr. 9345_, __Illustrated Roman de la Rose__ (c. 1325)
+86. _London British Library Add. MS 47682_, __Holkham Bible Picture Book__ (c. 1330)
+78. _Edinburgh NLS Adv. MS 19.2.1_, __The Auchinleck Manuscript__ (c. 1330)
+79. _London British Library Harley MS 2253_, __The Harley Lyrics__ (c. 1340)
+82. _London British Library MS Cotton Nero A.x._, __The Pearl Manuscript__(c. 1400)
+84. _Aberystwyth NLW Peniarth MS 392D_, __Hengwrt Chaucer__ (c. 1400)
+80. _San Marino Huntington Library MS EL 26 C9_, __Ellesmere Chaucer__ (c. 1410)
+83. _London British Library Harley MS 4431_, __The Book of the Queen__ (c. 1414)
+81. _Oxford Bodleian Library MS Douce 104_, __Douce Piers Plowman__ (c. 1427) 
 
-75. Copeland, Sluiter, _Medieval Grammar and Rhetoric_
-76. Wogan-Browne, Watson, Taylor, and Evans, _The Idea of the Vernacular_
+###Secondary Texts
 
-####Scriptorium
-
-77. Estoire de Saint Aedward le Rei (Cambridge, UL, MS Ee.3.59)
-	- Or Hengwrt Chaucer?
-78. Auchinleck MS. (Edinburgh, NLS, MS 19.2.1)
-79. Harley Lyrics, BL Harley 2253
-80. Ellesmere Chaucer, Huntington EL 26 C9
-81. Douce Piers Plowman, Oxford Bodleian Douce 104
-82. Pearl MS., BL Cotton Nero A.x.
-83. BL Harley MS 4431, Christine de Pizan Book of the Queen
-84. Thornton MS., Lincoln, Cathedral Library, MS 91
-	- Or Hengwrt Chaucer?
-85. Paris BNF, MS 9345, Illustrated Roman de la Rose
-86. Holkham Bible Picture Book, BL Add. MS 47682
-	- Or Hengwrt Chaucer?
-
-###Secondary
-
-87. Kerby-Fulton, Olson, Hilmo, Opening Up Middle English Manuscripts: Literary and Visual Approaches
-88. Baswell, Multilingualism on the Page
-89. Doyle and Parkes, _The Production of Copies of the Canterbury Tales and the Confessio Amantis in the Early Fifteenth Century_  (__Z109.M44__)
-90. Kerby-Fulton and Despres, Iconography and the Professional Reader: The Politics of Book Production in the Douce Piers Plowman
-91. Parkes, _The Influence of the Concepts of Ordinatio and Compilatio on the Development of the Book_
-92. Parkes, _Pause and Effect: Punctuation in the West_
-93. Parkes, _Pages from the Past: Medieval Writing Skills_
-94. Copeland, _Rhetoric, Hermeneutics, and Translation_
-95. Irvine, _The Making of Textual Culture: Grammatica and Literary Theory 350-1100_
-96. Reynolds, _Medieval Reading: Grammar, Rhetoric, and the Classical Text_
-97. Fein, _Literary Scribes: The Harley Scribe and Robert Thornton as Case Studies_
-98. Baswell (ed.), _Competing Archives, Competing Histories: French and Its Cultural Locations in Late-Medieval England_
-
-99. Check these out:
-
-	- Daniel Birkholz, _Histoire Imparfaite: Gilote et Johane and the Counterfactual Lessons of Harley 2253_
-	- Arthur Bahr, _Fragments and Assemblages_ (__PR255 .B27 2013__)
-	- Chaucer Review 47 (2013) (PR1901 .C45 or Periodical RR)
-	- Gillespie Wakelin (eds)., _The Production of Books in England 1350-1500_
+91. Malcom __Parkes__, _The Influence of the Concepts of Ordinatio and Compilatio on the Development of the Book_ (1976)
+89. A.I. __Doyle__ and Malcom __Parkes__, _The Production of Copies of the Canterbury Tales and the Confessio Amantis in the Early Fifteenth Century_ (1978)
+94. Rita __Copeland__, _Rhetoric, Hermeneutics, and Translation in the Middle Ages: Academic Traditions and 
+Vernacular Texts_ (1991)
+92. Malcom __Parkes__, _Pause and Effect: Punctuation in the West_ (1993)
+95. Martin __Irvine__, _The Making of Textual Culture: Grammatica and Literary Theory 350-1100_ (1994)
+96. Suzanne __Reynolds__, _Medieval Reading: Grammar, Rhetoric, and the Classical Text_ (1996)
+90. Kathryin __Kerby-Fulton__ and Denise __Despres__, _Iconography and the Professional Reader: The Politics of Book Production in the Douce Piers Plowman_ (1998)
+76. Jocelyn __Wogan-Browne__, Nicholas __Watson__, Andrew __Taylor__, and Ruth __Evans__, _The Idea of the Vernacular: An Anthology of Middle English Literary Theory, 1280-1520_ (1999)
+88. Christopher __Baswell__, _Multilingualism on the Page_ (2007)
+1. Daniel __Birkholz__, _Harley Lyrics and Hereford Clerics: The Implications of Mobility, c. 1300-1351_ (2009)
+75. Rita __Copeland__ and Ineke __Sluiter__, _Medieval Grammar and Rhetoric: Language Arts and Literary Theory, AD 300-1475_ (2009)
+87. Kathryn __Kerby-Fulton__, Maidie __Hilmo__, Linda __Olson__, _Opening Up Middle English Manuscripts: Literary and Visual Approaches_ (2012)
+93. Malcom __Parkes__, _Pages from the Past: Medieval Writing Skills and Manuscript Books_ (2012)
+99. Arthur __Bahr__, _Fragments and Assemblages: Forming Compilations in Medieval London_ (2013)
+1. Linne __Mooney__ and Estelle __Stubbs__, _Scribes and the City: London Guildhall Clerks and the Dissemination of Middle English Literature, 1375-1425_ (2013)
+1. Simon __Horobin__, _Compiling the Canterbury Tales in Fifteenth-Century Manuscripts_ (2013)
+1. Alexandra __Gillespie__ and Daniel __Wakelin__ (ed.), _The Production of Books in England 1350-1500_ (2014)
+97. Susanna __Fein__, _Literary Scribes: The Harley Scribe and Robert Thornton as Case Studies_ (2015)
+98. Christopher __Baswell__ (ed.), _Competing Archives, Competing Histories: French and Its Cultural Locations in Late-Medieval England_ (2015)
+1. Susanna __Fein__ (ed.), _The Auchinleck Manuscript: New Perspectives_ (2016)
