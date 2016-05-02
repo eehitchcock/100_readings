@@ -1,26 +1,26 @@
 
 #Master List
 
-##Vision
+##Dream Vision
 
 ###Primary Texts
 
-1. _Boethius_, __De Consolatione Philosophiae__ (~524)
-2. _Alain de Lille_, __De Planctu Naturae__ (~1160)
-3. _Jean de Meun_ and __Guillaume de Lorris__, __Roman de la Rose__ (~1225, ~1270)
+1. _Boethius_, __De Consolatione Philosophiae__ (c. 524)
+2. _Alain de Lille_, __De Planctu Naturae__ (c. 1160)
+3. _Jean de Meun_ and __Guillaume de Lorris__, __Roman de la Rose__ (c. 1225, c. 1270)
 4. _Dante Alighieri_, __Vita Nuova__ (1295) 
-5. Anonymous, __Wynnere and Wastoure__ (~1360)
-6. Anonymous, __The Cloud of Unknowing__ (~1375)
-7. Anonymous, __The York Corpus Christi Plays__ (~1376) 
-8. _Geoffrey Chaucer_, __The House of Fame__ (~1378)
-9. _Geoffrey Chaucer_, __The Parliament of Fowls__ (~1378)
-10. _Geoffrey Chaucer_, __The Canterbury Tales__ - Frag. __2__, __6__, __8__, __9__, __10__ (~1400)
-15. _Thomas Usk_, __The Testament of Love__ (~1388)
-16. Anonymous, __Pearl__ (~1390)
-17. _William Langland_, __Piers Plowman__ - C-text (~1390)
-19. _John Gower_, __Confessio Amantis__ (~1390)
-18. _Julian of Norwich_, __Revelations of Divine Love__ - long text (~1393)
-20. _Thomas Hoccleve_, __The Series__ (~1422)
+5. Anonymous, __Wynnere and Wastoure__ (c. 1360)
+6. Anonymous, __The Cloud of Unknowing__ (c. 1375)
+7. Anonymous, __The York Corpus Christi Plays__ (c. 1376) 
+8. _Geoffrey Chaucer_, __The House of Fame__ (c. 1378)
+9. _Geoffrey Chaucer_, __The Parliament of Fowls__ (c. 1378)
+10. _Geoffrey Chaucer_, __The Canterbury Tales__ - Frag. __2__, __6__, __8__, __9__, __10__ (c. 1400)
+15. _Thomas Usk_, __The Testament of Love__ (c. 1388)
+16. Anonymous, __Pearl__ (c. 1390)
+17. _William Langland_, __Piers Plowman__ - C-text (c. 1390)
+19. _John Gower_, __Confessio Amantis__ (c. 1390)
+18. _Julian of Norwich_, __Revelations of Divine Love__ - long text (c. 1393)
+20. _Thomas Hoccleve_, __The Series__ (c. 1422)
 
 ###Secondary Texts
 
@@ -37,22 +37,22 @@
 
 ###Primary Texts
 
-30. _Thomas_, __Romance of Horn__ - Anglo-Norman (~1170)
-29. Anonymous, __Amis e Amilun__ - Anglo-Norman (~1190)
-32. _Marie de France_, __Lais__ (~1175)
-31. _Thomas of Britain_, __Tristran__ (~1180)
-1. Anonymous, __King Horn__ - Middle English (~1250)
-36. Anonymous, __Floris and Blancheflour__ - Middle English (~1250)
-34. Anonymous, __Havelok the Dane__ (~1280)
-39. Anonymous, __Sir Tristrem__ - Middle English (~1290)
-3. Anonymous, __Amis and Amiloun__ - Middle English (~1300)
-37. Anonymous, __Sir Orfeo__ (~1300)
-38. Anonymous, __Stanzaic Guy of Warwick__ (~1300)
-40. _Geoffrey Chaucer_, __Troilus and Criseyde__ (~1386)
-41. _Geoffrey Chaucer_, __The Canterbury Tales__ - Frag. __1__, __3__, __4__, __5__, __7__ (~1400)
-35. Anonymous, __Sir Gawain and the Green Knight__ (~1390)
-46. Anonymous, __Alliterative Morte Arthure__ (~1400)
-47. _John Lydgate_, __Troy Book__ - selections (~1420)
+30. _Thomas_, __Romance of Horn__ - Anglo-Norman (c. 1170)
+29. Anonymous, __Amis e Amilun__ - Anglo-Norman (c. 1190)
+32. _Marie de France_, __Lais__ (c. 1175)
+31. _Thomas of Britain_, __Tristran__ (c. 1180)
+1. Anonymous, __King Horn__ - Middle English (c. 1250)
+36. Anonymous, __Floris and Blancheflour__ - Middle English (c. 1250)
+34. Anonymous, __Havelok the Dane__ (c. 1280)
+39. Anonymous, __Sir Tristrem__ - Middle English (c. 1290)
+3. Anonymous, __Amis and Amiloun__ - Middle English (c. 1300)
+37. Anonymous, __Sir Orfeo__ (c. 1300)
+38. Anonymous, __Stanzaic Guy of Warwick__ (c. 1300)
+40. _Geoffrey Chaucer_, __Troilus and Criseyde__ (c. 1386)
+41. _Geoffrey Chaucer_, __The Canterbury Tales__ - Frag. __1__, __3__, __4__, __5__, __7__ (c. 1400)
+35. Anonymous, __Sir Gawain and the Green Knight__ (c. 1390)
+46. Anonymous, __Alliterative Morte Arthure__ (c. 1400)
+47. _John Lydgate_, __Troy Book__ - selections (c. 1420)
 
 ###Secondary Texts
 
