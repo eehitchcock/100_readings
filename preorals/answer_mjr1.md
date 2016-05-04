@@ -16,6 +16,8 @@ Many of the works on this list have doubled or transformed masculine figures: a 
 
 __Form__
 
+- One rhetorical strategy deployed here and in _The Knight's Tale_ in order to express the identity of the two heroes is, simply, that of deploying a plural noun and a third person plural verb rather than two distinct names and two third person singular verbs. As we will see, this simple device is consciously used by both Chaucer and the anonymous author of Amis and Amiloun.  
+
 - The Middle English _Amis and Amiloun_ deploys the traditiona tail-rhyme stanza as a way to exemplify and match the thematical importance of the theme of the double. In the first stanza of the poem, the two characters are first mentioned as "the childeryn twoo" that will become the subject of the narrative. The poet therefore chooses to name them by deployng a plural noun and a numeral, rather than their proper names. The actual names are first introduced in the fourth stanza, as a crucial piece of information that the narrator, nevertheless, prefers to postpone, creating a sense of expectation in the readers. As in the rest of the narrative, the two characters should first be understood as the identical, indistinguishable parts of the same whole, rather than as distinct individuals endowed with personal features. Moreover, the narrator chooses to deploy the very form of the tail-rhyme stanza as a way to underline the element of doubleness.
 
 > In wele and woo how thei gone wende,  
@@ -33,7 +35,7 @@ __Form__
 
 [lexicon: berdes, youth; unknow: unrelated - they do not come from the same kin; bolde of chere means beautiful; hende means gracious, noble valiant; goude means good - it is a pure __hendyadis__;]
 
-	- To do in this paragraph: explain first how the narrator is deploying twinning phrases __hendyadis__ (wele and woo; guode and hende)
+- To do in this paragraph: explain first how the narrator is deploying twinning phrases __hendyadis__ (wele and woo; guode and hende)
 
 	- Later in stanza 3 - the word "twoo" is repeated in an anadiplosis - as if the two characters themselves were born from this structural, verbal repetition.
 
@@ -46,9 +48,9 @@ __Form__
 	- It is __crucial__ that the two friends are __not__ related by blood; this is what allows their friendship to be somehow entirely personal and uninterested - it does not follow or abide by aristocratic values.
 
 ```
-	- moments in the narrative that emphasize this __duplicity__ or __identity__.
+- moments in the narrative that emphasize this __duplicity__ or __identity__.
 
-	- __ethical__, moral, affective aspect; there is the __heart__ breaking in two.
+- __ethical__, moral, affective aspect; there is the __heart__ breaking in two.
 ```
 
 ##Paragraph 4
@@ -65,7 +67,7 @@ __Form__
 > He made him steward in his hall  
 > To dight all his mayne.
 
-Indeed, this episode immediately triggers the separation of the two friends. Their friendship seems here to play a role that is antithetical to that of social conventions and obligations; its role is therefore analogous to that that Sarah Kay has identified for fin'amor - it is a form of _antisocial_ devotion to a transcendent value. The choices that Amis and Amiloun have to make are __binary__ choices between the world of individual, interpersonal devotion and obligation (to god, to sex, to friendship) and the world of social and historical necessity (to progeny, to the vassalatic relationship). The choices are (we quickly describe them, without focusing on any for CR): Amis sleeping with Belisaunt (a __new trewthe__); Amis lying (is this a choice?); Amiloun lying (for sure a choice), in front of God; and the final binary choice, that between the friend and the children (again, this might be the triumph of these binary obligations - one is blood, aristocracy, progeny; the other is friendship and religious values). __absolutely deploy kay here__.
+- Indeed, this episode immediately triggers the separation of the two friends. Their friendship seems here to play a role that is antithetical to that of social conventions and obligations; its role is therefore analogous to that that Sarah Kay has identified for fin'amor - it is a form of _antisocial_ devotion to a transcendent value. The choices that Amis and Amiloun have to make are __binary__ choices between the world of individual, interpersonal devotion and obligation (to god, to sex, to friendship) and the world of social and historical necessity (to progeny, to the vassalatic relationship). The choices are (we quickly describe them, without focusing on any for CR): Amis sleeping with Belisaunt (a __new trewthe__); Amis lying (is this a choice?); Amiloun lying (for sure a choice), in front of God; and the final binary choice, that between the friend and the children (again, this might be the triumph of these binary obligations - one is blood, aristocracy, progeny; the other is friendship and religious values). __absolutely deploy kay here__.
 
 	- We __might think__ that these are simply binary oppositions, but they in fact constitute a climax that leads to a moment of ethical crisis. - the Murder of the two children. The gradual, sympathetic treatment of the episode by the Middle English author is one of the features that most differentiates it from the Anglo Norman equivalent. It is a __climax__ that culminates in an __inversion__ of our expectations; a conscious inversion of our expectations.
 
@@ -104,6 +106,8 @@ Indeed, this episode immediately triggers the separation of the two friends. The
 
 Like the anonymous author of the Middle English Amis and Amiloun, Chaucer too consciously deploys the traditional motive of the double in his _Knight's Tale_. Like in the older Middle English romance, here too it is similarly crucial to overlap the bodies and the identities of the two protagonists.
 
+- It is important to stress that Chaucer does not say that the two friends are identical; their similarity is confusing for the reader.
+
 - It is possible that Chaucer plays with our expectations about the tale. The two characters are supposed to be different, but they end up being the same. They are identified in the space of the prison, they are then different in the outside world, as they fall in love and experience different destinies, and then they become identical again towards the end. Whereas the author of Amis and Amiloun seems to suggest a persistent identification between the two heroes at the beginning of the narrative, an identification that is then erased by sin, the two characters of _the Knight's Tale_ initially suggest this identification, but then keep oscillating between being different and being ultimately the same.
 
 > And so bifel that in the taas they founde,  
@@ -113,11 +117,96 @@ Like the anonymous author of the Middle English Amis and Amiloun, Chaucer too co
 > Of whiche two Arcita highte that oon,  
 > And that oother knyght highte Palamon.  
 
-The discovery of these two bodies immediately sets in motion a persistent setting of identification (equivalence) and differentiation. The two bodies are physically identical - their 
+The discovery of these two bodies immediately sets in motion a persistent setting of identification (equivalence) and differentiation. The two bodies are physically identical - their wounds and their arms; but this identity corresponds to _actual_ historical and genetic links; they both fought for the same side, and they both come from the same family.
+
+- Chaucer might even seem to be __playing__ with our expectations as he comically depicts the moment when the two characters both fall in love at the same time.
+
+> "Wheither sestow this in ernest or in pley?"  
+> "Nay," quod Arcite, "in ernest, by my fey!"  
+> God helpe me so, me list ful yvele pleye."  
+> This Palamon gan knytte his browes tweye.
+
+The two characters indeed swore that they would not hinder each other in the pursuit of love.
+
+- After their destinies have been separated by chance - Arcite is set free while Palamoun is emprisoned, they explain their conditions in detail - in a longer complaint - making them identical.
+
+- The narrator explicitly compares their conditions (1345) resolving that their situation is probably identical.
+
+- The original problem is a question of __precedence__. Who fell in love first? Might this be an idea linked to that of language and translation. Does precedence indicate possession, prestige, superiority? (Palamon comes first; Arcita, however, says that he loved more; Palamon deploys a legal system; Arcita replies with the power of his affection - and mocks the friend for having misunderstood the woman for a goddess - "Thou woost nat yet know wheither she be a womman or goddesse!")
+
+- Therefore, the idea of similarity is initially perfectly justified and somehow not _mysterious_, not an __aventure__.
 
 - Formally, Chaucer seems to emphasize similarity in moments of crisis; the captivity in the cell, the duel.
 
 - One moment to focus on might be the "same wood" where they find themselves, the complaint that provokes agnition and which later provokes grief.
+
+- Like in Amis and Amiloun, we have a _transformation_ that prevents the two friends from recognizing each other; althought this transformation, produced by love sickness, is not a separation between the two. Or is it? It is, in fact, the first description we have of one of the two characters.
+
+> And shortly to concluden al his wo,  
+> So muche sorwe hadde nevere creature  
+> That is, or shal, whil that the world may dure.  
+> His slep, his mete, his drynke, is hym biraft,  
+> That lene he wex and drye as is a shaft;  
+> His eyen holwe and grisly to biholde,  
+> His hewe falow and pale as asshen colde,  
+> And solitarie he was and evere allone,  
+> And waillynge al the nyght, makynge his mone.
+(1369)
+
+- The transformation is what allows Arcite's physical and social mobility.
+
+	- The trope seems to follow what happens at the end of _Amis and Amiloun_; the leperous friend moves to the walls of the palace, having become a beggar. (But here Arcite is performing this role.)
+
+- __THESIS STATEMENT__: in Amis and Amiloun, the difference between the two previously identical heroes is a false difference in ethos (their , a true difference in language; in the knight's tale, the similarity between the two heroes is a false similarity
+
+	- not a good thesis statement.
+
+Chaucer then introduces the way that love changes and separates the two characters; then, in the moment of the battle, the two again respond to the same description, in a conflict that seems to echo the formal parallels deployed for Amis and Amiloun.
+
+> O Cupide, oute of alle charitee!  
+> O regne, that wolt no felawe have with thee!  
+> Ful sooth is seyd that love ne lordshipe  
+> Wol noght, his thankes, have no felaweshipe!    
+> Wel fynden that Arcite and Palamoun.  
+> Arcite is riden anon unto the toun,  
+> And on the morwe, er it were dayes light,  
+> Ful prively two harneys hath he dight,  
+> Bothe suffisaunt and mete to darreyne  
+> The bataille in the feeld bitwixt hem tweyne;  
+> And on his hors, allone as he was born,  
+> He carieth al the harneys hym biforn.  
+> And in the grove, at tyme and place yset,  
+> This Arcite and this Palamon ben met.  
+> To chaungen gan the colour of hir face;  
+> Right as the hunters in the regne of Trace,  
+> That stondeth at the gappe with a spere,  
+> Whan hunted is the leon or the bere,  
+> And hereth hym come russhyng in the greves,  
+> And bre [...]
+
+> So ferden they in chaungyng of hir hewe,  
+> As fer as everich of hem oother knewe.  
+> [1647]
+
+- Like in the case of Amis and Amiloun, The language is conflating the two heroes; Chaucer uses one collective third person plural for a simultaneous, identical action, instead of two distinct third person singular.
+
+> There nas no good day, ne no saluying,  
+> But streight, withouten word or rehersyng,  
+> Everich of hem heelp for to armen oother  
+> As freendly as he were his owene brother;  
+> And after that, with sharpe speres stronge  
+> They foynen ech at other wonder longe.  
+
+Even the subsequent simile, with a tiger and a lion, in the substantial lack of differentiation between the two animals, seem to emphasize identity over differentiation. This is when Palamon and Arcite are one and the same. Indeed, when they are spotted by Theseus, who discovers them in one of his hunting excursions, the sophisticated (ennobling) feline simile is abruptly replaced by a more trivial
+
+> He was war of Arcite and Palamon,  
+> That foughten breme as it were bores two.  
+> The brighte swerdes wenten to and fro  
+> So hidously that with the leeste stroook  
+> It seemed as it wolde felle an oook.
+> But what they were, no thyng he ne woot.
+
+- Physical change occurs, again, towards the end, when Arcite is hit by a weapon and falls ill. His "brest" swelleth.
 
 ##Paragraph 6
 
@@ -125,8 +214,20 @@ The discovery of these two bodies immediately sets in motion a persistent settin
 
 - By this choice, Chaucer probably wishes to suggest that __providence__ is equally shifting. Chaucer might equate our understanding of the two characters as identical, as perfectly replaceable, with our understanding of providence - it seems to change, but it doesn't.
 
+- The identity between the two characters stands for __providence__. They become more different as they are separated by __history__ and the deployment of their will.
 
 - One might even say that the purpose of Chaucer's deployment of this trope is precisely to show how choice does not matter; how free will is an illusion set against the ultimately converging - levelling, unifying - forces of providence.
+
+- The ethical imperative is __not to distinguish__ between the two, like Palamon does as he talks to Teseus.
+
+> This Palamon answerde hastily  
+> And seyde, "Sire, what nedeth wordes mo?  
+> We have the deeth disserved bothe two.  
+> Two woful wrecches been we, two caytyves,  
+> That been encombred of oure owene lyves;  
+> [...]
+
+- What we should learn is that, beyond our discrete understanding of events and individual preference for distinct deities, there is only one "First Moevere" for whom change is no change. (ll. 3020-3050) 
 
 ##Paragraph 7
 
@@ -171,21 +272,64 @@ The discovery of these two bodies immediately sets in motion a persistent settin
 
 	- While the Anglo-Norman version of the tale 
 
-	- trewthe and trewe - loyal to a pledge and faithful to the actual truth
+	- trewthe and trewe - loyal to a pledge and faithful to the actual truth.
 
 ##Paragraph 8
 
 8. And The Knight's tale in the context of translation.
 
+- __Genre__: in the middle of the second book, the narrator shifts from one character to the other as if he was shifting from one __genre__ to the other. We have the romantic plot of _Arcite_ (he is transformed by love sickness; he works for his lady at the gates of the city) and the adventurous plot of _Palamoun_ (he flees from the prison).
+
+- Somehow these are two strands of the broader genre of romance interacting with each other; we might also say that Palamoun becomes a reader of Arcite's complaint in the second book.
+
+- Chaucer explicitly turns the _false modesty_ of occupatio into a specifically vernacular problem. Insufficiency.
+
+> Who koude ryme in Englyssh proprely  
+> His martirdom? For sothe it am nat I;  
+> Therfore I passe as lightly as I may.  (1460)
+
+This mention is immediately followed by a reference to the "olde bookes [...] | That al this storie tellen moore pleyn".
+
 - One option here might be to talk about how the tale has been adapted to become the romance told by the knight.
 
 - __translation__ is important not only because this is _Teseida_, a boethian translation from Boccaccio, leading to the composition of Troilus and Criseyde, but also because it is greek history and classical antiquity. the idea is, again, that of translatio imperii. Does chaucer deploy the tropes of the double and agnition in the same way that we see in _Amis and Amiloun_, elaborating on ideas of potential substitution, replacement, and the misunderstanding of signs?
 
+- The big moment of __translatio imperii__ is the presentation of the armies that precedes the conflict. Here we have a list of Greek warriors, and a description of their strength. Chaucer is appropriating them, as he has appropriated the three statues and the stories concerning them. Chaucer is appropriating them for a different vernacular, a different audience, and ultimately a different purpose.
+
+- What matters at this point is not the space of history, where the two characters are virtually interchangeable, but instead the space of private complaint, where their distinct personalities develop. _Therefore_, the idea might seem that, although the ethical understanding of the tale might suggest that the two characters are actually the same, the moments that matter the most for Chaucer's authorship are those where they are different - where they look, act, and speak differently. The _emotional_ core of the story is the adaptation of Boethius and the insertion of the lyrical complaints, not the historical triumphalism of the two armies facing each other.
+
+- The author of Amis and Amiloun, writing at the beginning of s. XIV, is ultimately insecure about the role of his vernacular when this is introduced in a complex linguistic economy. Somehow, the production of a new piece might create misunderstandings and ultimately be rejected. Therefore, the ethical world of the story stresses the positivity of difference, whereas the linguistic project strives for uniformity. On the other hand, Chaucer's knight have to be understood as identical in order for the story to function and teach something to the readers; but the most important moments of the narrative are not those of traditional epic, but the personal and lyrical complaints - the subjectivity that had differentiated the two heroes. For the anonymous author of Amis and Amiloun, the fact that he has written a story that intends to appropriate and replace a previous tradition is a sign of inferiority (lingustic and perhaps cultural); for Chaucer, the differences of his translation are an element of richness.
+
+- The most memorable moments of _The Knight's Tale_ are those when the two characters are separated and suffering - the lyrical moments of monologue and exchange that rewrite Boethius; not the battles that pedestrially conform to the _translatio imperii_.
+
+- Indeed, the third part of the story seems a display of this _translatio_, 
+
+> Ye knowen wel that every lusty knyght  
+> That loveth paramours and hath his myght,  
+> Were it in Engelond or elleswhere,  
+> They wolde, hir thankes, wilnen to be there -  
+> To fighte for a lady, benedicitee!  
+> It were a lusty sighte for to see.  
+
+- It is worth noticing that the fighters involved in the battle, Lygurge and Emetreus, are somehow monstrous caricatures, perhaps amplifying the animal parallels deployed in the sequence when they meet Theseus.
+
+- Indeed, the triumph of the confusion between the two heroes is the fact that _Palamon_ seeks Venus, while Arcite seeks _Mars_. 
+
+- For Chaucer, writing at least seven decades after the anonymous author of Amis and Amiloun, the physical identity between his two main characters is no longer a source of wonder, but seemingly one of ridicule.
+
 - sites of misunderstanding might be the prayers.
+
+- Arcite initially misunderstands the meaning of his friend's "A!"
+
+- Palamoun misunderstands Emilie for a goddess.
 
 	- Perhaps we might say that the context had changed by the late xiv s., and the status of english had risen to be able to displace the authority and the prestige of the previous traditions, to displace italian, latin, greek.
 
 	- Chaucer emphasizes the chronological and spatial distance of his source and matter in the first section of the poem.
+
+- Perhaps the _translation_ and the failed agnition work as signifiers for __genre__ in the work. Arcite's transformation would therefore match a transformation of the original romance into a work of philosophical debate - a meditation on providence and __free will__. (The idea is certainly that of __free will__ against providence.)
+
+	- Not only is Chaucer translating from Boccaccio; he is adding new sources and a Boethian reading of the whole theme.
 
 ##Paragraph 9
 
@@ -193,8 +337,8 @@ The discovery of these two bodies immediately sets in motion a persistent settin
 
 __Two works__: options.
 
-	1. Amis and Amiloun (doubled);
-	2. Knight's tale (providence, religion interwoven; here the theme of doubling resonates with that of friendship, in a different context; adaptation and translation from the original);
+1. Amis and Amiloun (doubled);
+2. Knight's tale (providence, religion interwoven; here the theme of doubling resonates with that of friendship, in a different context; adaptation and translation from the original);
 	
 
 __Envoy__: bisclavret.
