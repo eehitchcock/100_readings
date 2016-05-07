@@ -1,5 +1,7 @@
 #King Horn
 
+- __Topics__: speech (less than in the a. n.; the saracens here don't need translators; king horn's own body speaks for itself); religion and wonder (emphasized from the more secular, historical a-n); _horn has one more rib here_ - a memorable detail, both non-linguistic, or non-verbal, and religiously charged.
+
 ##Introduction
 
 - probably the __oldest surviving__ middle english romance - written at the end of s. xiii (1270~?).
@@ -74,7 +76,7 @@
 
 300. __repetition__ is indeed a crucial rhetorical device - rymenhild again "gan wexe wild."
 
-319. the __substitute__ confesses [athulf reveals what has happened] - and we learn that horn has __one more rib__ [_an invention in the middle english; a very interesting addition - is it a marvelous or religious detail? or are there any latent implications?_] (like women and __adam__).
+319. the __substitute__ confesses [athulf reveals what has happened] - and we learn that horn has __one more rib__ [_an invention in the middle english; a very interesting addition - is it a marvelous or religious detail? or are there any latent implications?_ like women and __adam__].
 
 336. the whole misunderstanding mixes __verbal and nonverbal__ (physical appearance) signs in an unexpected, counterintuitive way. rymenhilde understands that the man is not horn only when he says so - and yet, she blames him for being "so unorn" (ugly) [remember that she had not seen him in the a. n.].
 
@@ -194,7 +196,7 @@
 
 1481. horn's final __disguise__: as a minstrel; is this a synthesis of __appearance and voice__ (speech)?
 
-1491. horn sings a lay - "he makede rymenhilde lay." this works as __another sign__; notice, as well, that before acting horn looks, again, at the __engraved ring__ [this ending uses passages that were elsewhere in the original; horn sung in ireland while being seduced by a different woman; here the two have been conflated] (though she's there).
+1491. horn sings a lay - "he makede rymenhilde lay." this works as __another sign__; notice, as well, that before acting horn looks, again, at the __engraved ring__ [this ending uses passages that were elsewhere in the original; horn sung in ireland while being seduced by a different woman; here the two have been conflated _though she's there_].
 
 1507. here we find a wide conclusion - horn sails to every kingdom which he has visited, and for each he appoints a king - favoring both the land and his own men [different from the original, again]. this ending achieves a full sense of __circularity and satisfaction__.
 
