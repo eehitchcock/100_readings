@@ -1,4 +1,34 @@
-##Major List: Dream Vision (c.524-c.1422)
+##Major List: Romance (c.1170-c.1420)
+
+###Primary Texts
+
+30. _Thomas_, __Romance of Horn__ - Anglo-Norman (c. 1170)
+29. Anonymous, __Amis e Amilun__ - Anglo-Norman (c. 1190)
+32. _Marie de France_, __Lais__ (c. 1175)
+31. _Thomas of Britain_, __Tristran__ (c. 1180)
+1. Anonymous, __King Horn__ - Middle English (c. 1250)
+36. Anonymous, __Floris and Blancheflour__ - Middle English (c. 1250)
+34. Anonymous, __Havelok the Dane__ (c. 1280)
+39. Anonymous, __Sir Tristrem__ - Middle English (c. 1290)
+3. Anonymous, __Amis and Amiloun__ - Middle English (c. 1300)
+37. Anonymous, __Sir Orfeo__ (c. 1300)
+38. Anonymous, __Stanzaic Guy of Warwick__ (c. 1300)
+40. _Geoffrey Chaucer_, __Troilus and Criseyde__ (c. 1386)
+41. _Geoffrey Chaucer_, __The Canterbury Tales__ - Frag. __1__, __3__, __4__, __5__, __7__ (c. 1400)
+35. Anonymous, __Sir Gawain and the Green Knight__ (c. 1390)
+46. Anonymous, __Alliterative Morte Arthure__ (c. 1400)
+47. _John Lydgate_, __Troy Book__ - selections (c. 1420)
+
+###Secondary Texts
+
+52. Frank __Kermode__, _Hoti's Business: Why Are Narratives Obscure?_ (1980)
+50. Susan __Crane__, _Insular Romance: Politics, Faith, and Culture in Anglo-Norman and Middle English Literature_ (1986)
+51. Rosalind __Field__, _Romance in England, 1066-1400_ (1999)
+48. Sarah __Kay__, _Courts, Clerks, and Courtly Love_ (2000)
+49. Helen __Cooper__, _The English Romance in Time: Transforming Motifs from Geoffrey of Monmouth to the Death of Shakespeare_ (2004)
+53. Alfred __Hiatt__, _Genre Without System_ (2007)
+
+##Major List: Visions (c.524-c.1422)
 
 ###Primary Texts
 
@@ -30,35 +60,6 @@
 28. Eleanor __Johnson__, _Practicing Literary Theory in the Middle Ages: Ethics and the Mixed form in Chaucer, Gower, Usk, and Hoccleve_ (2012)
 27. Eleanor __Johnson__, _English Law and the Man of Law's "Prose" Tale_ (2015)
 
-##Major List: Romance (c.1170-c.1420)
-
-###Primary Texts
-
-30. _Thomas_, __Romance of Horn__ - Anglo-Norman (c. 1170)
-29. Anonymous, __Amis e Amilun__ - Anglo-Norman (c. 1190)
-32. _Marie de France_, __Lais__ (c. 1175)
-31. _Thomas of Britain_, __Tristran__ (c. 1180)
-1. Anonymous, __King Horn__ - Middle English (c. 1250)
-36. Anonymous, __Floris and Blancheflour__ - Middle English (c. 1250)
-34. Anonymous, __Havelok the Dane__ (c. 1280)
-39. Anonymous, __Sir Tristrem__ - Middle English (c. 1290)
-3. Anonymous, __Amis and Amiloun__ - Middle English (c. 1300)
-37. Anonymous, __Sir Orfeo__ (c. 1300)
-38. Anonymous, __Stanzaic Guy of Warwick__ (c. 1300)
-40. _Geoffrey Chaucer_, __Troilus and Criseyde__ (c. 1386)
-41. _Geoffrey Chaucer_, __The Canterbury Tales__ - Frag. __1__, __3__, __4__, __5__, __7__ (c. 1400)
-35. Anonymous, __Sir Gawain and the Green Knight__ (c. 1390)
-46. Anonymous, __Alliterative Morte Arthure__ (c. 1400)
-47. _John Lydgate_, __Troy Book__ - selections (c. 1420)
-
-###Secondary Texts
-
-52. Frank __Kermode__, _Hoti's Business: Why Are Narratives Obscure?_ (1980)
-50. Susan __Crane__, _Insular Romance: Politics, Faith, and Culture in Anglo-Norman and Middle English Literature_ (1986)
-51. Rosalind __Field__, _Romance in England, 1066-1400_ (1999)
-48. Sarah __Kay__, _Courts, Clerks, and Courtly Love_ (2000)
-49. Helen __Cooper__, _The English Romance in Time: Transforming Motifs from Geoffrey of Monmouth to the Death of Shakespeare_ (2004)
-53. Alfred __Hiatt__, _Genre Without System_ (2007)
 
 ##Minor List: Continental Allegory
 
