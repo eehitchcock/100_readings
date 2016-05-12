@@ -1,30 +1,34 @@
 #Boethius, The Consolation of Philosophy
 
+|Date|Form|Key-words|
+|---|---|---|
+|526 CE|Mixed form (prose and diverse meters)|Apologia; Imprisonment; Amnesia; Teaching; Sickness; Time; Fortune; Providence|
+
 ##Introduction
 
-- born ~476 c.e.; started as a __translator__ (had an excellent education).
+- born c. 476 C. E.; started as a __translator__ (had an excellent education).
 
-- became a consul in 510 - this hampered his work as an __intellectual__.
+- became a consul in 510 - this hampered his work as an __intellectual__ [politics v. contemplation].
 
-- started working as a "master of offices" for _theoderic_ in 522; moved to the North of Italy. his job was diplomatic mediation.
+- started working as a "master of offices" for __theoderic__ in 522; moved to the North of Italy. his job was diplomatic mediation.
 
 - he was accused, fell in disgrace and was imprisoned. he died in ~526.
 
-	- in prison he wrote his most famous book.
+	- in __prison__ he wrote his most famous book.
 
 - besides _consolation_, Boethius wrote on the sciences of the __quadrivium__ (music and arithmetic) and on __logic__; he also wrote on theological ideas.
 
 ##Commentary
 
-###Book one
+###Book one: Sickness of History
 
-- 1.1. the first word of the book is "__carmina__"; boethius starts with the __metrum__, and identifies himself as a poet. a former poet, who is now old and close to death.
+- 1.1. the first word of the book is "__carmina__"; boethius starts with the __metrum__, and identifies himself as a __poet__. a former poet, who is now old and close to death.
 
 - 1.1. the woman appears - her form is _shifting_ and hard to __decypher__; notice that the _reader_ himself would not be able to distinguish this shape.
 
 - 1.7. boethius was surrounded by __muses__, a metaphor that becomes __visible__, acquires consistentcy; there are _different kinds of muses_.
 
-- 2.1. the second poem is constructed around the __contrast__ between _open_ and _closed_ spaces; the first are for _contemplation_ and research; the second for __brutality__ and darkness.
+- 2.1. [__imprisonment__ as a thematic and formal device] the second poem is constructed around the __contrast__ between _open_ and _closed_ spaces; the first are for _contemplation_ and research; the second for __brutality__ and darkness.
 
 - 2. here we find the __motive__ of forgetfulness; B. does not recognize the visitor, who behaves like a __mother__ and a __lover__.
 
@@ -42,7 +46,7 @@
 
 - 4. B. compares his present condition with the past. the parallel is always between __prison__ and __library__. the transition is a decision to enter politics.
 
-	- the speech is the _full rage_ of historyl, unleashed against the subject.
+	- the speech is the _full rage_ of history, unleashed against the subject.
 
 	- the monologue is a sample of rhetorical virtuosity; three elements:
 
@@ -64,7 +68,7 @@
 
 - 7. this __metrum__ has a completely different _form_ - short lines (fives syllabes - feet?); it is a metaphorical description of boethius' mental dullness, compared to a cloudy sky.
 
-###Book two
+###Book two: Fortune and Change
 
 - 1. fortune is a __monster__, even when she assists you; philosophy invokes, as a soothing remedy, __rhetoric and music__ ("laris nostra vernacula" - handmaid in my house). philosophy tries to prove that fortune has never changed - her very existence is unpredictability, unreliability. __fortune never stops changing.__
 
@@ -112,7 +116,7 @@
 
 - 8. and here the poem introduces a __new motive__: "__amor__" (love) is the force that regulates and holds the universe together. without love, the universe would be chaos. but mankind is capable of acting outside of its bonds.
 
-###Book three
+###Book three: Happiness and the Highest Good
 
 - 1. the objective of the exploration is now declared to be "true happiness" ("__veram felicitatem__"). the function of poetry is to make bitter remedies (degustata) sweeter.
 
@@ -122,7 +126,7 @@
 
 - 2. the description of the "summum bonorum"; the highest good - the one good that replaces (that fulfills) every aspiration and every wish. every man wishes the __same good__, but few men know what it is, and even fewer know how to reach it, like __drunkards headed home__.
 
-- 2. a gorgeous poem about __return__; three large metaphors: a captive lion, a captive bird, a bent bough. they will all return to their __origin__, if freed from their prison, if they are shown what is the nature of their wish. man's aspiration to happiness is an __instinct__.
+- 2. a gorgeous poem about __return__; three large metaphors: a captive lion, a captive bird, a bent bough. they will all return to their __origin__, if freed from their prison, if they are shown what is the nature of their wish. man's aspiration to happiness is an __instinct__ [again the idea of __imprisonment__].
 
 	- the poem uses _enjambement_ as a way of expressing this persistent want - incompleteness.
 
@@ -182,7 +186,7 @@
 	
 	- orpheus becomes the __thinker__ that overcomes death - through his __song__.
 
-###Book four
+###Book four: Evil and Misunderstanding
 
 - 1. the crucial question now: _what is the source of evil?_ the answer: evil is a fiction.
 
@@ -234,7 +238,7 @@
 
 - 7. three exempla - the last, hercules, being the most extended and powerful - to prove that struggles are often rewarded. "superata tellus | sidera donat" heracles had the sky (on his back) as a prize. notice how _sidera_ here has a christian undertone, although latent.
 
-###Book five
+###Book five: Free Will and Eternity
 
 - 1. now b. asks for a definition of __chance__ ("casus"): the digression is prompted by his curiosity. this is another _pedagogical mode_. her first statement is that casus does not exist - everything is __causa__ - ordered by god.
 
@@ -292,4 +296,4 @@
 
 2. A pedagogical manual, where form and content are attentively distributed in order to achieve clarity and effectiveness. The learner has to access new ideas only when he or she is ready for them.
 
-3. The argumentative instruments employed are also different, from monologic exposition, to maieutic dialogue, from poetic exempla, to tight theological (or philosophical) argument. Similarly, Boethius contemplates different objects according to his purpose: the natural world from a scientific perspective, or the domain of ideas from a purely metaphysical one. 
+3. The argumentative instruments employed are also different, from monologic exposition, to maieutic dialogue, from poetic exempla, to tight theological (or philosophical) argument. Similarly, Boethius contemplates different objects according to his purpose: the natural world from a scientific perspective, or the domain of ideas from a purely metaphysical one.
