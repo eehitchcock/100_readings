@@ -1,5 +1,15 @@
 #Guillaume de Lorris and Jean de Meun, Roman de La Rose
 
+|Date|Form|Key-words|
+|:---:|:---:|:---:|
+|1235-1275|Octosyllabic couplets|Allegory; Dream; Spatialization; Sins; Procession; Sensory details; Allegorical narrative; Imprisonment; Psychomachia; Encyclopedic; Fortune; Language arts; Performance; Literary tradition|
+
+##Ideas
+
+- The allegorical personifications (among which we find sins) are described in great detail; besides, the scene of the dream is placed in a specific __space__ - a garden, surrounded by a wall, surrounded by mirrors - where every spatial element might have a deeper meaning; Lorris also describes many details that appeal to the __senses__, although these seem to be always matched by a deeper meaning (not unnecessary or disorienting; they seem to arise from the needs of the work itself); this is also an instance when narrative (the narrative of Chretien's romances) plays an allegorical role (remember the rose and the narrator trying to grasp it and being pierced multiple times in the heart). We find a psychomachia when the poet/narrator tries to win his beloved one.
+
+- Jean de Meun's section is somehow __encyclopedic__. He instructs the reader on the role of __fortune__, the language arts, and the performances that will help him gain the love of the lady.
+
 ##Introduction
 
 - the book, as the title implies, combines the __allegorical tradition__ of m. capella with the _romans_ written by chretien (esp. "conte du graal").
