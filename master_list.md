@@ -28,13 +28,13 @@
 49. Helen __Cooper__, _The English Romance in Time: Transforming Motifs from Geoffrey of Monmouth to the Death of Shakespeare_ (2004)
 53. Alfred __Hiatt__, _Genre Without System_ (2007)
 
-##Major List: Visions (c.524-c.1422)
+##Major List: Vision (c.524-c.1422)
 
 ###Primary Texts
 
 1. _Boethius_, __De Consolatione Philosophiae__ (c. 524)
 2. _Alain de Lille_, __De Planctu Naturae__ (c. 1160)
-3. _Jean de Meun_ and __Guillaume de Lorris__, __Roman de la Rose__ (c. 1225, c. 1270)
+3. _Jean de Meun_ and _Guillaume de Lorris_, __Roman de la Rose__ (c. 1225, c. 1270)
 4. _Dante Alighieri_, __Vita Nuova__ (1295) 
 5. Anonymous, __Wynnere and Wastoure__ (c. 1360)
 6. Anonymous, __The Cloud of Unknowing__ (c. 1375)

@@ -2,5 +2,5 @@
 
 1. Complete transcriptions [ ].
 2. Prepare synoptic tables [ ].
-3. Write rationales [ ] (300 words each?).
-4. Read notes on preorals [ ].
+3. Rewrite rationales [ ] (300 words each?).
+4. Read notes on preorals [X].
