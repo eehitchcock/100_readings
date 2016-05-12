@@ -1,8 +1,14 @@
 #Wynnere and Wastoure
 
-| form |
-|:----:|
-|alliterative revival|
+|Date| Form |Key-words|
+|:---:|:----:|:---:|
+|c. 1360|Alliterative long line|Dream; Ethical crisis (and formal); Social issues; Social types; Spatialization; Narrative allegory; Sensory details|
+
+##Ideas
+
+- The poem seems to belong to the same alliterative and socially engaged tradition of _Piers Plowman_; indeed, it presents analogous __types__ that seem to correspond to socially recognizable identities - not simply allegory, but synecdoche.
+
+- The debate soon becomes problematic; but, at least initially, the two social types - winner and waster - seem to correspond to formal and rhetorical types; the two characters _argue_ differently (the conclusion seems to be that both sides are necessary - very Langlandian.
 
 ##Introduction
 
