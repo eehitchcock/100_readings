@@ -1,5 +1,17 @@
 #Vita Nova di Dante Alighieri
 
+|Date|Form|Key-words|
+|:---:|:---:|:---:|
+|1293|Mixed (prose and diverse meters)|Compilation; Literary tradition; Allegory; Historical nonfiction; Latin and vernacular; Typology; Language arts; Psychomachia; Sickness|
+
+##Ideas
+
+- Dante is making himself part of a literary tradition, and he already belongs to the generations of writers who no longer communicate directly with ideas, but with __books__ written about these ideas (although for Dante these are his own books, his own writings); literacy is an integral part of his life as an intellectual; he also refers to the _book of memory_ in his mind. Remember that here the __personifications__ (and some characters) speak Latin, while the book is in Italian. __Typology__ is the way that Dante is making his history universal history (Beatrice is Christ - _again_).
+
+- Remember that Dante is especially remarkable in how his allegorical landscape is often a fine insight into the workings of the mind; he is actually interested in understanding _how we think_ and _how we feel_.
+
+- Dante actually __does fall ill__ in the book (_feverishness_).
+
 ##Introduction
 
 - written around __1293__, as a way to "put ideas in place" - ordering his juvenile poems and giving them an overarching structure. __vita nova__ is looking backwards.

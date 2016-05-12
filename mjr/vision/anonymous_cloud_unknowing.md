@@ -1,5 +1,15 @@
 #The Cloud of Unknowing
 
+|Date|Form|Key words|
+|:---:|:---:|
+|c. 1375|Prose|Reading pilgrimage; Vita contemplativa; Temporality; Imagination; Ethical crisis (and formal); Allegory; Language arts; Theological antrhopomorphism|
+
+##Ideas
+
+- Dense and delicate argument. The book serves as a pilgrimage, that is - it should be read in its entirety, because the solution of the problems it poses arrives at the end, and for those who followed its steps closely; contemplation is the objective of the devotee, as described in the text; temporality is crucial in that man and god are placed on two different planes; remember that the Cloud author has an __atomic__ conception of time - a sequence of atoms. __Imagination__ should be used __not__ to construct images that trap the mind in fantasies, but - on the contrary - to achieve a contemplation of divine secrets.
+
+- The book perhaps addresses one of the critical moments of allegory - or of signification, or of literature as a means to reach the divine; we should not use figures to access the divine - we should just access the divine itself.
+
 ##Commentary
 
 - 19. the book becomes an instrument and a token; what allows people to experience the same thoughts and feelings; here the introduction spends ome time on this physical counterpart of __active life__, and, moreover, __contemplative life__. through the physical presence of this book, one becomes a follower of __christ__.
@@ -26,7 +36,7 @@
 
 - 630. the only __vision of god__ is the one that is enabled after death, in the hereafter. the work juxtaposes __vita contemplativa__ and __vita activa__ for this reason - in the time of __mortality__ a life spent entirely in contemplation is impossible. But the __attempt__ is. [_how is the dichotomy between contemplativa and activa analogous to that between secondary and primary meaning? how can we have pure contemplation, then, if we keep mixing our meditations with the terrestrial forms that we should be trying to escape? this manual is also a manual about form, about the insufficiency of allegory - allegory is still using those forms that we are trying to reject, to overcome, to transcend._]
 
-- 668. the origin of the __seven deadly sins__ is one - distraction the mind is no longer forgetting people and ideas that live in __time__ - and the memory of pleasure of pain associated to people and things aother than god becomes one of the seven sins. [_how therefore, allegory itself is sinful. how, therefore, we are sinning through tropes and form. this is why, probably, this is a work in prose. far from language - far from the vicious capabilities of language._]
+- 668. the origin of the __seven deadly sins__ is one - __distraction__. the mind is no longer forgetting people and ideas that live in __time__ - and the memory of pleasure of pain associated to people and things aother than god becomes one of the seven sins. [_how therefore, allegory itself is sinful. how, therefore, we are sinning through tropes and form. this is why, probably, this is a work in prose. far from language - far from the vicious capabilities of language._]
 
 - 680. the __imperative__: "bete evermore on this cloude of unknowing that is betwixt thee and this god with a scharpe dart of longing love." _fix your mind into the unthinkable._
 
