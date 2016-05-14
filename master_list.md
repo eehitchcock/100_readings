@@ -72,7 +72,7 @@
 62. _Maimonides_, __The Guide for the Perplexed__ (c. 1190)
 60. Anonymous, __La Queste del Saint Graal__ - Lancelot-Graal (c. 1230)
 61. Anonymous, __La Mort Artu__ - Lancelot-Graal (c. 1230)
-66. __Gonzalo de Berceo__, _Milagros de Nuestra Señora_ (c. 1260)
+66. _Gonzalo de Berceo_, __Milagros de Nuestra Señora__ (c. 1260)
 68. _Alfonso X_, __Cantigas de Santa María__ (c. 1284)
 63. _Alfonso de San Cristóbal_, __Epitoma Rei Militaris - Traducción y glosas__ (c. 1400)
 57. _Christine de Pizan_, __Epistre Othéa__ (1400)
