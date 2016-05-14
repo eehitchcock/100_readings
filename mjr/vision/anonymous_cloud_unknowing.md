@@ -1,7 +1,7 @@
 #The Cloud of Unknowing
 
 |Date|Form|Key words|
-|:---:|:---:|
+|:---:|:---:|:---:|
 |c. 1375|Prose|Reading pilgrimage; Vita contemplativa; Temporality; Imagination; Ethical crisis (and formal); Allegory; Language arts; Theological antrhopomorphism|
 
 ##Ideas
