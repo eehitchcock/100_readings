@@ -1,5 +1,13 @@
 #Geoffrey Chaucer, The Parliament of Fowls
 
+|Date|Form|Key-words|
+|:---:|:---:|:---:|
+|1380|Rime royal stanza|Dream; Allegory; Temporality; Literary Tradition; Translation; Interpretation; Spatialization; Teaching; Sensory details|
+
+##Ideas
+
+- Scipio is the teacher, of course. Translation and interpretation seem to occur at the beginning and at the end of the sequence.
+
 ##Introduction
 
 - a dream vision with a slightly comical narrator, like book of the duchess and house of fame.
