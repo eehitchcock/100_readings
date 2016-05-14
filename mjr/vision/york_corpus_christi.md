@@ -1,5 +1,15 @@
 #The York Corpus Christi Cycle
 
+|Date|Form|Key-words|
+|:---:|:---:|:---:|
+|c.1376 (to 1569)|Drama (various meters)|Typology; Temporality; Alliteration; Spatialization; Latin and Vernacular; Theological anthropomorphism; Translation; Interpretation; Ethical crisis (and formal); Misunderstanding; Miracle|
+
+##Ideas
+
+- The plays _stage_ the ethical degradation of language as satan's introduction breaks the metrical pattern established by the similarity between God and mankind.
+
+- For __spatialization__, consider the creation in Genesis, the crafting of Noah's ark, the entrance of the devil before the temptation in the desert, and the doors that separate Mary and Joseph.
+
 ##Introduction
 
 - the feast was devoted to the __host__. pageants and plays were included to celebrate the __visible__ (tangible) manifestation of the __invisible__ (divine).

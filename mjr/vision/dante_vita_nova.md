@@ -2,7 +2,7 @@
 
 |Date|Form|Key-words|
 |:---:|:---:|:---:|
-|1293|Mixed (prose and diverse meters)|Compilation; Literary tradition; Allegory; Historical nonfiction; Latin and vernacular; Typology; Language arts; Psychomachia; Sickness|
+|1293|Mixed (prose and diverse meters)|Compilation; Literary tradition; Allegory; Historical nonfiction; Latin and vernacular; Typology; Language arts; Psychomachia; Sickness; Interpretation|
 
 ##Ideas
 

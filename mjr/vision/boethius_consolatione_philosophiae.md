@@ -2,7 +2,7 @@
 
 |Date|Form|Key-words|
 |---|---|---|
-|526 CE|Mixed form (prose and diverse meters)|Apologia; Imprisonment; Amnesia; Teaching; Sickness; Time; Fortune; Providence; Historical nonfiction|
+|526 CE|Mixed form (prose and diverse meters)|Apologia; Imprisonment; Amnesia; Teaching; Sickness; Time; Fortune; Providence; Historical nonfiction; Temporality|
 
 ##Introduction
 

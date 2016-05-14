@@ -1,5 +1,15 @@
 #The House of Fame by Geoffrey Chaucer
 
+|Date|Form|Key-words|
+|:---:|:---:|:---:|
+|c. 1380|Octosyllabic couplets|Literary tradtion; Dream; Interpretation; Translation; Teaching; Imagination; Temporality; Spatialization; Social issues|
+
+##Ideas
+
+- The eagle might well be a reference to the teacher/learner motif often found in this tradition.
+
+- It is possible that the two parts of the third book correspond to two temporalities; the fixedness of literary past, and the bustle of the urban present.
+
 ##Introduction
 
 - __octosyllabic couplets__, and a __dream vision__ like _book of the duchess_.
