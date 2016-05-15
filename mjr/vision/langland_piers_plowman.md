@@ -1,5 +1,15 @@
 #Piers Plowman by William Langland
 
+|Date|Form|Key-words|
+|:---:|:---:|:---:|
+|c. 1390|Alliterative long line|Dream; Allegory; Social issues; Reading pilgrimage; Spatialization; Teaching; Imagination; Allegorical narrative; Interpretation; Latin and vernacular; Language arts; Sins; Social types; Psychomachia; Temporality|
+
+##Ideas
+
+- The language arts appear, for instance, when Will and Conscinence discuss the difference between direct and indirect relation (it is the reward due to a person, in contrast with _mede_); they frame the conversation around the difference between Latin and vernacular.
+
+- Temporality is highly problematic in the poem; the narrative compresses, dilates, and suspends time. Consider the social critiques of the first section of the poem, the theological digressions of the second section, and the temporal compression for which Will witnesses the entirety of history in the conclusion.
+
 ##Commentary
 
 ###Prologue

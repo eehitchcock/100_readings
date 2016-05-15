@@ -1,5 +1,13 @@
 #The Testament of Love by Thomas Usk
 
+|Date|Form|Key-words|
+|:---:|:---:|:---:|
+|1388|Prose|Allegory; Sensory details; Dream; Social issues; Teaching; Interpretation; Latin and vernacular; Literary tradition; Translation; Apologia; Imprisonment|
+
+##Ideas
+
+- Usk discusses the insufficiency of English when compared to Latin; his allegorical vision contains many sensory details that complicate - or enrich - our understanding of his main purpose, which is the convergence of the social and physical universe towards a divine image of love; it is a dream and a dialogue where the main character is instructed by the allegorical personification of love; he is imprisoned and he translates Boethius - he thus rewrites Boethius, in prose and in vernacular.
+
 ##Introduction
 
 - we have no ms. for ToL; the first edition is a printed version from 1532 (nearly 150 years after usk's death). the edition that we have is __heavily corrupt__.
@@ -58,7 +66,7 @@
 
 	- love is thus in contrast with __secular fame and power__; love is a higher, nobler goal.
 
-654. here we have the beginning of the __apologetic__ confession, a narration of the __historical circumstances__ that led the writer to this sad imprisonment. the story involves wicked gossip, false fame, and envy. in the conclusion, usk explains that this is one of the purposes of his writing - to record the __truth__ [_in the sense of the historical truth, his "version" of how things went, so that his fame can be restored for posterity on earth_] (very different from boethius here).
+654. here we have the beginning of the __apologetic__ confession, a narration of the __historical circumstances__ that led the writer to this sad imprisonment. the story involves wicked gossip, false fame, and envy. in the conclusion, usk explains that this is one of the purposes of his writing - to record the __truth__ [_in the sense of the historical truth, his "version" of how things went, so that his fame can be restored for posterity on earth_; very different from boethius here].
 
 727. a __consolation__; the two characters discuss false and true voices, and the deceiving value of __fame__. love's conclusion is that only less virtuous men will believe usk's infamy [_margarete will remain on his side, she would never believe these false voices_].
 

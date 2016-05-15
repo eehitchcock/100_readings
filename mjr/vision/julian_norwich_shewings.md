@@ -1,8 +1,16 @@
 #The Showings by Julian of Norwich
 
+|Date|Form|Key-words|
+|:---:|:---:|:---:|
+|c. 1373-1393|Prose|Sickness; Teaching; Interpretation; Imagination; Language arts; Temporality; Sensory details|
+
+##Ideas
+
+- The temporality is that that separates the instant of sickness from that of its interpretation; or that of the fulfillment of its interpretation. Teaching occurs in the book both through the display and the conjuring of images that need to be interpreted, and through actual dialogue, reminiscent of the _dream vision_ pedagogical tradition. The book in fact consists in the alternation between these two modes - text and image (teo different notions of time?).
+
 ##Introduction
 
-- composed between 1973 (year when the events happened) and 1393 (when the __longer version__ - six times the original - was completed).
+- composed between 1373 (year when the events happened) and 1393 (when the __longer version__ - six times the original - was completed).
 
 - it is the __first known book__ written in english by __a woman__.
 

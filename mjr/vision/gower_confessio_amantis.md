@@ -1,5 +1,15 @@
 #Confessio amantis by John Gower
 
+|Date|Form|Key-words|
+|:---:|:---:|:---:|
+|1390|Octosyllabic couplets (M. E.); Alexandrine|Compilation; Latin and vernacular; Social issues; Imagination; Teaching; Dream; Interpretation; Sins|
+
+##Ideas
+
+- The character of _Genius_, who tells the stories that constitute the book, can be compared to _Imaginative_ in Langland; he teaches by appealing to the literary senses. 
+
+- The turning point in the prologue is the dream of Nabuchodonosor, interpreted by Daniel; here the poet moves from _historical issues_ to their interpretation; imagination is the instrument that allows the writer to learn from fiction.
+
 ##Introduction
 
 - the confessio amantis is a __bilingual poem__ (latin and middle english) in eight books, plus a prologue. "the confessio, like many other late fourteenth century poems, creates a fiction of __soul-searching__" (through __tales in a frame__).
@@ -78,9 +88,9 @@
 
 332. an example of the __methodology__ employed here - genius introduces a topic, such as the deceiving quality of the five senses, through which we experience the material forms of love; then he explains the issue through a tale that can be "kepe and warde." it is a __mnemonic__ and __pedagogical__ device - an exemplum.
 
-556. the pedagogical method of this confession multiplies exempla and sources - two stories from ovid (actaeon and medusa), a piece from a bestiary [_or a similar source, perhaps a beast fable_] (aspidis the serpent), one episode from "the tale of troie" (the sirens). many fragments to convey one meaning - __interpretation is unity__ [_and unity is what we need to make better rulers, societies, and governments; unity is the model after which we should structure our secular world_]. at the end of this speech, the confessor asks __amans__ if he has, like some of these characters, misused his sight (vision): from pedagogy to __confession__. [_remember that this could be a penitential manual, in a narrative form like the one in langland._]
+556. the pedagogical method of this confession multiplies exempla and sources - two stories from ovid (actaeon and medusa), a piece from a bestiary [_or a similar source, perhaps a beast fable_; aspidis the serpent], one episode from "the tale of troie" (the sirens). many fragments to convey one meaning - __interpretation is unity__ [_and unity is what we need to make better rulers, societies, and governments; unity is the model after which we should structure our secular world_]. at the end of this speech, the confessor asks __amans__ if he has, like some of these characters, misused his sight (vision): from pedagogy to __confession__. [_remember that this could be a penitential manual, in a narrative form like the one in langland._]
 
-	- and what about the genre of __vision as a manual for confession__? we see contrition, understanding, and redemption [_different order?_] (maybe) in usk, langland, boethius.
+	- and what about the genre of __vision as a manual for confession__? we see contrition, understanding, and redemption [_different order?_; maybe] in usk, langland, boethius.
 
 707. a different method: the homiletic exposition now contains __types__ - kinds of sinners that are recognizable for their common behavior, repeated in time and space (here it is hypocrites); __unity in diversity__, again. [_the type as a principle of synthesis; in book seven we will find the planets corresponding to the elements affecting people, and determining the identity of social, national and cultural groups; same could be said for chaucer; the type is the beginning of an order._]
 

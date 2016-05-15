@@ -1,5 +1,13 @@
 #Pearl
 
+|Date|Form|Key-words|
+|:---:|:---:|:---:|
+|c. 1390|Linked twelve-line stanza|Allegory; Dream; Spatialization; Teaching; Interpretation; Misunderstanding; Temporality|
+
+##Ideas
+
+- Form reflects both the ideas of misunderstanding (the same referent can be applied to multiple meanings); and temporality (the idea of unity in sequence - divine temporality and human temporality can overlap; and the idea of the single word - pearl, spot - as a device that allows us to _feel_ divine temporality).
+
 ##Commentary
 
 12. what are the features of this pearl, then? small, round, smooth and precious. initially defined only by its physical qualities - which are supposedly immediate indicators of its worth. lost in a garden, like the innocence after the original sin, and compared to the precious stones "oute of oryent" [ekphrasis is always associated to the exotic - beautiful and strange].

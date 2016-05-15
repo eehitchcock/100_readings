@@ -1,5 +1,15 @@
 #Hoccleve - The Series
 
+|Date|Form|Key-words|
+|:---:|:---:|:---:|
+|c. 1422|Mixed (ryme royale, octosyllabic couplets, and prose)|Sickness; Fortune; Performance; Compilation; Interpretation; Translation; Literary tradition; Allegory; Allegorical narrative; Providence; Imagination|
+
+##Ideas
+
+- The performance is that which Hoccleve needs to put on when he looks at himself in the mirror, to understand how to deal with the people that surround him; a performance of sanity; sickness is considered a fall from fortune.
+
+- Interpretation is the interpretation of Hoccleve's appearance and actions; and the interpretation of the texts that he chooses for his collection. These are compiled and translated by him from a preexistent narrative. The first of the two stories is potentially allegorical, so much that the friend provides a possible explanation for it; imagination is instead evoked in the translation from _lerne to dye_, which prompts the reader to imagine death and being dead.
+
 ##Introduction
 
 - the premise is that the collection was devised by the author as a coherent whole: the complaint; the dialog; the tale of jereslaus' wife; how to learn to die; and tale of jonathas. these are preserved in a ms that was, allegedly, an autograph.
