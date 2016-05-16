@@ -1,5 +1,13 @@
 #The Romance of Horn
 
+|Date|Form|Key-words|
+|:---:|:---:|:---:|
+|c. 1170|Rhyming laisses|Epic; Crusades; Nationalism; Providence; Fortune; Substitution; Courtly love; Exile and return; Learning; Self-made hero|
+
+##Ideas
+
+
+
 ##Introduction
 
 - differently from _amis e amilun_, _tristran_ and _romance of horn_ are deeply connected to the __insular context__ in which they were written; they refer to the folklore, the history, and the topography of the island. in general, insular romances are less marvelous.
