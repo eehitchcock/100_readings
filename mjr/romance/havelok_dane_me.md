@@ -1,5 +1,9 @@
 #Havelok the Dane
 
+|Date|Form|Key-words|
+|:---:|:---:|:---:|
+|c. 1280|Octosyllabic couplets|Exile and return; Social harmony; Self-made hero; Urban naturalism; Social detail; Trade; Miracle; Dream; Interpretation; Trial; Foreignness|
+
 ##Introduction
 
 - according to most scholars, written between 1280 and 1290. probably a reworking of anglo-norman sources (written in the mid. s. xii).
@@ -86,7 +90,7 @@
 
 2635. the army is formed by summoning every capable english man (again, __collectivity__ and a sort of realism - __social realism__ _- an attention to those details of the narrative that extend the scope of the events from the main characters to the society embracing them_). the earl excites them by lying in a public speech against the __foreign invaders__ (- a racist speech? _it is definitely drawing on prejudice; it is definitely exploiting an innate aversion towards outsiders_); he gains __consent__ and excitement. as they arrive on the english shores, havelok and his men start killing the soldiers whom they meet.
 
-2777. the battle is violent, long, and intense. godrich fights like a wild lion; eventually havelok confronts him, and begins reminding him of his promise to the former king - the oath; as havelok defeats jim, the crowd recognizes him and goldeboru as the monarchs. [_agnition; public agnition; public interpretation; read me as your king, decypher me as your king; in a public trial, interpret the signs according to which i should now be considered your king._]
+2777. the battle is violent, long, and intense. godrich fights like a wild lion; eventually havelok confronts him, and begins reminding him of his promise to the former king - the oath; as havelok defeats him, the crowd recognizes him and goldeboru as the monarchs. [_agnition; public agnition; public interpretation; read me as your king, decypher me as your king; in a public trial, interpret the signs according to which i should now be considered your king._]
 
 2855. the crowd acclaims the new king, and punishes the usurper; the section mirrors the conclusion of the conflict in denmark, including the arse of the beast carrying the prisoner; having burned the traitor, havelok __swears__ to protect every english man (another __oath__).
 

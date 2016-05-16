@@ -1,4 +1,8 @@
-19-#Marie de France - Lais
+#Marie de France - Lais
+
+|Date|Form|Key-words|
+|:---:|:---:|:---:|
+|c. 1175|Octosyllabic couplets|Compilation; Interpretation; Translation; Learning; Aventure; Literary tradition; Foreignness; Doubling|
 
 ##Introduction
 
@@ -12,7 +16,7 @@
 
 - The main __literary__ preoccupation of MdF seems to be the her conciliation of __sacred__ and __profane__ matter.
 
-- THe __context__ of her writing was the __irresistible__ spread of the __Arthurian matter__; similarly, her work is in contrast with the __classical__ content and inspiration of some _Romans_ (_Eneas_, _Thebes_). Marie is closer to the _former_ (Chretien's knights).
+- The __context__ of her writing was the __irresistible__ spread of the __Arthurian matter__; similarly, her work is in contrast with the __classical__ content and inspiration of some _Romans_ (_Eneas_, _Thebes_). Marie is closer to the _former_ (Chretien's knights).
 
 - __Lai__ (from the __Celtic/Irish__ _Laid_) was originally a __song__.
 
@@ -252,7 +256,7 @@
 
 - __405-408__: This character is the first virtuous one of the collection - a true __Christian Model__ (Fraisne); she follows the "_ercevekes_."
 
-- __445__: We have here the conventional model of __recognition__ [_agnition_?] (and __evidence__).
+- __445__: We have here the conventional model of __recognition__ [_agnition_? and __evidence__].
 
 - __418__: "Tuz li curages li fremi" - the emotion felt by the mother, and expressed through this powerful, yet simple image, is a striking sign of Marie's empathy.
 

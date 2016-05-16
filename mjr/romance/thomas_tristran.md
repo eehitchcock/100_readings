@@ -1,5 +1,9 @@
 #Thomas - Tristran
 
+|Date|Form|Key-words|
+|:---:|:---:|:---:|
+|c. 1180|Octosyllabic couplets|Ethical doubt; Monologue; Courtly love; Ambiguity; Speech; Introspection; Interpretation|
+
 ##Introduction
 
 - preserved in nine fragments; complex ms tradition, at least apparently [_it is; the edition has to assemble multiple fragments in a logical or chronological order, and some sections are less understandable than others_].

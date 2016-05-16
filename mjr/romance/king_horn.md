@@ -1,5 +1,9 @@
 #King Horn
 
+|Date|Form|Key-words|
+|:---:|:---:|:---:|
+|c. 1250|Octosyllabic couplets|Simplification; Foreignness; Learning; Social harmony; Miracle|
+
 - __Topics__: speech (less than in the a. n.; the saracens here don't need translators; king horn's own body speaks for itself); religion and wonder (emphasized from the more secular, historical a-n); _horn has one more rib here_ - a memorable detail, both non-linguistic, or non-verbal, and religiously charged.
 
 ##Introduction

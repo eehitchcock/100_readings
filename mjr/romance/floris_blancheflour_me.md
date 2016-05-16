@@ -1,5 +1,13 @@
 #Floris and Blancheflour
 
+|Date|Form|Key-words|
+|:---:|:---:|:---:|
+|c. 1250|Octosyllabic couplets|Repetition; Substitution; Foreignness; Doubling; Learning; Urban naturalism; Trade; Translation|
+
+##Ideas
+
+- Remarkable how two of the most successful stories of the Middle Ages deal with doubling, identification and replacement in a similar way - as if these exchanges and recognitions were an embodiment of the translations occurring on the linguistic boundaries determining the various identities of each country.
+
 ##Introduction
 
 - one of the most popular stories of the middle ages; versions of it exist in all western europe.

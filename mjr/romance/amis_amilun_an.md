@@ -1,5 +1,9 @@
 #Amis e Amilun
 
+|Date|Form|Key-words|
+|:---:|:---:|:---:|
+|c. 1190|Octosyllabic couplets|Miracle; Substitution; Insularization; Literary tradition|
+
 ##Introduction
 
 - written in the late xii century. versions of this story exist __everywhere__ on the continent.

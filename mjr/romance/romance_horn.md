@@ -2,7 +2,7 @@
 
 |Date|Form|Key-words|
 |:---:|:---:|:---:|
-|c. 1170|Rhyming laisses|Epic; Crusades; Nationalism; Providence; Fortune; Substitution; Courtly love; Exile and return; Learning; Self-made hero|
+|c. 1170|Rhyming laisses|Epic; Crusades; Nationalism; Providence; Fortune; Substitution; Courtly love; Exile and return; Learning; Self-made hero; Repetition|
 
 ##Ideas
 
