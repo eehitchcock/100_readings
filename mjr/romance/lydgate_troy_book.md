@@ -1,8 +1,14 @@
 #John Lydgate - Troy Book
 
+|Date|Form|Key-words|
+|:---:|:---:|:---:|
+|1420 c.|Decasyllabic couplets (and ryme royal)|Translation; Literary tradition; Epic; Fortune; Providence; Interpretation; Learning; Dream; Latin and vernacular|
+
 ##Introduction
 
-- john lydgate was a benedectine monk in suffolk; the work was committed by henry, prince of wales, and completed between 1412 and 1420; it is a __translation__ and __expansion__ of guido delle colonne's "historia," influenced by __chaucer's troilus__ (it is in five books as well); the story is reorganized and expanded with __additional sources__.
+- john lydgate was a benedectine monk in suffolk; the work was committed by henry, prince of wales, and completed between 1412 and 1420; it is a __translation__ and __expansion__ of guido delle colonne's "historia," influenced by __chaucer's troilus__ (it is in five books as well, _rather than the 35 of guido's version_); the story is reorganized and expanded with __additional sources__.
+
+	- _the book adapts to the scope of Guido's historia quite closely, from the "origins of the war in Jason's quest for the golden fleece" to the war itself and the tragic returns of the greek heroes._
 
 	- the book was very popular and influential in the later middle ages.
 
