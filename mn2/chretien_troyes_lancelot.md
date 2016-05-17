@@ -1,10 +1,20 @@
 #Chretien de Troyes - Lancelot
 
+|Date|Form|Key-words|
+|:---:|:---:|:---:|
+|1180 c.|Octosyllabic couplets|Translation; Interpretation; Foreignness; Signs; Nameless hero; Ambiguity; Ethical doubt; Figurative meaning|
+
+##Ideas
+
+- The reader is here confronted with a number of unexplained signs that need to be interpreted; and the process of interpretation is evenly shared by the character - reader and character uncover the meaning of the narrative simultaneously, gradually - nobody explains it for them.
+
+	- Some details suggest that the land where these people have been sent might be the afterlife; but we cannot know for sure.
+
 ##Introduction
 
 - remarkable literary personality; five poems that bear his distinctive mark - that of a recongizable author; one author that expressed himself across five distinct works. this is very _uncommon_ for the context of the roman.
 
-- another almost unique feature is his lack of introductory or explanatory moves: his intentions are _not clarified_, not allegorical.
+- another almost unique feature is his lack of introductory or explanatory moves: his intentions are _not clarified_, not [_explicitly_] allegorical.
 
 - little is known about his literary figure | historical person, besides what we read in the works themselves. he _names himself_ "crestien de troies" in the _erec_, and we have some historical context in the opening of _lancelot_.
 

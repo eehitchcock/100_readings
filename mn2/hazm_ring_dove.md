@@ -1,5 +1,9 @@
 #The Ring of the Dove
 
+|Date|Form|Key-words|
+|:---:|:---:|:---:|
+|c. 1022|Mixed (prose and lyrics)|Fictions; Abstraction; Interpretation; Neoplatonism; Sensory details; Unity in diversity; Instruction; Introspection; Bodily experience; Figurative meaning|
+
 ##Introduction
 
 - the book [that is, the introduction to it] starts by presenting the [historical] background - the book [itself] was written [around __1022__] during the arab domination of the spanish peninsula; when the author - ibn hazm - was born, the kingdom of andalusia had been established for three centuries.

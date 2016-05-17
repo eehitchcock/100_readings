@@ -1,5 +1,17 @@
 #Hugo of St. Victor - Didascalicon: De Studio Legendi
 
+|Date|Form|Key-words|
+|:---:|:---:|:---:|
+|1129 c.|Prose|Education; Interpretation; Compilation; Literary tradition; Unity in diversity; Neoplatonism; Abstraction; Instruction; Literal meaning|
+
+##Ideas
+
+- Hugh treats the organization of knowledge as a mirror for the organization of the universe; both have to abide by the principle of unity.
+
+- Allegory is described as a way to find _familiar information_ in _unfamiliar texts_ (orthodox ideas about Christianity in the Bible).
+
+- Here we find the idea that __objects__ (not __words__) are __signifiers__ in the Scripture; we also find the metaphor of the mason.
+
 ##Introduction
 
 - composed at Paris in the late 1120s; to provide "intellectual and practical orientation for students of varying ages and levels" who came to the open school of st. victor.

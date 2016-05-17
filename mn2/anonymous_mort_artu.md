@@ -2,7 +2,7 @@
 
 |Date|Form|Key-words|
 |:---:|:---:|:---:|
-|c. 1230|Prose|Naturalism; Literal meaning; Trial; Signs; Hagiography|
+|c. 1230|Prose|Naturalism; Literal meaning; Trial; Signs; Hagiography; Speech|
 
 50. Many knights have died in their search for the grail [__dialogue is more detailed__ here; pace is __slower__]; the focus is now on __lancelot__ and __guinevere__. lancelot fights at a tournament; gawain discovers that he was fighting for a woman other than guinevere [the style is that of a novel; the __literal meaning__ is what matters most].
 

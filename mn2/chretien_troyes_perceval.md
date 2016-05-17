@@ -1,5 +1,17 @@
 #Chrétien de Troyes: Perceval
 
+|Date|Form|Key-words|
+|:---:|:---:|:---:|
+|c. 1190|Octosyllabic couplets|Interpretation; Scripture; Education; Ethical change; Nameless hero; Misunderstanding; Signs; Social detail; Literal meaning|
+
+##Ideas
+
+- Lancelot began with the idea of translating the _matiere_ suggested by Chretien's patron; Perceval starts by comparing the story about the hero to an evangelical __parable__.
+
+- Perceval wears the armor on top of his armor; he mistakes the knights for angels; he does not ask about the graal; he wakes up only when he sees the drops of blod on the snow [the drops are a memory of the beloved woman; and the abandoned mother; and they fade away with time].
+
+	- Perceval, being a bad reader, is also a bad knight; he misbehaves because he cannot understand reality; the contemplation of the three drops, that corresponds to the moment when he remembers his own name, stands for simultaneous understanding and repentance.
+
 ##Comment
 
 20. the frame is that of an __evangelical parable__ - _the_ evangelical parable about sowing and harvesting. the "romans" is "none semance" - and in it one will find "toz le vices et toz le max" - __synecdoche__ of an ethical world. [there are two elements to justify this assumption: the reference to the parable about sowing either fertile or "worthless" ground, and the explicit recipient of text, count philip of flanders, compared to alexander - the quintessential ruler, but also the quintessential disciple; this is a book written to teach a ruler.]

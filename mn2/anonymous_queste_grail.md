@@ -1,6 +1,8 @@
 #Le livre du graal - Queste
 
-|||Education; Interpretation; Signs; Literary tradition; Scripture; Fictions; Abstraction; Ethical change; Dream; Instruction; Ethical doubt; Miracle|
+|Date|Form|Key-words|
+|:---:|:---:|:---:|
+|c. 1230|Prose|Education; Interpretation; Signs; Literary tradition; Scripture; Fictions; Abstraction; Ethical change; Dream; Instruction; Ethical doubt; Miracle; Misunderstanding|
  
 ##Ideas
 
@@ -24,7 +26,7 @@
 
 61. we now follow __galahad__; he now gains possession of a __magical shield__, which is revealed to be an __ancient relic__ [interpretation, agnition]; a white knight explains its history; galahad then faces a __new adventure__, the scary voice that haunts a tombstone; thought to be __devilish__ at the beginning, it is then revealed to be __divine__ [misinterpretation, correct interpretation], and the __meaning__ for the entire episode is then __expounded__ in detail, as an __allegory__ for __galahad and the reader__ [is this the __template__ of what will follow?]; the same happens for meliant's fight against a powerful knight, and galahad's fight against __seven knights__; all heroes are revealed to be __sinners__; the author often refers to the __books__ that he has read to __compile the story__ [__interpretation happening at multiple levels__].
 
-	- afterwards, galahad fights against lancelot and perceval, who do not recognize him because of his __armor__ [undreadable]; near the __forest of waste__ (from _perceval), lancelot sees the __grail__ again.
+	- afterwards, galahad fights against lancelot and perceval, who do not recognize him because of his __armor__ [undreadable]; near the __forest of waste__ (from _perceval_), lancelot sees the __grail__ again.
 
 89. lancelot is in distress because he has lost the grail; to comfort him, a hermit tells him a __parable__; lancelot understands that his __love__ for guineviere is the reason for his suffering during the quest; he repents and promises to __remain chaste__ [change, pedagogy]; we now follow __perceval__, who meets the __former queen__ of the __waste land__, now impoverished; she foresees that he will have the quest; she also explains the __allegorical meaning of the round table__. perceval sees the old king mordrain, who was wounded by a vision of the grail, four hundred years before, and who is sitll waiting to be healed. Finally, perceval is attacked by a group of __mysterious knights__, and rescued by an unidentified "red knight."
 

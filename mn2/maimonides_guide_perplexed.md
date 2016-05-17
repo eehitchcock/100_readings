@@ -1,5 +1,15 @@
 #Moses Maimonides: The Guide for the Perplexed
 
+|Date|Form|Key-words|
+|:---:|:---:|:---:|
+|c. 1190|Prose|Scripture; Abstraction; Translation; Theological anthropomorphism; Aristotelianism; Interpretation; Education; Instruction; Figurative meaning; Tropes|
+
+##Ideas
+
+- Remember that the two moments analyzed by _Maimonides_ are the creation of the universe and the problem of its eternity (physics), and the visions of the apocalypse and the problem of free will (metaphysics; ethics); two cardinal problems of philosophy explained by the alpha and the omega of scripture.
+
+	- _Allegory_ is always a method of _abstraction_ and _transfer_; it is the system by which we can apply the __structure__, the __organization of meaning__ found _in a text_ and apply it to _another text_ (forms, shapes; from one context to the other; _i am talking about something else_).
+
 ##Introduction
 
 - moses maimoindes was born in codova in 1135; he was a descendant of those jewish communities that had transferred from the east to the west; around 1148, however, he had to leave the country, due to a change in the ruling class [the almohads, a berber muslim movement who conquered the city and abolished the dhimma] which triggered a wave of antisemitism; they [his family] settled in egipt [cairo].
