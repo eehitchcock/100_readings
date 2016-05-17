@@ -1,5 +1,9 @@
 #Sir Orfeo
 
+|Date|Form|Key-words|
+|:---:|:---:|:---:|
+|1300|Octosyllabic couplets|Literary tradition; Foreignness; Vassalage; Translation; Exile and return|
+
 ##Introduction
 
 - form: octosyllabic couplets

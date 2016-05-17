@@ -1,12 +1,24 @@
 #Sir Tristrem
 
+|Date|Form|Key-words|
+|:---:|:---:|:---:|
+|c. 1290|Unique 11-line stanza|Simplification; Literary tradition; Repetition; Urban naturalism; Sensory details; Social detail; Doubling; Substitution; Aventure|
+
+##Ideas
+
+- Some memorable details: Tristrem's wounds __stink__; also, at the beginning of the narrative, when Tristrem is about to leave his homecountry, we find a long and detailed description of the dressing of a game after a hunt.
+
+	- Also, the __dog__ who licks from the potion.
+
+- The last part of the poem features two heroes, _Tristram_ and _Tramtrist_.
+
 ##Introduction
 
 - the origin of the story, according to this editor, is celtic. like for _floris and blancheflour_, traditional criticism has identified a common and a courtly version of the story.
 
 - the anglo-norman tristan (of which we only possess about one sixth of the original) belongs to the courtly category (1170). the m.e. tristrem, from the late s. xiii, could also be considered as an __adaptation__ of thomas's poem [as from prof. crane says, there has been consistent debate about the sources available to the m. e. poet; he may or may not have had a ms. version available; he might have also reconstructed the original from his memory].
 
-- the m.e. tristrem only survives in the __auchinleck ms.__, together with 17 other romances.
+- the m.e. tristrem __only__ survives in the __auchinleck ms.__, together with 17 other romances.
 
 - the language of the poem is remarkable; it combines northern and non-northern forms; it has been debated whether the poem should be considered scottish, northern, or southern.
 
@@ -16,7 +28,7 @@
 
 ##Comment
 
-110. the poet spoke with thomas and read in a poem about the hero of his story; he will now tell it as it was told "in toun." it is the story of a __faded era__; the story starts with a contrast between roland and morgan - an endless battle that eventually reaches the shores of england, from brittaby. there, in a turnament against his enemy, roland dies, leaving beyond a woman, blancheflour [she dies in childbirth], and a child, tristrem.
+110. the poet spoke with thomas and read in a poem about the hero of his story; he will now tell it as it was told "in toun." it is the story of a __faded era__; the story starts with a contrast between roland and morgan - an endless battle that eventually reaches the shores of england, from brittany. there, in a turnament against his enemy, roland dies, leaving beyond a woman, blancheflour [she dies in childbirth], and a child, tristrem.
 
 	- brittaby is the land of war; england, ruled by markes, is where the conflict finds a __peaceful resolution__. nevertheless, this resolution is __tragic__; blancheflour "hears" this news [there is, in this initial section of the poem, a strong emphasis on _rumors_ as witnesses of historical facts].
 
@@ -36,11 +48,11 @@
 
 539. tristrem offers them money to be led to the king of the land in the forest outside the castle, he sees hunters and strangely dressed beasts - they are being skinned [another puzzling passage]. the hunter asks him to help them. we have a __detailed description__ of the quartering ["dressing"] of these animals ["game"], as if it was a foreign, strange process [very reminiscent of sggk]. he carefully splits organs and tissues, then distributes them as rewards for the hunters, the hounds, and even the crows witnessing the scene [strange __allegorical valence__? it has historical foundations, though]; then he asks them to blow their horn and alert the king. tristrem is interrogated by the monarch, who is impressed by his skills as a hunter [described as the skills of a __foreign land__].
 
-638. at the court, tristrem is welcomed with a feast; he replaces the court's "harpour," and sings beautifully - this, and his clothes, are read as proof that he is a noble man; in the meanwile, roland [the steward] seeks tristrem everywhere, grieving for his loss; he eventually finds the two palmers, who lead bhim to the gates of the castle. there, however, the porter does not let him in; the token used by roland, a ring, is not recognized.
+638. at the court, tristrem is welcomed with a feast; he replaces the court's "harpour," and sings beautifully - this, and his clothes, are read as proof that he is a noble man; in the meanwile, roland [the steward] seeks tristrem everywhere, grieving for his loss; he eventually finds the two palmers, who lead him to the gates of the castle. there, however, the porter does not let him in; the token used by roland, a ring, is not recognized.
 
 748. roland tries with __another ring__; it a strange take on the __motif of agnition__; the reason is probably that roland's clothes are tattered, and that his beard is long; he is brought to tristrem, who welcomes and kisses him; then after a bath and a shave [__deceiving appearances__, like in _sir orfeo_], he reveals his and tristrem's __identity__ to the king [he is not roland, tristram's father, but his steward].
 
-880. __agnition__. tristrem is the king's nephew [another detail about which we are not entirely convinced]; he decides to travel to his land, to fight morgan. having been given an army, and having been dubbed a knight, he travels to ermione, and seeks morgan; the misssion is not a failure - tristrem is humiliated [by morgan's words about his origin] with a blow from morgan's hand [the blow is probably from tristrem to morgan, not vice versa], but he reacts promptly, while rohand arrives [was he born in an adulterous circumstance? that is what morgan accuses him of: __illegitimate child__; a detail that, in fact, could shed a new light on the problematic identity of this hero - an outcast with little virtue, and not many qualities].
+880. __agnition__. tristrem is the king's nephew [another detail about which we are not entirely convinced]; he decides to travel to his land, to fight morgan. having been given an army, and having been dubbed a knight, he travels to ermione, and seeks morgan; the mission is not a failure - tristrem is humiliated [by morgan's words about his origin] with a blow from morgan's hand [the blow is probably from tristrem to morgan, not vice versa], but he reacts promptly, while rohand arrives [was he born in an adulterous circumstance? that is what morgan accuses him of: __illegitimate child__; a detail that, in fact, could shed a new light on the problematic identity of this hero - an outcast with little virtue, and not many qualities].
 
 990. having killed morgan, tristrem seizes the entire land [so far this narrative resembles more _horn_ and _havelok_ than _tristan_ - __exile and return__], and leaves it to rohand's control. he then decides to return to england, where mark is vexed by the __tributes__ that he owes to ireland [the poet describes this tribute in __detail__; again a great attention to __material particulars__; like in havelok and in the m. e. amiloun, the historical surface and the socioeconomic conditions that form the background of the story are emphasized]. tristrem accepts to assist him; the tribute is now __people__ - 300 noble children. the man sent to collect the tribute - unjust - is an __irish giant__.
 

@@ -1,5 +1,9 @@
 #Troilus and Criseyde
 
+|Date|Form|Key-words|
+|:---:|:---:|:---:|
+|1386|Ryme royal|Translation; Literary tradition; Epic; Ethical doubt; Ambiguity; Interpretation; Social detail; Urban naturalism; Speech; Introspection; Fortune|
+
 ##Introduction
 
 - the work could be cosidered a loose translation of boccaccio's filostrato, composed in the mid 1380s; it probably started __simply as a translation__, later revised heavily.
@@ -34,7 +38,7 @@
 
 	- the poem uses __oxymoron__ as the definition of love's effects; it is followed by his __submission to love__.
 
-546. after the __mediation__ of __poetical discourse__, and his explicit submission, the symptoms are intensified - he can't think about anything else; at the same time, he becomes an exceptional warrior, driven by the wish to be known by her [the motif of courtly love as a cause for ethical improvement]. to justify his symptoms, he uses a __lie__ about a "fever" [anticipating the later performance of sickness; the approach to this motif, traditionally boethian, is suspended between performance and reality - between deliberate and inevitable]; the beloved woman, however, does not seem to care [or notice] (or mabye she __pretends__ - the poet cannot tell) [so many elements of the story are _perceived_ in the third person singular; chaucer is probably trying to expose how our knowledge of sources is an indirect learning, a form of judging from appearances, from outward performance].
+546. after the __mediation__ of __poetical discourse__, and his explicit submission, the symptoms are intensified - he can't think about anything else; at the same time, he becomes an exceptional warrior, driven by the wish to be known by her [the motif of courtly love as a cause for ethical improvement]. to justify his symptoms, he uses a __lie__ about a "fever" [anticipating the later performance of sickness; the approach to this motif, traditionally boethian, is suspended between performance and reality - between deliberate and inevitable]; the beloved woman, however, does not seem to care [_or notice_; or mabye she __pretends__ - the poet cannot tell; so many elements of the story are _perceived_ in the third person singular; chaucer is probably trying to expose how our knowledge of sources is an indirect learning, a form of judging from appearances, from outward performance].
 
 	- more __hypothetical mode__: troilus imagines that the woman has _another lover_. he complains in solitude; sincerely.
 

@@ -1,5 +1,9 @@
 #Sir Gawain and the Green Knight
 
+|Date|Form|Key-words|
+|:---:|:---:|:---:|
+|1390|Bob-and-wheel alliterative stanza|Foreignness; Aventure; Interpretation; Courtly love; Speech; Ethical doubt; Learning; Sensory details; Literary tradition; Epic|
+
 ##Introduction
 
 - unknown author; one single ms., containing this together with _pearl_, _patience_, and _cleanness_.

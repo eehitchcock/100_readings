@@ -1,5 +1,13 @@
 #Stanzaic Guy of Warwick
 
+|Date|Form|Key-words|
+|:---:|:---:|:---:|
+|c. 1300|Tail rhyme stanza|Exile and return; Hagiography; Pilgrimage; Speech; Doubling; Self-made hero; Interpretation; Social detail; Urban naturalism; Miracle; Dream; Nationalism|
+
+##Ideas
+
+- We have miracles towards the end of the narrative, when a bird reveals Guy's identity, when he is mistaken for an angel, and when an angel appears to him, to announce him his death (parallel with saint edward). The _exile-and-return_ narrative brings the hero back home after a pilgrimage that has turned him almost into a saint.
+
 ##Introduction
 
 - the source is the a. n. gui de warewic, written in england around 1220; the m. e. translator chose to adapt only one third of that story.

@@ -1,5 +1,13 @@
 #Amis and Amiloun
 
+|Date|Form|Key-words|
+|:---:|:---:|:---:|
+|1300|Tail rhyme stanza|Ambiguity; Ethical doubt; Urban naturalism; Trade; Trial; Doubling; Literary tradition; Vassalage; Exile and return|
+
+##Ideas
+
+- Although in a different way, both versions - Anglo Norman and Middle English - emphasize the literary tradition from which the tale is drawn; the Anglo Norman describes the act of transcribing and traducing; the Middle English asks the reader to compare the version with others that can be read. 
+
 ##Introduction
 
 - the story exists in many versions; the m. e. one emphasizes its __ambiguity__.
