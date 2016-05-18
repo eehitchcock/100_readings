@@ -1,5 +1,9 @@
 #The Canterbury Tales - Fragment 8
 
+|Contents|Form|Key-words|
+|:---:|:---:|:---:|
+|The second nun's tale; The canon yeoman's tale|Couplets (pentameter)|Hagiography; Miracle; Ethical change; Scripture; Signs; Sensory details; Teaching; Trial; Urban naturalism; Social detail; Trade; Substitution; Temporality; Unity in difference|
+
 ##The second nun in the prologue
 
 164. we know very little about herl she is the prioress' "chapleyne," and walks with three priests.

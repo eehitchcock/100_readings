@@ -1,5 +1,9 @@
 #Fragment 9
 
+|Contents|Form|Key-words|
+|:---:|:---:|:---:|
+|The manciple's tale|Couplets (pentameter)|Speech; Theological anthropomorphism; Social detail; Teaching; Ambiguity; Ethical crisis (and formal)|
+
 ##The manciple in the general prologue
 
 586. the portrait seems __short and elusive__. the man is described as "gentle" and cunning in his trade; he buys provisions for his court slyly, and always getting the best deal. he outsmarted every clever lawyer that worked in the house/court for which he worked. the passage could suggest that __money__ (trade) matters more than the law.

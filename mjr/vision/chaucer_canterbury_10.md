@@ -1,5 +1,9 @@
 #The Canterbury Tales - Fragment 10
 
+|Contents|Form|Key-words|
+|:---:|:---:|:---:|
+|The parson's tale|Couplets (pentameter) and prose|Teaching: Tropes; Sins; Social types; Social issues; Social harmony; Instruction; Literary tradition|
+
 ##The parson in the general prologue
 
 485. the portrait of this character seems unambiguously positive. the parson is a "good man [...] of religioun"; he is well learned and virtuous. the description sets up a __positive contrast__ between what the parson has - he is a poor man - and what he is. he might represent the perfect combination of __vita activa__ and __contemplativa__. many material similes - he was "riche [...] of holy thoght and werk"; and his favorite metaphor for the corruptibility of the soul was "that if gold ruste, what shal iren do?" [_a concrete image, like the ones used by julian._]
@@ -8,7 +12,7 @@
 
 ##The parson's prologue
 
-12. the opening is an elaborate astronomical periphrasis for time. it is a solemn introduction; the poet uses his own body (first person singular) [_the remark seems trivial; as we will see, though, chaucer needs to be very present in this scene for the ending to make sense; he is merging with the parson_] as the measure of the day.
+12. the opening is an elaborate astronomical periphrasis for time. it is a solemn introduction; the poet uses his own body [first person singular _the remark seems trivial; as we will see, though, chaucer needs to be very present in this scene for the ending to make sense; he is merging with the parson_ in the same way that piers merges with wretchednesse] as the measure of the day.
 
 47. the parson immediately identifies an ethical stance and a literary place for his tale; he does not believe in the moral utility of tales, which distract the public from __truth__; and he does not use alliteration nor rhyme (which he seems to know well), but only __prose__ (this reminds us of the cl. of unk[nowing]).
 
