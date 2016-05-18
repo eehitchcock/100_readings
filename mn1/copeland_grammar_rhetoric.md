@@ -1,5 +1,9 @@
 #Medieval Grammar and Rhetoric - Rita Copeland and Ineke Sluiter
 
+|Key-words|Concepts|
+|:---:|:---:|
+|Language arts; Appropriation; Commentary|In the Middle Ages, translation developed from the convergence of __invention__ (_rhetoric_) and __exegesis__ (_grammatica_); by replacing commentaries, translations became a way to appropriate and displace the authority of their source; Christianity favored _hermeneutic_ over _rhetoric_; but _inventio_ gradually developed again after s. 13th.|
+
 ##Introduction
 
 - the anthology contains books from __late latin antiquity__ to the __xv__ s.; __grammar and rhetoric__ were the fundamental __language disciplines__, essential to any kind of education; they were also the __starting point__ for every sort of __literary criticism__.

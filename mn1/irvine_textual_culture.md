@@ -1,5 +1,11 @@
 #Irvine, The Making of Textual Culture
 
+|Key-words|Contents|
+|:---:|:---:|
+|Language arts; Glossing; Political power|Irvine outlines the history of the metalanguage of grammatica, the discourse that prescribed both the reception and the production of written texts; he focuses on how it influenced and was deployed by various institutions of power, until s. XIII.|
+
+- Grammatica was also an __instrument of power__ - consider its reinvention in the Carolingian period, and its appropriation and regulation by the Church. Grammatica is a __metalanguage__.
+
 ##Introduction
 
 - 1: "the art [or science] of interrogating the poets and other writers and the principles for speaking and writing correctly"

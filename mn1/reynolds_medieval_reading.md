@@ -1,5 +1,11 @@
 #Reynolds - Medieval Reading
 
+|Key-words|Contents|
+|:---:|:---:|
+|Glosses; Language arts; Translation; Tropes|Reynolds analyzes the reception and the deployment of classical literature by considering exegetical glosses; these were informed by the organization of the language arts, and they were used to teach both language and ethics.|
+
+- Reynolds analyzes how the language arts shaped the teaching of Latin and the reception of classical literature; exegetical glosses were used to teach both __language__ and __ethics__; glosses to rhetorical figurs often caused a conflict between __rhetoric__ and __grammatica__.
+
 1. _Introduction_
 
 	- the purpose of the book is to establish the __historical features__ of the __reader__ [presumably the medieval reader; presumably these features concern his or her level of literacy, and the aim of the activity]; the __method__ consists in the analysis of __glosses__ - specifically __glosses__ to horace's __satires__ between __england__ and __france__, in the __xii__ s. - the crucial context of the __anglo-norman__ invasion and the __french renaissance__.
@@ -38,7 +44,7 @@
 
 	- __glosses__ to auctores were extensively used to __teach vocabulary__ - they were __translation glosses__ (interestingly, __food__, together with all the __household objects__, is always __translated__, as if it belonged to the __vernacular__ _that is, as if those concept belonged to the conceptual world of the vernacular; for other words a latin synonym was instead provided_); these glosses were "in the service of latinity"; __grammatica__ as a metalanguage was slowly translated into __vernacular__ [it was in itself translated from latin, or used for vernacular texts and linguistic structures].
 
-6. _Reading Word by Word 2: Grammatical and Rhetorical Approaches.
+6. _Reading Word by Word 2: Grammatical and Rhetorical Approaches_
 
 	- __glosses__ would not only focus on __vocabulary__, but on __morphology__ and __syntax__ too, distinguishing __partes orationes__ for __significatio__ [primary or denotative meaning], __consignificatio__ [secondary or connotative meaning], and __ufficium__ (_the function of the term_; _the three subdivisions therefore being_ meaning; connotations; function); most grammatical glosses concerned verbs and nouns.
 
