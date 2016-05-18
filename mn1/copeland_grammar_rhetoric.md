@@ -2,7 +2,7 @@
 
 |Key-words|Concepts|
 |:---:|:---:|
-|Language arts; Appropriation; Commentary|In the Middle Ages, translation developed from the convergence of __invention__ (_rhetoric_) and __exegesis__ (_grammatica_); by replacing commentaries, translations became a way to appropriate and displace the authority of their source; Christianity favored _hermeneutic_ over _rhetoric_; but _inventio_ gradually developed again after s. 13th.|
+|Language arts; Commentaries; Education; Tropes|The anthology outlines the reception and the transformation of the language arts in the Middle Ages, a process that occurred in classrooms and universities, and that was influenced by religious and educational practices.|
 
 ##Introduction
 

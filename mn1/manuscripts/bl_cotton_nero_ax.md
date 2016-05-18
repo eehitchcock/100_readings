@@ -2,7 +2,9 @@
 
 |Date| Script |Key Words|
 |:--:|:--------:|:-----:|
-|c. __1400__|_Gothic textualis media_|_Archaizing_; _Ordinatio_ follows metrical changes and narrative units;
+|c. 1400|Gothic textualis media|Archaizing; Ordinatio; Illumination|
+
+_Ordinatio_ follows metrical changes and narrative units;
 
 - _Features_:
 	
@@ -13,3 +15,9 @@
 	- the __hand__ of the ms. is called "__strange__" by _kerby-fulton_; it is a __gothic textualis media__, __archaizing__.
 
 	- we find __red and blue initials__ to mark the sections of the poems; the scribe was allegedly familiar with the different metrical forms, and the __ordinatio__ changes subtly throughout the ms.
+
+	- there are no images of __god__ or the __virgin__, possibly because lollardy - which strongly opposed the portrayal of divinity - had already influenced this aspect of book production.
+
+	- the images were undoubtedly painted after the completion of the ms (although they might have been drawn at the same time).
+
+	- __interestingly__, the image of gawain at the green chapel perfectly mirrors the first one - gawain as the __rider__/__intruder__, the giant as the axe-wielding protector of the household.

@@ -1,5 +1,9 @@
 #Rita Copeland - Rhetoric, Hermeneutics and Translation in the Middle Ages
 
+|Key-words|Concepts|
+|:---:|:---:|
+|Language arts; Appropriation; Commentary; Translation|In the Middle Ages, translation developed from the convergence of __invention__ (_rhetoric_) and __exegesis__ (_grammatica_); by replacing commentaries, translations became a way to appropriate and displace the authority of their source; Christianity favored _hermeneutic_ over _rhetoric_; but _inventio_ gradually developed again after s. 13th.|
+
 - __Introduction__
 
 	- the book intends to explore the relationship between __vernacular translation__ and the __language arts__; __translation__ should be placed between __hermeneutics__ and __rhetoric__ (__interpretation__ and __invention__).

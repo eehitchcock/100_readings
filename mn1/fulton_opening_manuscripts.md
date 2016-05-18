@@ -1,5 +1,9 @@
 #Kerby-Fulton, Hilmo, Olson: Opening Up Middle English Manuscripts
 
+|Key-words|Concepts|
+|:---:|:---:|
+|Ordinatio; Compilation; Illumination; Annotation; Scribes|These approaches exemplify how considering the material production of a book can contribute to our understanding of its literary purpose, implications, and context.|
+
 ##Preface and introduction
 
 - the author starts by discussing the seminal article by doyle and parkes on "the production of copies of tct and the ca in the early fifteenth century" - 1978; the article proved that three of the five scribes who worked on the "__trinity gower__" had previously copied important editions of chaucer and langland; a previously unknown __network of literary connections__ had become visible; the book intends to make these sorts of discourses comprehensible to a wider audience of scholars.
@@ -51,6 +55,10 @@
 	- the treatment of rhyme changed importantly over the xiv s.; the scribe of sggk, however, makes several __archaic choices__; he places the __bob line__ to the right of the stanza, often two or three lines before the last one (ex., the "wyth wynne" of the first stanza brackets lines referring to __britain, rome and lombardy__), referring to multiple lines at once.
 
 	- the same floating bob is found in the __hengwrt__ "_thopas_."
+
+6. _The scribe speaks at last: Hoccleve as scribe e_
+
+	- At the time hoccleve was working, english ms production was a __buddying enterprise__ in london; a "fast growing niche market" associated to a small number of __literary circles__.
 
 ##3. Madie Hilmo, The Power of Images in the Auchinleck, Vernon, Pearl, and two Piers Plowman MSS.
 
