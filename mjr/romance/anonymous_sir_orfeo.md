@@ -1,0 +1,37 @@
+#Sir Orfeo
+
+|Date|Form|Key-words|
+|:---:|:---:|:---:|
+|1300|Octosyllabic couplets|Literary tradition; Foreignness; Vassalage; Translation; Exile and return|
+
+##Introduction
+
+- form: octosyllabic couplets
+
+- extant in 3 mss.: auchinleck, containing it along a "large variety of romances, saints' lives, moral and political poems"; it is probably the most accurate; a shorter version in the hrley ms., from the early xv s., a higly edited version in the ashmole ms., from the late xv s.
+
+- probably written in the london dialect, it has affinities with a group of romances from the east midlands.
+
+- among the sources we should include the "breton lais" allegedly translated by mdf; none of these survived, but they are often mentioned in the xii and xiii s.; they were probably songs, meant to be accompanied by music. according to bliss, they were "lyrical rather than narrative." [this would be the defining characteristic of the genre; the translations would have turned them into more explicitly narrative forms.]
+
+- the evidence about their performance comes from scenes like the one in the a. n. horn; the most popular lai was probably _chevrefoil_, reprised by mdf; we also have references to a lai about a lai about orpheus; it was probably a "genuine breton lai - not a narrative one."
+
+- the sources seem to combine classical and insular (celtic) elements; celtic elements are the "fairy army" and "fairy hunt"; the "other world" and the access to it.
+
+##Comment
+
+24. a genealogy of the __genre__; its current condition, as a __written artifact__; its past, "in harping," and the topics which it usually concerns - painful, joyful; "old aventours" and "fairy." an ancient form, sung for the entertainment of "kings."
+
+126. consistently with this tradition - with this indistinct, remote past - orpheo himself was a "harpour" and a "kynge"; the classical past that transmitted to us his story is close to our own past, that of this land and its languages. orpheo mixes both sides of the performance - entertainer and entertained; he lives in "jnglond," but his ancestors were "king pluto" and "king juno"; his city is both "traciens" and "winchester" - naming as a device for __equivalence__ and __syncretism__.
+
+	- the opening of the narrative; dame heurodis falls asleep "bi an orchard-side"; she then wakes up from a nightmare, crying and tearing her own clothes. orfeo runs to see her, and contemplates her __transformation__ into a _pale_ and _bloody_ figure. eventually she stops yelling in tears, and speaks. [what is the meaning of this metamorphosis? how is it paired with subsitution and agnition?]
+
+218. the threat is that of a __separation__ of the two lovers. as she was asleep, the dame was visited by hundreds of knights and damisels, riding white horses. their king shows her the richness of his land and possessions; he tells her that she will live with them for the following day on, regardless of her attempts. orfeo gathers a small army to protect her, "rijt unto that ympe-tree"; but she is mysteriously taken away, in any case, "with fairy." ther is much __mourning__, and its exclusive __performance__ by the king. he eventually summons his men and announces that he will leave the country; he instructs them to "make [...] a parlement" and "chese [...] a new king." __political transformation__ following the __abduction__ [the transformation follows the contact between the two words, perhaps the linguistic substitution or the inception of a new culture; the transformation is a __political fantasy__ depending on the typical mechanisms of romance - agnition, substitution, equivalence.]
+
+318. all that the king takes with him in his exile is his harp; now the community __performs mourning__. in the "wildernes," the king has very little to __eat__; the poet contrasts his __former identity__ and possessions with what is happening "now"; and his __transformation__ - the long beard, the scars, the thinness. he attracts wild beasts with his song. in this context he can often see the "king of fairy," who roams around the forest to hunt, but "no best thai no nome" [performance of hunting; a puzzling detail]. eventually orfei sees a group of women hunting - and slaying - beasts with their hawks; orfeo is happy to see them, and - since "ther is fair game" - he decides to approach them, after having laughed [another small, puzzling detail - his laughter and joy at seeing the women slaying the birds].
+
+416. the lady that he approaches is actually "dam heurodis." __mutual agnition__; they __recognize__ each other, but they remain __silent__; she is speechless because of the discomfort that she sees "on him" [silence and suffering; characters becoming dumb signs - all this seems a memory of the york cycle and its ecce homo; meaning that requires no words]; then she is carried away. orfeo expresses his wish to die. he decides to follow the group, through a "roche," until he reaches "a fair countray," where a wonderful castle, decorated with every precious stone, shines like "the proude court of paradis." [christian imagery is eventually added to the classical and celtic motifs.] the people brought there look dead; they are mutilated and wounded, captured by an anaphoric sequence in their moment of __departure__. he finds his wife, aspleep under an ympe-tree, and the king and queen, clothed in bright clothes, "hard to bihold."
+
+518. the king explains that nobody ever wants to visit that land, bur that they are usually carried there [isn't this also an allegory for the _harrowing of hell_? in the end, the harrowing of hell had already been embraced by the tradition of romance when the xiv s. religious writers decided to use romance imagery to describe it]. orfeo explains that he is just "a pover menstrel," and that he is only looking for a lord to welcome him (orfeo is thus renouncing one side of his double identity, emphasizing his role as a "harpour"; he is now a simple singer). he sings beautifully for the lord and the whole court, and he asks for his sleeping wife as a reward; the king denies it, because the two are uneven - he is "lere, rowe and blac," while she is "lovesum, with-outen lac." but orfeo insists that he had been provided anything he wanted (the king could not be called a "lier"; again, the value of pledge). without any incident, orfeo brings his wife back "to winchester." in disguise, he asks for information about the current situation of the land. he walsk among his former friends and subjects; his beard is so long that they __wonder__ at him [a legible sign of his extraordinary experience]; he is a __marvel__, he resembles "a tre." he is eventually welcomed by the good steward, in honor of the former lord.
+
+604. in the steward's castle, orfeo finds a feast; he plays beautifully, again [how does the song interact with the rest of the signs born by orfeo - his appearance and his words?], and he is interrogated by the steward about his harp; he says that he found it by a "dale," where "lyouns" had "to-torn asmale" its original owner (he lies to __test__ the steward's trust [a common __motif__]). orfeo reveals himself and tells his story; __agnition__; having been __recognized__, orfeo is welcomed and treated as a king. after his reign, the stweard became his successor (monarchy is replaced by a different political system, based on __merit__ and __consensus__). the __romance__ ends with the creation of the __lay__ itself, sung by posterity to __commemorate the king__ and his "mervaile."
