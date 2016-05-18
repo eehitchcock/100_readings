@@ -1,5 +1,13 @@
 #Fragment 6
 
+|Contents|Form|Key-words|
+|:---:|:---:|:---:|
+|The Physician's tale; The pardoner's tale|Couplets (pentameter)|Sickness; Trial; Fortune; Latin and vernacular; Translation; Foreignness; Misunderstanding; Signs; Fictions; Teaching; Allegorical narrative; Dream; Urban naturalism; Imagination; Sins|
+
+##Ideas
+
+- The physician's tale is the short, brutal tale of power and death; the pardoner's description and speech underlines his use of __relics__.
+
 ##The physician in the prologue
 
 444. his description combines scientific knowledge drawn from classical authorities with __sorcery__ - the poet emphasizes the fact that the physician was well read, __except for the scriptures__. he had remedies for every patient, but he valued gold above all "cordial[s]." his virtue is learning, his sins are greed and maybe heresy. [_it is hard to decypher the connection between this portrait and the tale told by the character; perhaps it has something to do with the opportunities that classical tradition - and secular learning - might have of uncovering theological or moral teachings; perhaps it is a history without redemption precisely because it is told from the perspective of an erudite atheist, who shares the same problems of a pagan. wisdom without salvation._]
@@ -58,7 +66,7 @@
 
 660. the __climax__ of this sermon is a condamnation of __swearing__ where he actually swears - a sequence of funny oaths used to preach against them, but probably producing the opposite effect - __laughter__. the argumentation is faulty, the examples become less vivid and more obscure. is the pardoner getting drunk? [_the quintessential example of this paradox - how do we condemn the words that we must use to condemn? how can we be outside of this temporality, of this sinfulness, of language?_]
 
-701. the actual tale seems to be about these sinners who, safe in the warm excesses of a tavern, learn about deth killing hundreds of people - probably a reference to the __plague__ - and therefore decide to visit him, to kill him.
+701. the actual tale seems to be about these sinners who, safe in the warm excesses of a tavern, learn about death killing hundreds of people - probably a reference to the __plague__ - and therefore decide to visit him, to kill him.
 
 	- the premise could be the __unmaking__ of the previous tale - fixing its tragedy. [_true - fixing its tragedy after the history of christian sacrifice and redemption; the question being, what is sin like, now that we are no longer haunted by its inevitability, by the fact that we will never ever be redeemed?_]
 

@@ -1,12 +1,16 @@
 #Fragment 3
 
+|Contents|Form|Key-words|
+|:---:|:---:|:---:|
+|Wife of Bath's Tale; Friar's Tale; Summoner's Tale|Couplets (pentameter)|Apologia; Literary tradition; Scripture; Interpretation; Debate; Latin and vernacular; Social detail; Education; Aventure; Trade; Misunderstanding; Speech; Dream; Urban naturalism|
+
 ##Introduction
 
 - the connection with the previous fragment is conjectural. the wife of bath's tale constitutes the core of the __marriage group__, which finds its completion between fragments 4 and 5; marriage is not the exclusive concern of these fragments, nor is its discussion exclusive to them. it is, however, the topic that chaucer seems to be addressing more explicitly.
 
 - the genre of the wife of bath's prologue is that of a __literary confession__. it was probably inspired by the analogous monologue of la vieille in the _roman de la rose_; the books that jankyn refers to belong to an extensive tradition of anti-feminine literature. her tale is a short arthurian romaance; its message combines women's sovereignity with gentilesse.
 
-- the friar's tale is based on a renown pattern; it is an exemplum. the characters concern is words [taken literally].
+- the friar's tale is based on a renown pattern; it is an exemplum. the character's concern is words [taken literally].
 
 - the summoner's tale is a fabliau; it responds to the friar's story by turning words into wind.
 
@@ -50,4 +54,4 @@
 
 2106. the friar cannot stop preaching, overwhelming the sick man - thomas. he condemns "ire" as well; his long sermon is reminiscent of the _pardoner's tale_ [indulging in the sins that it condemns], but also of the style adopted by the wife [of bath]; he uses inset short narratives [exempla; _like the old woman in the wife's tale?_], which seem to be eventually problematic or ambiguous in their __interpretation__; false sermon [they contradict themselves, or they are employed poorly and unconvincingly by the speaker; they often seem to imply more than the friar would admit; in a way, they truly resemble the initial series of contrasting sources presented by the wife].
 
-2294. the friar becomes more and more insistent in his request for money; having grown irate, thomas tricks him into getting a fart, to be shared with his brothers; the friar, angered, tells the story to the "lord of that village"; but this is more interested in the otiose question of "how to share a fart" than in the actual effrontery [the otiose problem becomes the paradoxical center of the story; perhaps an irreverent parody of the serious debates presented by the wife - about gentilesse and sovereignetee; here everything is reduced to pure noise]. the discussion - a "demonyak" problem - distracts the witnesses as well [the bystanders who have listened to the friar's denounciation of thomas' joke], who are comforted by the solution suggested by the lord's squire, almost __scientific__ [in tone, but not in practice; his solution is to put the friars on a cart, and have them smell the fart simultaneously; _again, potentially a parody of the "scole-matere" discussed by the wife].
+2294. the friar becomes more and more insistent in his request for money; having grown irate, thomas tricks him into getting a fart, to be shared with his brothers; the friar, angered, tells the story to the "lord of that village"; but this is more interested in the otiose question of "how to share a fart" than in the actual effrontery [the otiose problem becomes the paradoxical center of the story; perhaps an irreverent parody of the serious debates presented by the wife - about gentilesse and sovereignetee; here everything is reduced to pure noise]. the discussion - a "demonyak" problem - distracts the witnesses as well [the bystanders who have listened to the friar's denounciation of thomas' joke], who are comforted by the solution suggested by the lord's squire, almost __scientific__ [in tone, but not in practice; his solution is to put the friars on a cart, and have them smell the fart simultaneously; _again, potentially a parody of the "scole-matere" discussed by the wife_].

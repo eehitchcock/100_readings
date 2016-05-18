@@ -1,5 +1,9 @@
 #The Canterbury Tales - Fragment 2
 
+|Contents|Form|Key-words|
+|:---:|:---:|:---:|
+|The man of law's tale|Couplets and ryme royale|Trial; Miracle; Providence; Fortune; Trade; Foreignness; Scripture; Interpretation; Signs; Aventure; Allegorical narrative|
+
 ##The Man of Law in the Prologue
 
 830. the description focuses on subtlety; the character is less colorful than his peers - he is a serious worker, dressed somberly, who works hard for the law.
@@ -32,11 +36,11 @@
 
 315. the standpoint (perspective) shifts from the sultan to the empress; the focus is still on the contrast between the __readable__ or __unreadable__ sky (which, apparently, muslims can decypher better than christians) and the free will of humans. this __astrological__ (or _providential_?) discourse is applied to a clash or religions, now higlighted by the sultan's conversion to christianity and the girls' reluctance to marry.
 
-385. the first part sees the evil plotting of the sultan's mother, a wicked woman whose plan prompts a msysogynistic attack uttered by the __narrator___. her speech reverts the vocabulary of christianity: islam has a god, a set of __holy lawes__ and a __helle__, where muslims would end up if they convert to another faith.
+385. the first part sees the evil plotting of the sultan's mother, a wicked woman whose plan prompts a msysogynistic attack uttered by the __narrator__. her speech reverts the vocabulary of christianity: islam has a god, a set of __holy lawes__ and a __helle__, where muslims would end up if they convert to another faith.
 
 	- the passage - the very problem that it poses - should be compared with the praise of __lawfulness__ contained in the _prologue_; the man of law is discussing the __diverse laws__ found in diverse cultures bridged by commerce and empires. relativism - is it praised or scorned?
 
-427. a short meditation on the __ephemerality__ of __happiness__ (it has a __boethian__ flavor) marks the shift from the __celebration of the wedding__ to the __slaughter__of groom and his court.
+427. a short meditation on the __ephemerality__ of __happiness__ (it has a __boethian__ flavor) marks the shift from the __celebration of the wedding__ to the __slaughter__ of groom and his court.
 
 	- the bloody and unexpected episode - the fulfilment of a __prophecy__, though - happens on a ship. [_another poetical trope? are ships a part of the boethian vocabulary of metaphors as well?_]
 
