@@ -1,5 +1,15 @@
 #Enrique de Villena - Traducción y glosas de la Eneida
 
+|Date|Form|Key-words|
+|:---:|:---:|:---:|
+|c. 1430|Prose|Translation; Interpretation; Literal meaning; Aristotelianism; Instruction; Tropes; Introspection; Encyclopedism; Education; Sensory details|
+
+##Ideas
+
+- Remember the meticulous subdivision of the book in __very small__ units - these are treated like the chapters of the Scripture, small pieces of writing that need to be interpreted.
+
+	- One might say that the expansion of _Alfonso San Cristobal_ is sequential - from the Latin to its translation, to a literal translation, to a moral translation; Enrique da Villena's work on the Aeneid is, instead, _explosive_, trying to __exhaust__ every implication of each small textual unit (we also find less __allegory__ _per se_ in VIllena).
+
 ##Introduction and "Carta al Rey de Navarra"
 
 - its author translated and written into __catalan__ and __castilian__; this translation was completed alongside the __divina commedia__ [confirming the fact that dante had become a __canonical author__, to whom __glosses and interpretation__ had to be applied, _like for vergil_]. more notable works by him include a handbook for poets - the "__arte de trovar__" [1417-1428], and an __allegorical and moralizing__ "__doce trabajos de hércules__," where foreign myth was adapted to __contemporary spain__ [a project at all not dissimilar from that of the _eneida_].

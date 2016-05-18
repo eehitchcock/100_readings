@@ -2,7 +2,7 @@
 
 |Date|Form|Key-words|
 |:---:|:---:|:---:|
-|c. 1284|Mixed (various meters; songs and refrain)|Social detail; Urban naturalism; Fictions; Miracle; Education; Interpretation; Typology|
+|c. 1284|Mixed (various meters; songs and refrain)|Social detail; Urban naturalism; Fictions; Miracle; Education; Interpretation; Typology; Unity in diversity|
 
 - _Introduction_.
 
@@ -18,7 +18,7 @@
 
 	- the poems were collected and compiled between __1257__ and __1280__; the illuminated ms. of codice rico was probably prepared around the same time.
 
-	- the structure of the book follows several principles; __every ten miracles we find a praise__, and every __hundred cantigas__ we find __substantial moments of devotion__; each cantiga contains a __refrain__ - defined as the "rason" - which __illuminated the meaning__ - often the teaching - of the __cantiga__ - what we have to __learn__ from the miracle or the praise; the main character of the miracles is usually a person __missing something__, often a __sinner__ (wasting or lacking); the _cantigas_ were written to be __sung__ on a __melody__; the three eleents of a cantiga, therefore, where __razon__, __miragre__, __son__; we should add __image__ to this system.
+	- the structure of the book follows several principles; __every ten miracles we find a praise__, and every __hundred cantigas__ we find __substantial moments of devotion__; each cantiga contains a __refrain__ - defined as the "rason" - which __illuminated the meaning__ - often the teaching - of the __cantiga__ - what we have to __learn__ from the miracle or the praise; the main character of the miracles is usually a person __missing something__, often a __sinner__ (wasting or lacking); the _cantigas_ were written to be __sung__ on a __melody__; the three elements of a cantiga, therefore, where __razon__, __miragre__, __son__; we should add __image__ to this system.
 
 	- in the introduction the author presents his project - to be a __trobador__ for mary and her miracles; it is a combination of __poetical skill__ and will, and her grace, imbued onto him.
 

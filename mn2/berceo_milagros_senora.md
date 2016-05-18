@@ -1,5 +1,15 @@
 #Gonzalo de Berceo: Milagros de Nuestra Señora
 
+|Date|Form|Key-words|
+|:---:|:---:|:---:|
+|c. 1260|Cuaderna vía|Hagiography; Fictions; Miracle; Trial; Social detail; Interpretation; Signs; Typology; Figurative meaning; Ambiguity; Misunderstanding; Debate; Ethical change; Idolatry|
+
+##Idea
+
+- These miracles contain the __remarkable__ introduction where the poet contrasts the __bark__ and the __core__.
+
+- The __miracle__ is the _fiction_ that can become true through a __trial__.
+
 ##Introduction
 
 - gonzalo was born around 1196 in berceo (north-east of spain); he became a clerk, then a deacon; he would, therefore, be an ideal representative of the _mester de clerecía_.
@@ -41,7 +51,7 @@
 
 582. in the sixteenth, a jewish child who wants to convert [impressed by the liturgy and iconography experienced in church during the communion] survives being thrown into an oven, while his father burns alive [again, mary as an embodiment of __providence__]; the seventeenth reiterates the notion by presenting the case of three knights __condemned__ [to experience divine suffering], then redeemed [having accessed the level of hermeneutic lucidity]; the eighteenth is again antisemitic, with mary's voice revealing the obscure restaging of the crucifixion [using a mannequin of jesus on the cross, a bizzarre attempt at crafting a system of symbols equivalent to the allegorical correspondences of these miracles] enacted by a rabbi and his followers; the nineteenth is even more public, and occurs on a ship, where a pregnant woman is saved from drowning [here mary is also the protectress of pregnancy; pregnancy - the reverse of death - could be another moment where the boundary between immanence and transcendence, secondary and literal, grows thinner].
 
-	- the twentieth is about interpreting reality - a drunken monk meets the devil many times, in the shape of diverse animals [an echo of the tetramorphs discussed by maimonides] - a bull, a dog, a lion. he is saved by a careful mary [he __experiences an actual allegory__, sins embodied by animals; _an exemplary miracle, whose significance could be expanded to the rest of the collection].
+	- the twentieth is about interpreting reality - a drunken monk meets the devil many times, in the shape of diverse animals [an echo of the tetramorphs discussed by maimonides] - a bull, a dog, a lion. he is saved by a careful mary [he __experiences an actual allegory__, sins embodied by animals; _an exemplary miracle, whose significance could be expanded to the rest of the collection_].
 
 	- the twenty-first miracle is longer than all which came beforel it is about a prioress fallen into sin (she's either pregnant or - __figuratively?__ afflicted by the poison of a herb), and rescued by mary, who removes every visible __symptom__ [sign, _signifier_; _reality - the reality expressed by these signifiers - becomes independent from the signifiers; the lady remains pregnant, although she does not seem pregnant, although the signifiers of pregnancy have been removed from her_]; the miracle is even attested by a thorough examination performed by a zealous, mean bishop; the child lives on [and he becomes a holy man, worthier than the ones who were going to punish his mother; pregnancy, like death, prompts a new life in lucidity].
 

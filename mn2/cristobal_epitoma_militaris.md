@@ -1,5 +1,13 @@
 #La versión castellana medieval de la Epitoma Rei Militaris - Alfonso de S. Cristóbal
 
+|Date|Form|Key-words|
+|:---:|:---:|:---:|
+|c. 1400|Prose|Translation; Gloss; Literal meaning; Interpretation; Education; Instruction; Fictions; Scripture; Abstraction; Encyclopedism; Figurative meaning|
+
+##Ideas
+
+- Remember the two set of glosses __explicative__ and __spiritual__ framing the translation, and being, themselves, a translation. San Cristóbal explores the endless connotations of language, not the textual structures in which it is arranged.
+
 ##Introduction
 
 - vegecio escribió la "epitoma" entre 383 y 450 (fifty years before boethius); it is a work in four of five books [depending on the edition]. one describes the __recruitment and training of troops__, with notes about encampments; the second one describes the __organization of legions__ in the past; the third is about the preparation and execution of __battles__; the fourth one describes __sieges__ and __naval battles__.

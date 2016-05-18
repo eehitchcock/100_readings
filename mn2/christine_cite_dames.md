@@ -1,5 +1,13 @@
 #Christine de Pizan: the Boke of the Cyte of Ladyes
 
+|Date|Form|Key-words|
+|:---:|:---:|:---:|
+|c. 1400|Prose|Fictions; Literary tradition; Debate; Allegorical personifications; Translation; Interpretation; Scripture; Education; Misunderstanding|
+
+##Ideas
+
+- The book is the construction of a new literary tradition (and political tradition); Christine is first seen at her desk and visited by three female personifications of virtue; these teach Christine how to __build a city of women__, by replacing the old stones of the patriarchy.
+
 ##Introduction
 
 - _le livre de la cité des dames_ was written in __1405__ as a __defense of women__; its main claim was that __women__ are as worthy as men.

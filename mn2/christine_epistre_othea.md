@@ -1,5 +1,13 @@
 #Christine de Pisan: Epistre Othea
 
+|Date|Form|Key-words|
+|:---:|:---:|:---:|
+|c. 1400|Mixed (octosyllabic couplets and prose)|Education; Fictions; Gloss; Ambiguity; Translation; Interpretation; Signs; Introspection; Ethical change; Scripture|
+
+##Ideas
+
+- At times the book seems to adapt almost perfectly to the principle and the metaphor first introduced by Hugh of Saint Victor - the idea that allegory uses different stories - blocks of different stories - to build familiar objects.
+
 ##Introduction
 
 - the biographical sketch insists on her __economic difficulties__ as a __widow__ and as an __orphan__; three children, an old mother and a niece; trials and a __contended inheritance__.

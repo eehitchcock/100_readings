@@ -1,5 +1,15 @@
 #Teresa de Cartagena: Admiración Operum Dey
 
+|Date|Form|Key-words|
+|:---:|:---:|:---:|
+|1450 c.|Prose|Literary tradition; Debate; Bodily experience; Signs; Interpretation; Misunderstanding; Scripture|
+
+##Ideas
+
+- In this work Teresa is linking her body to the form of her writing, to its meaning in a broader context. Like for _Cite des dames_, men are blamed for their poor interpretations - in this case, they misinterpret women as a physical sign.
+
+	- Her argument is that precisely her weakness - like her deafness - allows her to write.
+
 ##Introduction
 
 - the work is an __apology__ of the previous book, where teresa defends herself from accuses of __lack of originality__; she explains the importance of her __personal experience__ and __readings__ [she also rejects a series of sexist accusations].
@@ -10,7 +20,7 @@
 
 	- a __feminist__ problem is introduced subtly - teresa refers to her wits as __weak__ and __frail__, because they are __feminine__; her body, therefore, is not only __affecting__, but also __gendering__ her mind and soul [her body, being feminine, _means_ a feminine soul; teresa cannot escape this contradiction].
 	
-	- __flaco mugeril entendimiento__ finds the opposition of the "_prudentes varones_" who read it; it is a __gendered relationship__ between __author and __audience__; the varones see a contradiction between the __writing__ and the __writer__ - a petty ill thing - a deaf woman - cannot contain anything good; we assume that her answer may be - "you cannot read these __signs__ well enough."
+	- __flaco mugeril entendimiento__ finds the opposition of the "_prudentes varones_" who read it; it is a __gendered relationship__ between __author__ and __audience__; the varones see a contradiction between the __writing__ and the __writer__ - a petty ill thing - a deaf woman - cannot contain anything good; we assume that her answer may be - "you cannot read these __signs__ well enough."
 	
 	- her first __objection__ is that god multiplies __loaves and fish__, and multiplication of small petty things is a __principle of nature__ [again - the natural, mortal world and the figurative world of the scripture are integrated in teresa's rhetoric]; the second is that we cannot understand why or how god created a __difference__ between men and women - it is an __unreadable sign__ [which means that reality, _perhaps like the scripture_, still possesses mysteries that are impervious to interpretation]; but, she says, strong and brave men __complement__ weak and trepid women, like the __bark of a tree__ complements the __core__ (_notice_ that the same image was used by berceo to contrast __signifier__ - __literal__, the bark - and __signified__ - __figurative__, the core; _it is, again, a fusion of observations drawn from the physical natural world and the cognitive - literary - method of allegory; she uses both the example of nature and a codified image about metaphor_]; women are also the __inner__, more spiritual part of mankind; but teresa doesn't insist too much on this point, and she returns to __inscrutable__ providence [that is, even if we could use this analogy, god's decisions are still inaccessible - nevertheless, she has already set out the criterion - it is either natural observation or the system of correspondences found in the scripture and in its allegorical interpretation].
 	

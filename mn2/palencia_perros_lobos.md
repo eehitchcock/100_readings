@@ -1,5 +1,9 @@
 #La batalla campal de los perros contra los lobos
 
+|Date|Form|Key-words|
+|:---:|:---:|:---:|
+|1457|Prose|Translation; Interpretation; Figurative meaning; Ambiguity; Instruction|
+
 ##Introduction
 
 - alfonso de palencia lived between 1424 and 1492; the _batalla campal_ was originally written in __latin__; he was a clerk and a historiographer; his writings were often overtly political; he was also a translator.
@@ -28,7 +32,7 @@
 
 	- but the political setting is __more complex__; on the one hand, the fox thinks about the profits that this war will bring her [she is humanly smart], regardless of its outcome; on the other, the dogs are now split into two sides - the mastiffs will fight, the others will not [and this ulterior division starts to create problems in our understanding of the piece; as if the author was evoking a civil war within the civil war].
 	
-	- the leader of the mastiffs keeps acting with arrogance [despite the problematic and potentially indecipherable allegory, the book certainly takes a pedagogical or moralizing stance against ubris], and he summons his warriors to war - they are all boasting with ubris; in the meanwhile, wolves and dogs arrive from all europe, increasing the size of both armies, and creating a food shortage (but the dogs are fed by the shepherds; _the food is another problematic signifier; in war this may stand for actual food, but in a broader political allegory it could be any sort of source, including money; notice that the introduction of national boundaries is another interpretive obstacle to the establishment of precise correspondences between creatures and political or ethnic entities); for hunger, some italian wolves attach the spanish dogs before the beginning of the war [food is undoubtedly central in the allegory].
+	- the leader of the mastiffs keeps acting with arrogance [despite the problematic and potentially indecipherable allegory, the book certainly takes a pedagogical or moralizing stance against ubris], and he summons his warriors to war - they are all boasting with ubris; in the meanwhile, wolves and dogs arrive from all europe, increasing the size of both armies, and creating a food shortage (but the dogs are fed by the shepherds; _the food is another problematic signifier; in war this may stand for actual food, but in a broader political allegory it could be any sort of source, including money; notice that the introduction of national boundaries is another interpretive obstacle to the establishment of precise correspondences between creatures and political or ethnic entities_); for hunger, some italian wolves attach the spanish dogs before the beginning of the war [food is undoubtedly central in the allegory].
 	
 35. three days before the war, both wolves and dogs lose some warriors in a brief fight; the outcome [of the whole conflict] will not be predictable [and, we may assume, war never is - is this another lesson by the historiographer alfonso de palencia - war is unpredictable chaos?].
 
