@@ -1,5 +1,9 @@
 #Medieval Literary Theory and Criticism: The Commentary Tradition
 
+|Key-words|Concepts|
+|:---:|:---:|
+|Language arts; Commentary; Literary tradition; Aristotelianism|Medieval criticism emerged as a field in the XII s., and it was radically transformed in the XIII s., when the focus shifted to the historical authors rather than the figurative meaning, and in the XIV s., when Italian writers started applying it to themselves.|
+
 ##Introduction
 
 - the period covered goes from __1100__, when the "introductions to the authors" became established [widespread], to 1375, when boccaccio dies [the last author mentioned in the book]; it includes the __xii s. renaissance__, the raise of __scholasticism__, __universities__, and __italian humanism__ [italy being very prolific for glosses].

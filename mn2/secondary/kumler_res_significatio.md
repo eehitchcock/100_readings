@@ -1,5 +1,11 @@
 #Res et significatio: The material sense of things in the middle ages - A. Kumler
 
+|Key-words|Concepts|
+|:---:|:---:|
+|Translation; Figurative meaning; Sensory details|Kumler and Lakey claim that the theories of Friedrich Ohly, who defended the importance of physical objects and sensory details as complex signifiers in the Middle Ages, are strongly relevant to contemporary discussions of materiality.|
+
+- __Typology__ in the pavement of Siena's Duomo.
+
 5. the authors introduce the popularity of __materiality__ in contemporary medieval studies; __materiality__ is a given for art historians - but not __tangibility__ [they are mostly concerned with the visual aspects of art]; this is the __new frontier__; as a new approach to the problem, the author suggests the __dingbedeutung__ theory first proposed by __friedrich ohly__.
 
 	- ohly belongs to the generations of european scholars - and medievalists - affected by the world wars; his first work was an analysis of the __history__ of the interpretation of the __song of songs__.

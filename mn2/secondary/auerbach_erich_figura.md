@@ -1,5 +1,9 @@
 #Erich Auerbach: Figura
 
+|Key-words|Concepts|
+|:---:|:---:|
+|Literal meaning; Typology|By analyzing the history of the word _figura_, Auerbach shows how typology allowed Medieval thinkers to incorporate and connect diverse historical events by making one the _fulfillment_ of the other.|
+
 ##1. from terence to quintilian
 
 - auerbach starts by tracing the __origin__ of the latin word, whose original meaning was "three-dimensional shape"; its first use is in terence; it is immediately associated with the idea of __change__ and __novelty__ ("_figura nova_"); the meaning of the word broadened because of the contact of roman language with greek philosophy - the greeks had __more words for shape__' figura became a __polysemous signifier__ (it meant form, imprint, picture...), malleable in its __connotations__; for lucretius it occasionally means "copy," and even "atom"; cicero is the first to use it for __linguistic style__; in the imperial period it is then used richly [extensively], often with the idea of __phantom__; it is eventually used as "appearance."

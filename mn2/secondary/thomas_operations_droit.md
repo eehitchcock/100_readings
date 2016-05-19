@@ -1,5 +1,9 @@
 #Yan Thomas - Les opérations du droit
 
+|Key-words|Concepts|
+|:---:|:---:|
+|Trial; Figurative meaning; Fictions|Yan Thomas analyzes the creative role of the _fictio legis_ in Roman and Medieval law; this powerful linguistic operator, which had transformative power on reality, was opposed by Christian thinkers.|
+
 ##Introduction
 
 - this is a collection of papers concerning __roman law__ - considered from a __dynamic__, historical perspective, as something __malleable__; his __method__ allows us to understand __law__ ("right") as an anthropological method - a description of the interactions between __individuals__ and __objects__.

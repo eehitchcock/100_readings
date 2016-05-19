@@ -1,5 +1,9 @@
 #Henri de Lubac: Medieval Exegesis - The four senses of the Scripture
 
+|Key-words|Concepts|
+|:---:|:---:|
+|Language arts; Figurative meaning; Scripture; Aristotelianism|For Henri de Lubac spiritual exegesis was used to write the New Testament; _history_ belonged to the New Testament, _allegory_, _tropology_, and _anagogy_ all belong to the New Testament; the system was challenged with the _disputationes_ of the s. xiii; the order of the senses had wide implications.|
+
 ##Preface and introduction
 
 - the work could be considered an __encyclopedia of patristic and medieval exegesis__ of the scripture; it was written [begun] in the __1940s__, while france was occupied by the germans; among its premises, that for which __medieval exegesis__ _was_ __theology__; it was published between __1959__ and __1963__.

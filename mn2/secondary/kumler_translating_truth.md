@@ -1,5 +1,9 @@
 #Aiden Kumler: Translating Truth
 
+|Key-words|Concepts|
+|:---:|:---:|
+|Illumination; Translation|Kumler describes how, after the Fourth Lateran Council of 1215, images were conceived as a material translation of the Scripture and a prescription for the liturgy.|
+
 ##Introduction
 
 13. kum;er reminds us of the two __perspectives__ on images in the middle ages - they were either __dangerous distractions__ from the __logos__ and towards the __idols__ [the platonic perspective]; or, they could be useful aids to begin a spiritual journey of approach to __transcendent ideas__; in works of thinkers like gregory the great or saint victor, images were theorized as either __supplement__ or __danger__; their power was __mimesis__ of __tangible reality__; but tangible reality is limited [therefore, as will become apparent in later sections of the book, the work of religious imagery was both to display the terrestrial side of spirituality - e.g. liturgy - and its boundaries - e.g. theophany].

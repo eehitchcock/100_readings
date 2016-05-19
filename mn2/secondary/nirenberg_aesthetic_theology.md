@@ -1,5 +1,9 @@
 #Aesthetic theology and its enemies - David Nirenberg
 
+|Key-words|Concepts|
+|:---:|:---:|
+|Figurative meaning; Literal meaning; Misunderstanding|Nirenberg shows how Christian theology displaced misinterpretations of images and signs onto the Jewish "other," who could not understand _allegory_, and who was simultaneously guilty of idolatry and iconoclasm.|
+
 ##Introduction
 
 - the __axial age__ [term coined by karl jaspers to refer to the centuries going from viii to iii s. b. c.] is the era when humanity discovers religion and transcendence; its main components are __skepticism__ - the knowledge that __human senses__ are __limited__ and __transient__ - and __transcendent__ [thought] - the belief that truth exists truth exists __beyond__ the mortal world.
