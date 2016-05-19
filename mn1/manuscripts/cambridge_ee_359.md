@@ -1,5 +1,9 @@
 #Saint Aedward le Rei - Matthew Paris - MS Ee. iii 59 (Cambridge)
 
+|Date|Script|Key-words|
+|:---:|:---:|:---:|
+|1250 c.|Gothic cursive|Ordinatio; Illumination; Multilingualism; Polyphony|
+
 - probably [almost certainly] matthew paris; original was composed for queen eleanor of provence between 1236 and 1272; this is a london-westminster copy.
 
 - it was probably part of a project of promotion of westminster abbey.
