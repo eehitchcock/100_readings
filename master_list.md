@@ -1,8 +1,14 @@
-##Major List: Romance (c.1170-c.1420)
+---
+title: "List of texts for oral exam (2016)"
+author: G. E. Saretto
+date: May 2016
+---
 
-###Primary Texts
+## Major List: Romance (c.1170-c.1420)
 
-30. _Thomas_, __Romance of Horn__ - Anglo-Norman (c. 1170)
+### Primary Texts
+
+1. _Thomas_, __Romance of Horn__ - Anglo-Norman (c. 1170)
 29. Anonymous, __Amis e Amilun__ - Anglo-Norman (c. 1190)
 32. _Marie de France_, __Lais__ (c. 1175)
 31. _Thomas of Britain_, __Tristran__ (c. 1180)
@@ -19,7 +25,7 @@
 46. Anonymous, __Alliterative Morte Arthure__ (c. 1400)
 47. _John Lydgate_, __Troy Book__ - selections (c. 1420)
 
-###Secondary Texts
+### Secondary Texts
 
 52. Frank __Kermode__, _Hoti's Business: Why Are Narratives Obscure?_ (1980)
 50. Susan __Crane__, _Insular Romance: Politics, Faith, and Culture in Anglo-Norman and Middle English Literature_ (1986)
@@ -28,9 +34,9 @@
 49. Helen __Cooper__, _The English Romance in Time: Transforming Motifs from Geoffrey of Monmouth to the Death of Shakespeare_ (2004)
 53. Alfred __Hiatt__, _Genre Without System_ (2007)
 
-##Major List: Vision (c.524-c.1422)
+## Major List: Vision (c.524-c.1422)
 
-###Primary Texts
+### Primary Texts
 
 1. _Boethius_, __De Consolatione Philosophiae__ (c. 524)
 2. _Alain de Lille_, __De Planctu Naturae__ (c. 1160)
@@ -49,7 +55,7 @@
 18. _Julian of Norwich_, __Revelations of Divine Love__ - long text (c. 1393)
 20. _Thomas Hoccleve_, __The Series__ (c. 1422)
 
-###Secondary Texts
+### Secondary Texts
 
 22. Alastair __Minnis__, _Affection and Imagination in 'Cloud of Unknowing' and Hilton's 'Scale of Perfection'_ (1983)
 25. James __Dean__, _Dismantling the Canterbury Book_ (1985)
@@ -61,9 +67,9 @@
 27. Eleanor __Johnson__, _English Law and the Man of Law's "Prose" Tale_ (2015)
 
 
-##Minor List: Continental Allegory
+## Minor List: Continental Allegory
 
-###Primary Texts
+### Primary Texts
 
 53. _Ibn Hazm_, __The Ring of the Dove__ (c. 1022)
 67. _Hugh of Saint Victor_, __Didascalicon de Studio Legendi__ (c. 1129)
@@ -82,7 +88,7 @@
 55. _Teresa de Cartagena_, __Admiraçión Operum Dey__ (c. 1450)
 64. _Alfonso de Palencia_, __Batalla Campal de los Perros y los Lobos__ (1457)
 
-###Secondary Texts
+### Secondary Texts
 
 73. Erich __Auerbach__, _Figura_ (1938)
 72. Henri __de Lubac__, _Medieval Exegesis: The Four Senses of Scripture_ (1959)
@@ -94,9 +100,9 @@
 71. David __Nirenberg__, _Aesthetic Theology and Its Enemies: Judaism in Christian Painting, Poetry, and Politics_ (2015)
  
 
-##Minor List: Language Arts and the Scriptorium
+## Minor List: Language Arts and the Scriptorium
 
-###Primary Texts
+### Primary Texts
 
 77. _Cambridge University Library MS Ee.3.59_, __La Estoire de Seint Aedward le Rei__ (c. 1260)
 85. _Paris BNF MS Fr. 9345_, __Illustrated Roman de la Rose__ (c. 1325)
@@ -109,7 +115,7 @@
 83. _London British Library Harley MS 4431_, __The Book of the Queen__ (c. 1414)
 81. _Oxford Bodleian Library MS Douce 104_, __Douce Piers Plowman__ (c. 1427) 
 
-###Secondary Texts
+### Secondary Texts
 
 91. Malcom __Parkes__, _The Influence of the Concepts of Ordinatio and Compilatio on the Development of the Book_ (1976)
 89. A.I. __Doyle__ and Malcom __Parkes__, _The Production of Copies of the Canterbury Tales and the Confessio Amantis in the Early Fifteenth Century_ (1978)
