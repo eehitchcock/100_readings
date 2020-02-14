@@ -1,4 +1,10 @@
-#Minor List: Continental Allegory
+---
+title: "Rationale for Minor List #2"
+date: May 2016
+author: G. E. Saretto
+---
+
+# Minor List: Continental Allegory
 
 - __Examiner__: Prof. Jesús Rodríguez Velasco
 
