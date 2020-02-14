@@ -1,4 +1,10 @@
-#Major List: The Middle English Canon between Romance and Vision (c. 1250-1420)
+---
+title: "Rationale for Major List"
+date: May 2016
+author: G. E. Saretto
+---
+
+# Major List: The Middle English Canon between Romance and Vision (c. 1250-1420)
 
 - __Examiners__
 
@@ -6,7 +12,7 @@
 
 	- Prof. Eleanor Johnson
 
-##Rationale
+## Rationale
 
 My primary intention while preparing this list has been to gain a more comprehensive understanding of what we currently regard as the Middle English canon. In order to consider the titles that constitute this canon in their original literary context, with a special focus on the changes occurring during the thirteenth and fourteenth century, I have have ordered them chronologically, emphasizing, when possible, the ways that they paralleled or even influenced each other. Moreover, I have attempted to include those titles that, in my opinion, I will be most likely to teach in the future. In shaping this canonical list, therefore, I have chosen works that are still frequently read and studied, either because they are widely regarded as influential examples in the period, or because they are still appreciated as outstanding pieces of literature today. Following this principle, I have included both texts that we ascribe to anonymous or disputed writers, like _Sir Orfeo_, _The Cloud of Unknowing_, _Pearl_ and _Sir Gawain_, and those whose authors we recognize as prominently identifiable literary figures, like Julian of Norwich or Geoffrey Chaucer. However, because this is meant to be an inclusive but not an exhaustive list, I have also decided to frame it around two broad literary categories that are often associated with the definition and the study of medieval literature in Middle English: the genre of "romance" and the tradition of "vision." Because the combination of these two terms, generally but not exclusively corresponding to the contrast between secular and religious writing, covers an extensive, malleable, and often overlapping body of forms and contents, this canon has been organized as a tentative answer to a preliminary set of questions.
 
